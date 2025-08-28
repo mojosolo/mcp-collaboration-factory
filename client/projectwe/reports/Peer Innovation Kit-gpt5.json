@@ -1,0 +1,83 @@
+{
+  "document": "Peer Innovation Kit.pdf",
+  "processedAt": "2025-08-14T01:10:08.650Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Structured extraction of key facts, concepts, stakeholders, and actionable insights\n\nOverview\n- Framework name: Peer Innovation\n- Purpose: Define and solve problems obstructing a team’s mission; create clarity for a desired future state.\n- Process format: 3 meetings aligned to a 6-step kit.\n\nProcess milestones (6-step kit)\n- 1. Identifying core issue\n- 2. Defining problem statement\n- 3. Generating new possibilities\n- 4. Testing/Prototyping\n- 5. Learning\n- 6. Declaring future state\n\nMeeting breakdown and steps\n\nMeeting #1 – Defining Problem Statement\n- Step 1: Identify the core issue\n  - Explore obstacles, challenges, and current reality\n  - Use a beginner’s mindset to probe what/how/why\n  - Use stories/analogies to surface issues\n  - Apply “5 Whys” to reach root cause/concern\n- Step 2: Define the problem statement\n  - Synthesize information from Step 1\n  - Align on the specific challenge and target/endgame\n  - Craft an actionable “How might we…” statement that:\n    - Narrows focus\n    - Inspires the team\n    - Supports innovation\n    - Engages stakeholders\n    - Is actionable, insightful, and valid\n- Step 3: Homework\n  - Generate candidate problem statements for next meeting\n\nMeeting #2 – Generating New Possibilities\n- Step 1: Ideate\n  - Gather ideas\n  - Share assessments\n  - Identify key assessments to explore\n  - Ground assessments in:\n    - Concern for the future\n    - Domain (specificity)\n    - Supporting assertions\n    - Shared standards\n  - Ask questions to uncover underlying concerns, not just issues\n- Step 2: Design a prototype/test/experiment\n  - Select appropriate audience\n  - Define the right questions\n  - Adapt during testing\n  - Invite user contributions\n  - Iterate\n- Step 3: Define roles, responsibilities, and desired outcomes for the prototype\n  - Leader\n  - Participants\n  - Measurements\n  - Reporting\n  - Data gathering\n  - Requests/Promises for the prototype\n  - Note: Use the Conversation for Results model to set clear Conditions of Satisfaction\n\nMeeting #3 – Interpret, Learn, Declare\n- Step 1: Gather data/input/assessments from the prototype\n  - What worked to keep?\n  - What’s in the way (limiters)?\n  - What do we need to shift or create?\n- Step 2: Decide on additional testing if needed\n- Step 3: Declare Future State (Declaration)\n  - Definition: Statement by someone with authority that defines a future state; changes the world from the moment it’s spoken.\n  - Criteria:\n    - Clearly communicates the intended future\n    - Provides compelling reasons to reach it\n    - Engages and energizes\n    - Includes clear Conditions of Satisfaction\n    - Leads to effective requests\n  - If commitment exists to proceed: see Project Launch Kit\n\nRoles and stakeholders\n- Leader: Holds authority to declare; sets Conditions of Satisfaction; makes requests; coordinates prototype roles.\n- Participants (team members): Ideate, test, gather/report data, contribute assessments.\n- Users/Test audience: Provide feedback and ideas during prototyping.\n- Stakeholders: Must be engaged by the problem statement and declaration; recipients of compelling reasons and requests.\n\nKey concepts and tools\n- Beginner’s mindset: Approach with curiosity; question assumptions.\n- 5 Whys: Root-cause inquiry technique.\n- Stories/analogies: Reveal underlying issues.\n- Assessments vs. assertions:\n  - Ground assessments in future concerns, domain specificity, supporting assertions, and shared standards.\n- Prototyping principles: Right audience, right questions, adapt, co-create with users, iterate.\n- Conversation for Results model: Used to define Conditions of Satisfaction and structure requests/promises.\n- Conditions of Satisfaction: Clear, testable criteria for success in testing and declarations.\n- Declarations: Authority-based future-state commitments that mobilize action.\n\nDeliverables",
+      "reasoningTokens": 1088,
+      "tokens": {
+        "input_tokens": 939,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1942,
+        "output_tokens_details": {
+          "reasoning_tokens": 1088
+        },
+        "total_tokens": 2881
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a concise, business-focused analysis of the strategic patterns and implications embedded in the Peer Innovation kit.\n\nStrategic themes\n- Problem-first, hypothesis-driven innovation: Root-cause discovery (5 Whys) + “How might we” reframing anchors work on real constraints and opportunities.\n- Fast learning loops: Ideate → prototype/test → learn → declare. This compresses time-to-insight and reduces waste.\n- Conversational governance: Requests/promises, Conditions of Satisfaction, and Declarations convert talk into accountable commitments.\n- Stakeholder co-creation: Explicitly involves users and cross-functional teams, improving adoption and reducing change friction.\n- Decision rights clarity: “Declaration” introduces authority and accountability for setting a future state (avoids endless consensus).\n- Evidence-based prioritization: Grounding assessments (concern/domain/assertions/standards) reduces bias and increases repeatability.\n\nCompetitive advantages (for organizations that adopt this)\n- Speed of learning and execution: Shorten cycle from problem identification to validated solution, enabling faster pivots than competitors.\n- Higher innovation hit rate: Prototypes and explicit Conditions of Satisfaction improve fit and reduce false positives.\n- Alignment at scale: Declarations + Conversation for Results create shared understanding and measurable commitments across silos.\n- Reduced coordination costs: Requests/promises mechanism clarifies dependencies and timelines, lowering rework and delays.\n- Cultural edge: Establishes norms of psychological safety, rigorous thinking, and shared standards—hard for competitors to replicate quickly.\n\nMarket opportunities\n- Verticals with complex stakeholders and high compliance or risk: Healthcare, financial services, government, enterprise IT, logistics.\n- Use cases: Strategy refresh, CX redesign, operational excellence, product discovery, transformation programs, M&A integration, R&D portfolio management.\n- Buyer personas: Heads of Strategy/Innovation, PMO, COO/Transformation leads, HR/L&D (for embedding as a capability), BU leaders.\n\nBusiness model insights (if productizing/commercializing the kit)\n- Positioning: “Innovation Operating System” that unifies discovery, decision rights, and execution discipline.\n- Offer structure:\n  - SaaS workflow: Track problem statements, HMWs, experiments, requests/promises, Conditions of Satisfaction, and Declarations. Integrate with Slack, Jira, Miro, Notion.\n  - Services: Facilitation for the three-meeting cadence; leadership coaching on declarations; certification for internal facilitators.\n  - Content/IP: Playbooks, templates, case libraries, industry-specific modules.\n  - AI copilot: Idea clustering, hypothesis generation, test design, KPI instrumentation, sentiment analysis from user tests.\n- Pricing and GTM:\n  - Land-and-expand: 6–8 week pilots with 3–5 teams, outcome-based case studies, then enterprise rollout.\n  - Pricing: Pilot facilitation ($25–75k); SaaS ($12–30/user/month + per-team run fee); certification ($1–3k per seat); enterprise license for unlimited teams.\n- Data moat:\n  - Benchmarks on cycle time to declaration, prototype success rates, promise reliability, and CoS attainment by industry.\n  - Pattern libraries of successful “How might we” frames and Declarations.\n\nOperating model implications\n- Portfolio cadence: Run the kit as a quarterly discovery ritual; feed validated bets into delivery/OKRs.\n- Decision governance: Define who can issue Declarations at which scope; tie them to funding and CoS.\n- Capability building: Train facilitators, coaches, and leaders in requests/promises, assessments/assertions, and Declarations.\n\nKey metrics to manage\n- Throughput and speed: Time from problem statement → prototype → declaration; number of cycles per quarter.\n-",
+      "reasoningTokens": 1216,
+      "tokens": {
+        "input_tokens": 938,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1969,
+        "output_tokens_details": {
+          "reasoning_tokens": 1216
+        },
+        "total_tokens": 2907
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Peer Innovation: Implementation Playbook\n\nPurpose\nEnable a team to define and solve problems blocking their Mission and declare a clear, energizing future state. This playbook translates your kit into concrete steps, agendas, tools, templates, and decision criteria.\n\nWho’s Involved\n- Sponsor/Decider: owns the Mission and can make declarations.\n- Facilitator: designs/runs sessions, protects process and timeboxes.\n- Scribe/Producer: captures artifacts and ensures follow-through.\n- Cross-functional Team (5–8 people): problem owners, executors.\n- Users/Stakeholders: customers, partners, or internal stakeholders to test with.\n- Prototyper/Designer and Analyst (as needed).\n\nSuggested Timeline\n- Week 0: Prep and data gathering.\n- Week 1: Meeting 1 – Define Problem Statement.\n- Week 2: Meeting 2 – Generate Possibilities and Design Prototype/Test.\n- Week 3: Run prototype/test.\n- Week 4: Meeting 3 – Interpret, Learn, Declare Future State. Transition to Project Launch.\n\nCore Artifacts You’ll Produce\n- Obstacles Map (themes + root causes)\n- Problem Statement(s) in How Might We format\n- Selection criteria and decision log\n- Prototype/Test Plan with Conditions of Satisfaction (CoS)\n- Roles and Requests/Promises (Conversation for Results)\n- Learning Report (what worked, limiters, shifts)\n- Declaration of Future State + success measures, timeline, governance\n\nPre-Work (Week 0)\n- Clarify Mission and boundaries: What’s in/out of scope, constraints, non-negotiables.\n- Gather existing evidence: metrics, feedback, support tickets, NPS/CSAT, prior attempts.\n- Stakeholder map: who cares, who decides, who’s impacted.\n- Logistics: schedule 3 meetings (90–120 minutes each), book rooms/links, confirm participants, assign roles.\n- Set up tools:\n  - Collaboration/Whiteboard: Miro, Mural, FigJam\n  - Docs/Repo: Google Drive/Notion/Confluence\n  - Tasks: Trello/Jira/Asana\n  - Prototyping: Figma, InVision, PowerPoint, Keynote\n  - Survey/Interview: Google Forms/Typeform, Zoom/Teams, Calendly\n  - Analytics: spreadsheet/Airtable for test data\n\nMEETING 1 – Define Problem Statement (90–120 mins)\nObjective: Identify core issue(s) and craft an actionable, inspiring problem statement.\n\nAgenda\n1) Opening and Psychological Safety (10 min)\n- Frame the Purpose and Mission.\n- Working",
+      "reasoningTokens": 1408,
+      "tokens": {
+        "input_tokens": 934,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1951,
+        "output_tokens_details": {
+          "reasoning_tokens": 1408
+        },
+        "total_tokens": 2885
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below are transformational insights that go beyond the steps and expose the deep leverage in the Peer Innovation kit—what will matter most over time, what patterns to watch, the paradigm shifts required, and where to push to get outsized results.\n\nMeta-clarity: what the kit really does\n- It’s a social technology that turns ambiguity into coordinated action by moving teams through three speech-acts: explore possibilities → make declarations → coordinate requests/promises. Its power lies less in ideation and more in changing how a team uses language to create reality.\n\nLong-term implications (capabilities you’ll build if you institutionalize it)\n- Faster sensemaking cycles: Teams learn to compress the time from “signal” → “experiment” → “decision,” compounding organizational learning.\n- Trust and reliability as assets: Clear requests/promises with Conditions of Satisfaction convert good intentions into dependable delivery, building institutional credibility.\n- Antifragility: Safe-to-fail prototypes repeatedly expose weak assumptions; failure becomes feedstock for smarter bets.\n- Portfolio discipline: Regularized cycles increase the throughput and quality of decisions, enabling a balanced portfolio (near-term fixes plus longer-horizon bets).\n- Language precision as infrastructure: Distinguishing assessments from assertions, and deploying declarations properly, reduces rework and politics over time.\n\nHidden patterns (what usually blocks progress and how the kit addresses it)\n- Solution-jumping: Teams jump to “what to build.” The 5 Whys and “How might we…” reframing re-anchor on the job-to-be-d",
+      "reasoningTokens": 1664,
+      "tokens": {
+        "input_tokens": 938,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1976,
+        "output_tokens_details": {
+          "reasoning_tokens": 1664
+        },
+        "total_tokens": 2914
+      }
+    }
+  ],
+  "cost": 0.08306625000000001,
+  "reasoningTokens": 5376
+}

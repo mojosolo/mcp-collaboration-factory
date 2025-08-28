@@ -1,0 +1,83 @@
+{
+  "document": "A8-Decision-Making Framework.pdf",
+  "processedAt": "2025-08-13T23:36:03.005Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here is a structured extraction of the document’s key facts, concepts, entities, stakeholders, and actionable takeaways.\n\nDocument overview\n- Type: Decision-making framework (template)\n- Purpose: Assess multiple options to support making effective, impactful tough decisions\n- Structure: 5-step process with prompts for evaluating options, prerequisites, future scenarios, learning needs, and an alternatives overview\n\nCore components (entities)\n- Steps:\n  1) Assess Options\n     - Assessments regarding X\n     - Assessments regarding Y\n     - Assessments about an alternative\n       - Opportunities this creates are…\n       - Concerns I have are…\n  2) Elements Needed to Decide\n     - What elements would need to be in place for me to make this decision…\n  3) New Possibilities\n     - Assessments of what the future could be with each option\n  4) Considerations Around Me and My Learning\n     - Considerations around my own learning that I need to consider\n  5) Alternatives Overview\n     - Option-specific considerations\n     - Overall considerations:\n       - Impact (to me and my family, business, etc.)\n       - Challenges to consider\n       - Anything that needs to be addressed\n- Options referenced: X, Y, and other alternatives (placeholders)\n- Analysis dimensions:\n  - Opportunities\n  - Concerns\n  - Required elements/prerequisites\n  - Future scenarios\n  - Learning considerations\n  - Impact, challenges, issues to address\n\nKey concepts\n- Options assessment: Compare distinct choices (X, Y, alternatives)\n- Opportunity/risk framing: Identify value created and concerns/risks per option\n- Preconditions: Define elements that must be in place before committing\n- Scenario thinking: Describe plausible futures for each option\n- Learning/growth: Identify personal capability or knowledge gaps relevant to the decision\n- Alternatives synthesis: Summarize option-specific considerations and cross-cutting factors\n- Impact analysis: Direct effects on self, family, business, etc.\n- Challenge and issue tracking: Anticipate obstacles and items to resolve\n\nStakeholders (explicit and implied)\n- Me (decision-maker)\n- My family\n- Business (company, team, or organization impacted)\n- Implied: customers/clients, partners, managers/board, regulators (not explicitly named; only “etc.” is stated)\n\nFacts and metrics\n- Explicit facts: The framework is a structured template with 5 steps and specific prompts\n- Explicit metrics: None provided (no numeric criteria or scales included)\n- Implicit evaluation criteria (non-numeric):\n  - Impact on key stakeholders (self, family, business)\n  - Opportunities versus concerns per option\n  - Feasibility based on required elements being in place\n  - Learning needs and readiness\n  - Challenges and unresolved issues\n\nSuggested decision metrics and fields to operationalize (optional additions; not in the original text)\n- Impact score per stakeholder (self/family/business): e.g., -2 to +2\n- Feasibility/readiness: % of prerequisites in place, or Red/Amber/Green\n- Risk level: Low/Medium/High with top 3 risks listed\n- Time to realize benefits: near-term vs long-term\n- Cost or resource requirement: rough order of magnitude\n- Confidence level in assumptions: Low/Medium/High\n- Learning effort: hours or timeframe to close skill/knowledge gaps\n\nActionable insights (how to use the framework)\n- Step 1: List all options (X, Y, others). For each, capture:\n  - Opportunities created\n  - Concerns/risks\n- Step 2: Identify prerequisites to enable a confident decision:\n  - Information to gather, approvals needed, budget, resources, timing, legal/compliance checks\n- Step 3: Draft future scenarios for each option:\n  - Best case, most likely, worst case; expected outcomes and indicators\n- Step 4: Document personal learning considerations:\n  - Skills/knowledge to acquire, advisors/mentors needed, training plans\n- Step 5: Build an alternatives overview:\n  - For each option: impact on self/family/business, key challenges, items to address\n  - Note overall considerations that cut across all options\n- Conclude: Rank options using your chosen criteria, define next actions, owners, and timelines to close gaps, then decide or set a decision date\n\nGaps and clarifications to resolve\n- Define explicit scoring criteria and weights (impact vs feasibility vs risk)\n- Establish decision deadline and decision owner(s)\n- Specify stakeholders beyond “me, my family, business” if applicable\n- Add a risk/mitigation log and an assumptions list\n- Determine evidence required to move from assessment to commitment (e.g., pilots, experiments)\n\nDeliverables produced by applying the framework\n- Option-by-option assessment sheets (opportunities, concerns)\n- Prerequisites checklist with status\n- Scenario summaries per option\n- Learning plan for the decision-maker\n- Alternatives overview",
+      "reasoningTokens": 960,
+      "tokens": {
+        "input_tokens": 329,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1987,
+        "output_tokens_details": {
+          "reasoning_tokens": 960
+        },
+        "total_tokens": 2316
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a concise, business-focused read of the strategic patterns and implications embedded in this decision-making framework.\n\nStrategic themes\n- Optionality and real options: Encourages comparing multiple paths, not defaulting to a single plan, preserving flexibility under uncertainty.\n- Capability gating and de-risking: Step 2 makes success conditions explicit (resources, partners, compliance), surfacing dependencies and execution risk early.\n- Scenario thinking: Step 3 forces future-state narratives, improving resilience and stress-testing assumptions.\n- Learning orientation: Step 4 recognizes capability gaps and leader development as part of strategy execution (change management built-in).\n- Stakeholder and systems view: Step 5 broadens impact assessment (family, business, customers, regulators), reducing blind spots and misalignment.\n- Portfolio mindset: Aggregates options with their specific considerations, enabling prioritization across a portfolio of bets.\n\nCompetitive advantages for adopters (org-level)\n- Higher decision quality and speed: Structure reduces analysis paralysis while making trade-offs explicit.\n- Bias reduction and traceability: Documented assessments and conditions create auditability and post-mortem learning.\n- Better capital allocation: Capability and challenge mapping channels investments to highest-leverage constraints.\n- Change readiness: Learning considerations embed upskilling and org design into the decision, improving execution success.\n- Alignment at scale: Standardized template enables cross-functional participation without losing rigor.\n\nMarket opportunities (if productized)\n- Target segments:\n  - Mid-market to enterprise strategy, product, and portfolio teams; PMOs; PE/VC operating groups.\n  - Regulated sectors (healthcare, financial services, energy) needing decision traceability.\n  - Scale-ups managing resource constraints and prioritization; public sector and NGOs for transparent decisions.\n- Use cases:\n  - Capital allocation and portfolio management; M&A and partnerships; market entry; AI/tech adoption; ESG/climate investments; operating model changes.\n- Ecosystem:\n  - Integrations with OKR/roadmap tools (Workday, Jira, Aha!, Notion), collaboration (Miro, Teams, Slack), and BI (Power BI, Tableau).\n  - Coaching/leadership development firms; boutique strategy consultancies; PMO software vendors.\n\nBusiness model insights\n- Core offering: SaaS decision-support workspace that operationalizes the steps (options capture, gating conditions, scenario planning, stakeholder impact).\n- Pricing/logic:\n  - Freemium/teams tier for bottoms-up adoption; enterprise tier with SSO, workflows, audit trails, and integrations.\n  - Professional services: facilitation, training, and customization.\n  - Certification program for facilitators; template marketplace by industry/use-case.\n- Data and moats:\n  - Decision “exhaust” creates a benchmark dataset (anonymized) on conditions, outcomes, and cycle times.\n  - Embedded workflows and integrations increase switching costs; community and certified facilitators extend reach.\n- Value-add analytics:\n  - Confidence and risk scoring; Monte Carlo scenario comparisons; sensitivity analyses on gating conditions; benchmark insights vs. peers.\n\nProduct and feature implications\n- Map to steps:\n  - Step 1: Multi-option canvas with structured prompts for opportunities/concerns; evidence linking and assumption tagging.\n  - Step 2: Capability gap analysis; preconditions checklist; dependency graph; auto-translate to OKRs or project plans.\n  - Step 3: Scenario builder with quantitative drivers and probabilistic outcomes; “plan B/C” branching.\n  - Step 4: Learning plan generator (skills, roles, partners) with cost/time impact.\n  - Step 5: Stakeholder impact matrix (customers, ops, finance, legal); risk register; one-page decision brief.\n- Collaboration/governance:\n  - Roles (D/R/A/C), decision logs, approval workflows, versioning, and post-decision reviews.\n  - Templates by industry and decision type; AI copilot to surface missing conditions or contradictory assumptions.\n\nRisks and mitigations\n- Adoption friction: Keep it lightweight; allow partial use; provide opinionated templates; strong onboarding and facilitation guides.\n- Too qualitative vs. too rigid: Offer both narrative prompts and quantitative scoring/weights; let teams tune rigor by decision type.\n- Integration gaps: Prioritize OKR, project, and messaging tools; offer APIs and webhooks.\n- Confidentiality/compliance: Enterprise-grade security, data residency, private workspace controls; clear anonym",
+      "reasoningTokens": 1088,
+      "tokens": {
+        "input_tokens": 328,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1986,
+        "output_tokens_details": {
+          "reasoning_tokens": 1088
+        },
+        "total_tokens": 2314
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a practical playbook you can use to implement the decision-making framework. It provides concrete steps, roles, tools, templates, and facilitation tips for both solo and team use.\n\nQuick-start overview\n- Clarify the decision: Write a one-sentence decision statement and a by-when date.\n- Classify the decision:\n  - Two-way door (reversible, low cost to change): Bias to action; use the “standard” process.\n  - One-way door (irreversible or costly): Use the “deep” process and involve stakeholders.\n- Prepare options: Start with X and Y; add at least one alternative or a hybrid.\n- Define criteria: Identify must-haves (pass/fail) and should-haves (weighted).\n- Collect data: Identify what facts you need; timebox research.\n- Build a decision matrix and run a pre-mortem before deciding.\n- Decide, document, and communicate. Set a review date and triggers to revisit.\n\nRoles and governance\n- Decision owner/Decider: Accountable for the final call.\n- Contributors/Advisers: Provide input, data, and challenge assumptions.\n- Approvers (if required): Legal, compliance, finance.\n- Informed stakeholders: People impacted; communicate after decision.\n- Use DACI or RAPID if helpful (Driver/Decider/Approver/Contributors/Informed).\n\nCadences and timeboxes\n",
+      "reasoningTokens": 1664,
+      "tokens": {
+        "input_tokens": 324,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1956,
+        "output_tokens_details": {
+          "reasoning_tokens": 1664
+        },
+        "total_tokens": 2280
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a sharpened, insight-rich decision framework you can use for high-stakes, ambiguous choices. It preserves your five steps but adds the deep reasoning layers you asked for: long-term implications, hidden patterns, paradigm shifts, and strategic leverage points. Use it as a one-page canvas or a conversation structure.\n\nUpgraded decision framework\n\n0) Frame the decision (meta-decision)\n- Decision type: Is it reversible (two-way door) or irreversible (one-way door)? How hard is it to undo?\n- Stakes × uncertainty: High–high decisions get more rigor; low stakes or reversible moves can be fast.\n- Default path: What happens if we do nothing? What is the cost of delay? What options decay over time?\n- Decision rights: Who decides, who is consulted, who is informed? What is the time-bound?\n- Success criteria: Define must-haves, nice-to-haves, guardrails, and “good enough” thresholds.\n- Value of more info: What data would change the decision? Is waiting worth it (EVPI logic)?\n\n1) Expand and assess options (design the decision, don’t just select)\n- Generate non-obvious options: status quo, partial, staged, partner/outsourcing, licensing, platform/ecosystem play, sequencing, geographic wedge, “do the opposite,” and “pre-commit and signal.”\n- For each option X, Y, etc.:\n  - Impact: On you/family, team, customers, business model, brand, environment.\n  - Confidence: Base rates, reference class, prior experience.\n  - Reversibility and regret: If wrong, how bad and how long?\n  - Option value and learning: What does this teach cheaply? Does",
+      "reasoningTokens": 1600,
+      "tokens": {
+        "input_tokens": 328,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1958,
+        "output_tokens_details": {
+          "reasoning_tokens": 1600
+        },
+        "total_tokens": 2286
+      }
+    }
+  ],
+  "cost": 0.08050625,
+  "reasoningTokens": 5312
+}

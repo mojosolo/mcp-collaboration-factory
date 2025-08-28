@@ -1,0 +1,85 @@
+{
+  "documentId": "99d763fa-30b3-415d-814f-87c30c3d5ace",
+  "documentName": "A8 Customer Quotes.pdf",
+  "tenant": "WEEXIT_PROJECT",
+  "sessionId": "7e81f064-fbe4-4cd5-878c-2bc5938fdcde",
+  "processedAt": "2025-08-13T15:48:11.161Z",
+  "cascadeScore": 0,
+  "totalCost": 0,
+  "totalTime": 6086,
+  "layers": {
+    "FOUNDATION": {
+      "model": "gpt-4o-mini",
+      "content": null,
+      "insights": [],
+      "metrics": {},
+      "reasoningTokens": 0,
+      "totalTokens": 0,
+      "processingTime": 516,
+      "cost": 0,
+      "rateLimits": {
+        "limitRequests": 30000,
+        "limitTokens": 150000000,
+        "remainingRequests": 29999,
+        "remainingTokens": 149999160,
+        "resetRequests": "2ms",
+        "resetTokens": "0s"
+      }
+    },
+    "STRATEGIC": {
+      "model": "gpt-4o-mini",
+      "content": null,
+      "insights": [],
+      "metrics": {},
+      "reasoningTokens": 0,
+      "totalTokens": 0,
+      "processingTime": 871,
+      "cost": 0,
+      "rateLimits": {
+        "limitRequests": 30000,
+        "limitTokens": 150000000,
+        "remainingRequests": 29999,
+        "remainingTokens": 149999162,
+        "resetRequests": "2ms",
+        "resetTokens": "0s"
+      }
+    },
+    "IMPLEMENTATION": {
+      "model": "gpt-4o",
+      "content": null,
+      "insights": [],
+      "metrics": {},
+      "reasoningTokens": 0,
+      "totalTokens": 0,
+      "processingTime": 271,
+      "cost": 0,
+      "rateLimits": {
+        "limitRequests": 10000,
+        "limitTokens": 30000000,
+        "remainingRequests": 9999,
+        "remainingTokens": 29999162,
+        "resetRequests": "6ms",
+        "resetTokens": "1ms"
+      }
+    },
+    "EVOLUTION": {
+      "model": "gpt-4o",
+      "content": null,
+      "insights": [],
+      "metrics": {},
+      "reasoningTokens": 0,
+      "totalTokens": 0,
+      "processingTime": 186,
+      "cost": 0,
+      "rateLimits": {
+        "limitRequests": 10000,
+        "limitTokens": 30000000,
+        "remainingRequests": 9999,
+        "remainingTokens": 29999157,
+        "resetRequests": "6ms",
+        "resetTokens": "1ms"
+      }
+    }
+  },
+  "recommendations": []
+}

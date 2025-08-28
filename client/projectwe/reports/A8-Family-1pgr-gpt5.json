@@ -1,0 +1,83 @@
+{
+  "document": "A8-Family-1pgr.pdf",
+  "processedAt": "2025-08-13T23:50:55.866Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Structured extraction\n\nDocument/source details\n- Title/program: Activ8 Your Family; tagline noted: “your power” (service mark)\n- Organizations: Activ8; Share Save Spend (collaboration partners)\n- Contact: Erik Gabrielson, email: erik@activ8-u.com, phone: 612.747.7556, website: www.activ8-u.com\n- Audience: Multi‑generational families (with assets, businesses, legacies), rising/next‑gen family members, parents, family service providers/advisors\n\nCore value proposition\n- Activ8 + Share Save Spend combine: meaning behind assets + values-based money decisions + behavior/communication change\n- Goal: Align family values with decisions, create clarity on direction, enable and sustain transformative change across generations\n\nKey concepts/themes (4 pillars)\n- Relationships: Improve family dynamics; increase transparency and candor; engage in challenging conversations; build trust; introduce resiliency tools; repair relationships after breakdowns; establish effective communication/collaboration\n- Enrichment: Clarify what matters and why; align goals/commitments; build cohesion; develop individual plans aligned to values/aspirations; create a roadmap to convert tools/experiences into clear actionable plans\n- Transitions: Address emotions around generational change; reframe resistance as fear of incompetence after change; build competency/comfort in each generation; establish governance frameworks to sustain values and provide oversight of shared interests\n- Ambition: Surface and align collective ambition of rising generations; create accountability and commitment to shared goals to inform major decisions and transitions\n\nMethods/tools referenced\n- Life principles and communication tools\n- Resiliency practices for conflict/repair\n- Family roadmap for actionable plans\n- Governance frameworks for values/oversight\n- Processes that foster transparency, candor, accountability\n\nOutcomes/benefits\n- Healthier family dynamics; families “get unstuck”\n- Deeper trust; improved collaboration and decision-making\n- Clarity of purpose and aligned commitments\n- Actionable, values‑aligned plans for individuals and the family\n- Competent, confident transitions with sustained governance\n- Visibility into next‑gen ambition to guide strategy and transitions\n- “Major breakthroughs” and enriched life experiences across generations\n\nStakeholders\n- Families: Parents/wealth creators; children/next‑gen; broader family members\n- Service providers: Family business advisors, wealth advisors, planners, attorneys (implied), other professionals supporting families\n\nPain points addressed\n- Stalled decisions and transactions due to family dynamics\n- Low transparency, difficult conversations avoided, eroding trust\n- Unclear priorities/goals; misalignment across members\n- Anxiety about generational transitions (fear of incompetence post-change)\n- Lack of governance to sustain values and oversee shared assets\n\nDifferentiators\n- Joint expertise: values-to-money alignment (Share Save Spend) + durable behavior/communication change (Activ8)\n- Emphasis on “meaning behind the assets,” not just technical planning\n- Structured roadmap and governance for sustained outcomes\n- Focus on resiliency and relationship repair, not only decision facilitation\n\nQuotes/testimonials\n- Family member: “We just came back from a family vacation and it was the best one ever. Our family has been transformed. We are never going back to the way it was.”\n- Service provider: “We are now able to get at strategies and implement recommendations that we have been trying to get at for over 5 years.”\n\nEntities and named items\n- Activ8 (company)\n- Share Save Spend (company)\n- Erik Gabrielson (contact person)\n- Program/tagline: Activ8 Your Family; “your power” (SM)\n\nMetrics and numbers present\n- “Four key ways” (pillars: Relationships, Enrichment, Transitions, Ambition)\n- “Over 5 years” (duration service provider struggled before this approach)\n- Contact phone: 612.747.7556\n\nImplied services/categories\n- Family governance and continuity planning\n- Values-based financial decision coaching/education\n- Communication, conflict resolution, and resiliency training\n- Next‑gen development and succession readiness\n- Strategic family goal setting and accountability\n- Facilitation of major family decisions and transactions\n\nActionable insights and next steps\n- For families\n  - Initiate a discovery call with Erik (email/phone) to scope family goals, key transitions, and pain points\n  - Map near-term and long-term transitions; identify where fear of “post-change incompetence” exists\n  - Run a quick diagnostic: transparency level, meeting cadence, decision bottlenecks, trust repair needs\n  - Co-create a family roadmap: values articulation, 12–18 month goals, commitments, owners,",
+      "reasoningTokens": 1024,
+      "tokens": {
+        "input_tokens": 905,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1990,
+        "output_tokens_details": {
+          "reasoning_tokens": 1024
+        },
+        "total_tokens": 2895
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a concise strategy readout based on the content.\n\nStrategic themes\n- From assets to meaning: Positions wealth as relational, behavioral, and values-driven, not just financial. The “why” precedes the “what.”\n- Intergenerational alignment: Explicit focus on transitions, competency building, and governance to move families from preservation to renewal.\n- Behavioral change as product: Tools, practices, and roadmaps that create durable shifts in communication, decision-making, and accountability.\n- De-risking family decisions: Unsticks high-stakes choices (succession, liquidity, philanthropy) by resolving relational bottlenecks.\n- Partnership-as-platform: The Activ8 + Share Save Spend collaboration blends family systems/change management with values-based money decisions.\n- Experience-led delivery: Retreats, facilitated conversations, and structured roadmaps that convert insight into action and habit.\n- Transparency and candor: Normalizes hard conversations and repairs; builds resiliency and trust as a capability.\n- Reframing resistance: “Fear of incompetence” insight drives an upskilling narrative—competency building becomes the antidote to transition anxiety.\n\nCompetitive advantages\n- Integrated capability: Unique combination of family dynamics coaching, behavioral finance, and governance—bridging “soft” and “hard” needs.\n- Outcome orientation: Roadmap deliverable and governance frameworks signal continuity beyond workshops; client quotes show stalled decisions unlocked.\n- Credibility signals: Testimonials from both family and service providers; collaboration with an established values-and-money brand.\n- Neutral facilitation: Trusted third-party role that mitigates intra-family triggers and advisor silos; helps advisors get recommendations implemented.\n- Repeatable pillars: Relationships, Enrichment, Transitions, Ambition provide a modular, productizable journey.\n- Trust and privacy ethos: Implicit, but central in this space; can be leveraged as a differentiator vs. purely financial advisors.\n\nMarket opportunities\n- Great Wealth Transfer: Rising demand among HNW/UHNW families for successor readiness, governance, and values alignment.\n- Family businesses: Succession, owner alignment, and board/governance design for operating companies and holdcos.\n- Advisor ecosystem: RIAs, family offices, trust companies, private banks, attorneys—B2B2C partnerships to “unstick” client engagements.\n- Philanthropy and impact: Values-to-portfolio translation (giving strategies, impact mandates, next-gen grantmaking committees).\n- Next-gen development: Financial education, leadership tracks, and entrepreneurship incubators for heirs and spouses.\n- Diverse family structures: Blended, cross-border, and multi-cultural families with more complex governance and communication needs.\n- Scaled affluent segment",
+      "reasoningTokens": 1408,
+      "tokens": {
+        "input_tokens": 904,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1947,
+        "output_tokens_details": {
+          "reasoning_tokens": 1408
+        },
+        "total_tokens": 2851
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a practical, end-to-end implementation guide that translates your approach into steps, processes, tools, and routines a family (and its advisors) can execute. It’s organized around the four pillars—Relationships, Enrichment, Transitions, Ambition—with an overall engagement blueprint, clear roles, cadence, tools, and metrics.\n\nOverall objectives and outcomes to target\n- Relationships: Higher trust and transparency; reduced conflict avoidance; faster, better decisions. KPI ideas: trust pulse score, decision latency (days), meeting effectiveness score, conflict resolution cycle time.\n- Enrichment: Individual clarity of values and goals; alignment of money decisions to values. KPI ideas: % members with a written life plan, % spending aligned to values buckets, progress on OKRs.\n- Transitions: Clear governance and decision rights; role readiness across generations. KPI ideas: documented governance, role competency attainment, succession milestones met.\n- Ambition: Visible pipeline of next-gen initiatives; shared commitments and accountability. KPI ideas: number of initiatives advanced, capital allocated to new ventures, cross-gen project teams formed.\n\nEngagement blueprint (12 months; adapt to family size/complexity)\nPhase 1: Discovery and Design (Weeks 1–6)\n- Stakeholder interviews: Conduct 1:1 60-minute interviews with all adult family members and key advisors. Use a consistent guide covering hopes, fears, decision pain points, past conflicts, and desired future state.\n- Diagnostics:\n  - Family history map/genogram (3 generations).\n  - Trust and candor pulse (short survey: safety, voice, repair, clarity).\n  - Money behaviors assessment (e.g., Money Habitudes or Klontz Money Scripts).\n  - Values card sort (Think2Perform, VIA Character Strengths) for each member.\n- Synthesis and design: Present a neutral synthesis of themes; co-design the engagement charter, goals, metrics, and success criteria.\n- Outputs: Engagement charter, measurement plan, confidentiality and transparency agreements, initial governance strawman.\n\nPhase 2: Relationship Foundations and Communication Skills (Weeks 7–14)\n- Designed family alliance: Establish norms for safety, candor, confidentiality, decision rules.\n- Training modules:\n  - Nonviolent Communication (NVC) basics.\n  - Feedback using SBI (Situation-Behavior-Impact).\n  - Repair protocol (Recognize–Responsibility–Repair).\n  - Effective meetings with ORID (Objective–Reflective–Interpretive–Decisional).\n- Practice cadence: Start monthly family council meetings with check-in/out routines and short practice segments.\n- Outputs: Communication charter, conflict protocol, meeting playbook.\n\nPhase 3: Enrichment and Roadmaps (Weeks 15–26)\n- Values-to-money alignment:\n  - Share Save Spend buckets: explicitly define categories and personal/family targets for Share (giving), Save (reserves/invest), Spend (joy and essentials), Grow (learning/skills), and Give (philanthropy/impact).\n  - Kinder’s 3",
+      "reasoningTokens": 1344,
+      "tokens": {
+        "input_tokens": 900,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1958,
+        "output_tokens_details": {
+          "reasoning_tokens": 1344
+        },
+        "total_tokens": 2858
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are transformational insights distilled from the material, with an emphasis on long-term implications, hidden patterns, paradigm shifts, and strategic leverage points you can use immediately.\n\nCore synthesis\n- The service is not primarily about money or conflict resolution. It is about upgrading the family’s operating system so that financial, relational, and governance decisions can be made with clarity and confidence across generations.\n- The engine of change is competency-building plus shared meaning. The pairing of values-to-money (Share Save Spend) with change capability (Activ8) closes the gap between “what we say we value” and “what we reliably do.”\n- Fear of incompetence is the core blocker in transitions. When this is named and addressed through practice, governance, and low-stakes reps, resistance drops and momentum becomes sustainable.\n\nLong-term implications\n- Multigenerational resilience: Families that build competence, transparency, and repair practices experience fewer succession failures, fewer costly disputes, and more adaptive responses to shocks (markets, health, leadership change).\n- Wealth as a capability multiplier: Financial capital becomes a training ground for developing human, social, and intellectual capital; next gens become builders and stewards rather than passive beneficiaries.\n- Decision velocity with integrity: Clear decision rights, aligned values, and practiced communication increase speed and quality of major decisions (investments, liquidity events, philanthropy, leadership appointments).\n- Reduced advisory waste: When the family can engage difficult issues, advisors’ recommendations move from shelfware to implementation, compounding ROI across planning, legal, and investment work.\n- Healthier family brand and talent magnetism: Strong internal culture and governance attract high-caliber spouses, advisors, and operating executives to the family enterprise.\n\nHidden patterns to surface and interrupt\n- Inertia disguised as prudence: “We need more analysis” often masks fear of looking incompetent. Antidote: staged practice, small pilots, and explicit skill-building.\n- False harmony: Avoiding conflict preserves short-term peace and long-term dysfunction. Antidote: normalize productive conflict with repair protocols and shared language.\n- Over-functioning founders, under-functioning heirs: Parents retain control; next gen doesn’t get reps. Antidote: progressive delegation with clear guardrails, apprenticeships, and chair rotations.\n- Advisor triangulation: Advisors become buffers for family tensions, slowing decisions. Antidote: joint sessions with advisors present, transparent decision logs, and a family liaison role.\n- Money scripts driving behavior: Scarcity, entitlement, or shame narratives go unnamed. Antidote: explicit money story work tied to concrete policies (allowances, distributions, investing rules).\n- Unclear “voice vs vote vs veto”: Participation without clarity breeds resentment. Antidote: decision-rights matrices and charters.\n\nParadigm shifts this approach enables\n- From asset-centric to meaning-centric: Shift from “How do we preserve capital?” to “What is the capital for, and what capabilities must we build to steward it?”\n- From event management to capability-building: Replace one-off retreats and plans with repeatable practices, metrics, and governance that outlast any individual.\n- From secrecy to appropriate transparency: Move from “protect via opacity” to “protect via competence and clarity,” sharing the right information at the right developmental",
+      "reasoningTokens": 1280,
+      "tokens": {
+        "input_tokens": 904,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1940,
+        "output_tokens_details": {
+          "reasoning_tokens": 1280
+        },
+        "total_tokens": 2844
+      }
+    }
+  ],
+  "cost": 0.08286625,
+  "reasoningTokens": 5056
+}

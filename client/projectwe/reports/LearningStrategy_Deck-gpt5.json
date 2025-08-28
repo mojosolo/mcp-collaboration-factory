@@ -1,0 +1,83 @@
+{
+  "document": "LearningStrategy_Deck.pdf",
+  "processedAt": "2025-08-14T01:01:35.151Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here is a structured extraction of key facts, metrics, entities, and actionable insights from the document “New Opportunities.”\n\nDocument metadata\n- Title: New Opportunities\n- Prepared for: Mojo Solo\n- Date: November 19, 2007\n- Author/Presenter: Peter Johnson (Strategist)\n- Stated aim: Create greater results through focused direction; Structure for Success (Business & Projects)\n- Closing maxim: “Live fascinated about the possibilities vs. in fear of the unknown... Enjoy the journey”\n\nCore definition\n- Strategy: A comprehensive, highly organized approach to work smarter rather than harder by doing the right things, at the right times, for the right reasons.\n\nImportant themes and principles\n- Learning is a journey, not an event.\n- Progress over perfection.\n- Sequence: first clarity and accuracy; second intense implementation.\n- Accountability/responsibility: “Operate above the line” vs. “below the line” (ownership vs. blame/denial).\n\nKey concepts and frameworks\n- Types of conversations\n  - Conversations for possibilities: speculative, idea generating.\n  - Conversations for results: making choices, setting direction, coordinating action.\n\n- Performance gap in strategy execution\n  - Average team achieves only 63% of strategic plan objectives.\n  - Primary drivers: communication quality, alignment on top initiatives, integration of short- and long-term plans, and accountability mechanisms.\n\n- Trust model (trust is an observable assessment)\n  - Sincerity: private and public conversations align.\n  - Competence/Capacity:\n    - Capability: willingness, knowledge, skills.\n    - Capacity: time, resources, workload.\n  - Reliability: historical performance over time.\n\n- Stages of learning / levels of competency\n  - Beginner, Novice, Competent, Proficient, Expert, Master/Teacher.\n  - Awareness/Choice Point distinguishes Unconscious Incompetence from higher functioning.\n  - Negative archetypes highlighting risks: Bull in a China Shop, Pretender, Jerk.\n\n- Change and learning dynamics\n  - Enemies of learning/change: inability to say “I don’t know,” need to always be clear, confusing knowing with opinions, addiction to novelty, addiction to answers, desire for comfort, over-emphasis on technical questions, fixed-identity belief (“I cannot learn given who I am”).\n  - Responses to change:\n    - Assessments: “We’ll be damaged” vs. “This is an opportunity.”\n    - Declarations: resist vs. embrace and contribute.\n  - Sources of change:\n    - Assessments: address a gap or seize an opportunity.\n    - Declarations: start something new or stop something ongoing.\n  - Emotions triggered by change:\n    - Resistance: fear (of unknown), anger, anxiety, resentment, mistrust, resignation, grief, reservation.\n    - Forwarding: excitement, anticipation, optimism.\n\n- Speech acts and judgments\n  - Assertions: statements verifiable by measurable evidence (events, facts).\n  - Assessments: interpretations/opinions; should be grounded to be useful.\n  - Declarations: authoritative commitments that shape possibilities and create new realities.\n\n- Grounding assessments (how to make interpretations useful)\n  - Define purpose (for the sake of what?).\n  - Specify the domain (context).\n  - Identify recurrent behaviors as assertions.\n  - Establish standards.\n  - Test if the opposite assessment could also be grounded.\n\n",
+      "reasoningTokens": 1280,
+      "tokens": {
+        "input_tokens": 961,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1978,
+        "output_tokens_details": {
+          "reasoning_tokens": 1280
+        },
+        "total_tokens": 2939
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are the strategic patterns and business implications embedded in the content, organized around themes, competitive advantages, market opportunities, and business model insights.\n\nStrategic themes\n- Execution as a differentiator: The 63% strategy-execution statistic frames execution discipline as the largest unlock. Emphasis on clarity first, intense implementation second, and explicit accountability is an execution-first strategy.\n- Two-mode operating system: “Conversations for possibilities” (explore) and “conversations for results” (exploit) formalize switching between divergent and convergent modes. This reduces idea-to-execution friction and decision latency.\n- Trust as operating capital: Trust is decomposed into sincerity, competence/capacity, and reliability; this enables deliberate design of team norms and delivery practices to compound credibility with customers and partners.\n- Learning culture for adaptability: “Learning is a journey; progress not perfection; enemies of learning” drives a deliberate culture that normalizes uncertainty (“I don’t know”), accelerates feedback, and improves change resilience.\n- Promise management as process: The request→negotiation→conditions of satisfaction→performance→status loop operationalizes commitments. It converts vague goals into testable, trackable promises.\n- Evidence-based decisions: Distinguishing assertions, assessments, and declarations anchors decisions in facts, makes assumptions explicit, and enables reversible/irreversible decision handling.\n- Change posture: Treating change via assessments and declarations turns reactions into designed responses; surfacing emotions and beliefs reduces hidden resistance and speeds adoption.\n\nCompetitive advantages if you operationalize this\n- Higher strategy yield: Moving from 63% to 80–90% of objectives achieved creates direct economic advantage. Example: on a $10M strategic value plan, raising yield from 63% to 85% = +$2.2M realized value.\n- Speed and reliability: Promise management and capacity-aware commitments increase on-time delivery and reduce rework; faster decision-to-delivery cycle time becomes a moat in dynamic markets.\n- Trust-driven growth:",
+      "reasoningTokens": 1536,
+      "tokens": {
+        "input_tokens": 960,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1945,
+        "output_tokens_details": {
+          "reasoning_tokens": 1536
+        },
+        "total_tokens": 2905
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a practical, step-by-step implementation playbook that converts the concepts into concrete processes, templates, cadences, and tools. It’s designed to improve focus, alignment, trust, and delivery so your team consistently achieves results.\n\n1) 90-Day Rollout Plan (phased, timeboxed)\nPhase 1: Diagnose and Align (Weeks 1–2)\n- Deliverables\n  - Strategy narrative (1–2 pages): Purpose, where-to-play, how-to-win, strategic themes.\n  - Top 3–5 company objectives with measurable key results (OKRs).\n  - Current-state assessment: capacity, major promises in-flight, risks, trust and reliability baseline.\n- Workshops\n  - Strategy and OKR workshop (3 hours): Agree “doing the right things, at the right times, for the right reasons.”\n  - Conversations design workshop (2 hours): Define where/when we ideate vs commit.\n- Tools\n  - Single source of truth (Notion/Confluence) with pages: Strategy, OKRs, Roadmap, Promise Log, Decision Log, RAID.\n  - Project/Task tool (Asana/Jira/Trello) configured with Backlogs and Sprints.\n\nPhase 2: Build the System (Weeks 3–4)\n- Deliverables\n  - Promise Management process live (see Section 4).\n  - Meeting/cadence calendar published (Section 3).\n  - Templates deployed (Section 7).\n  - Trust norms and “above the line” behaviors codified (Section 5).\n  - Capacity model and load limits per person/team.\n- Tools\n  - Dashboards: OKR tracker, Promise Reliability, On-time Delivery, Capacity Utilization.\n  - Automation: Status reminders, due-date nudges, weekly roll-ups.\n\nPhase 3: Execute and Learn (Weeks 5–12)\n- Deliverables\n  - Run the cadences; publish weekly status, monthly learnings.\n  - First After-Action Review (AAR) at week 8 and a Quarterly Business Review (QBR) in week 12.\n  - Skill-building plan by role mapped to competency stages (Section 6).\n- Targets\n  - >90% of active promises have explicit Conditions of Satisfaction.\n  - <15% work-in-progress beyond capacity.\n  - >80% OKR KRs with a clear leading indicator.\n\n2) Strategy to Execution Flow (line-of-sight)\n- Strategy narrative → 3–5 Strategic Themes (e.g., Customer Acquisition, Product Quality, Operational Excellence).\n- OKRs per theme (quarterly). Example:\n  - Objective: Increase customer activation.\n  - KRs: Activation rate 35% → 50%; Onboarding time 14 → 7 days; NPS in first 30 days 30 → 45.\n- Portfolio → Programs → Projects → Tasks\n  - Each project must map to a KR. If not, it’s paused or killed.\n- Guardrails\n  - Limit active strategic projects to capacity (no more than 2–3 per team simultaneously).\n  - Adopt “Definition of Ready” and “Definition of Done” for all projects.\n\n3) Conversations System (don’t mix possibility with commitment)\n- Conversations for Possibilities (discovery)\n  - Purpose: Generate options, explore, learn.\n  - Cadence: Weekly Ideation Hour.\n  - Rules: No commitments; outcome is insights, options, and prioritized discovery backlog.\n- Conversations for Results (delivery)\n  - Purpose: Make choices, set direction, coordinate action.\n  - Cadence:\n    - Weekly Planning (60–90 min): choose commitments for the week; confirm Conditions of Satisfaction (CoS).\n    - Daily Standup (15 min): progress, risks, requests for help.\n",
+      "reasoningTokens": 1216,
+      "tokens": {
+        "input_tokens": 956,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1996,
+        "output_tokens_details": {
+          "reasoning_tokens": 1216
+        },
+        "total_tokens": 2952
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Executive synthesis\nThis deck points to a shift from “strategy-as-plan” to “strategy-as-coordination of language, trust, and commitments.” The chronic execution gap (teams hit ~63% of plan) is less a planning problem than a breakdown in four invisible systems: how we make meaning (assessments vs assertions), how we make promises, how we generate and maintain trust, and how we metabolize change and learning.\n\nHidden patterns that quietly govern outcomes\n- Counterfeit clarity: Teams confuse assessments/opinions with assertions/evidence. Decisions get justified by ungrounded narratives; rework and churn follow.\n- Counterfeit commitments: People say “yes” without capacity, conditions of satisfaction, or renegotiation norms. Reliability decays and trust erodes.\n- Conflated conversations: Idea generation and decision/coordination happen in the same meeting; possibility language muddies result language.\n- Capacity blindness: Leaders assess competence but not capacity; overloaded teams appear agreeable yet under-deliver.\n- Enemies of learning masquerade as strengths: “Having",
+      "reasoningTokens": 1728,
+      "tokens": {
+        "input_tokens": 960,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1947,
+        "output_tokens_details": {
+          "reasoning_tokens": 1728
+        },
+        "total_tokens": 2907
+      }
+    }
+  ],
+  "cost": 0.08345625000000001,
+  "reasoningTokens": 5760
+}

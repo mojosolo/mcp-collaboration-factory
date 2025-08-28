@@ -1,0 +1,83 @@
+{
+  "document": "A8-Project Launch Kit.pdf",
+  "processedAt": "2025-08-14T00:19:04.007Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are the key facts, metrics, entities, and actionable insights extracted from the document, organized for quick use.\n\nDocument metadata\n- Title: Project Launch Kit\n- Purpose: Ensure clarity, buy-in, alignment, and momentum when launching mission-critical projects.\n\nCore components (artifacts to produce)\n- Team Mission and Purpose\n- Conditions of Satisfaction/Objectives\n- Team Leader\n- Team Name\n- Team Roles (includes Process Owner)\n- Team Values (select top 5 + rationale)\n- Shared Team Standards (behavioral norms)\n- Team Commitments\n- Members Agreement\n- Team Maintenance Plan\n- Meeting Schedule\n- Plan of Action\n- Project/Mission boundaries (unacceptables)\n\nFrameworks and checklists\n- Project Launch Checklist: The above artifacts serve as the checklist for launch readiness.\n- Project/Mission Launch (WHAT/WHY/HOW): Define Mission, Purpose, Leader, Team Name, Conditions of Satisfaction (at least five), Mission boundaries, Roles (including Process Owner).\n\nHigh-performance teams\n- Characteristics of Highly Successful Teams (7)\n  1) Results are declared up front.\n  2) Individuals are committed to the team result.\n  3) Strong leadership is present.\n  4) Open communication/suggestion is allowed and encouraged.\n  5) Practices and policies are developed and committed to by the team.\n  6) Team members believe and acknowledge their presence on the team matters.\n  7) Entire team is committed to an agreed-upon standard of excellence.\n\n- Actions Required to Build a High-Performance Team (6)\n  1) Each individual commits to being part of the team—with enthusiasm.\n  2) Commit to a shared, ultimate goal that takes precedence over personal preferences.\n  3) Establish leadership practices that encourage and empower team members to act.\n  4) Team members are open-minded and curious; commit to listen to requests.\n  5) Encourage concerns and handle them within team commitments.\n  6) All project participants provide feedback that includes encouragement, support, and appreciation.\n\nShared team standards (behavioral norms)\n- Tell the Truth: Respect confidentiality; avoid triangulation; avoid gossip; be truthful to self and others.\n- Full Disclosure: Disclose all relevant facts within the team.\n- Win/Win: Seek outcomes where all parties benefit; avoid zero-sum approaches; recognize that Win/Lose leads to Lose/Lose.\n- Commitments: Do what you say you will do, when you say you will do it.\n- Being in Integrity: External actions match internal values.\n- Honoring Rules: Honor ground rules; negotiate changes if needed or choose a different game to keep focus on purpose.\n- Full Participation: Release positions that hinder full participation; bring your whole self.\n- Eliminate Backlog: Keep inner/outer environment free of procrastinated tasks and unfinished communications (do, date, or dump).\n- Ownership Mindset: Operate from “I attract what occurs; if it is to be, it is up to me.”\n\nTeam values (selection framework)\n- Instruction: Identify top 5 values and explain why they’re critical to team success.\n- Provided value options (20 total):\n  • Awareness • Choice • Accountability • Honesty • Integrity • Trust • Collaborative • Results Oriented • Compassion • Flexibility • Willingness to take risks • Decisiveness • Consistency • Quality • Excellence • Accuracy of information • Dependability • Motivated • Influential • Creativity\n\nRoles and stakeholders\n- Team Leader: Accountable for guiding mission, leadership practices, and empowering team.\n- Team Members: Commit to shared goal, open communication, feedback, and standards.\n- Process Owner: Role listed within Team Roles; responsible for process oversight and adherence.\n- Broader stakeholders: Implied by “win, you win, we win, they win, the Planet wins” (multi-stakeholder impact focus).\n\nKey metrics and structured elements to define\n- Conditions of Satisfaction/Objectives: List at least 5 measurable objectives.\n- Values: Select top 5 values with rationale (from a list of 20).\n- Standards: Adopt and enforce the shared standards (9 norms outlined).\n- Boundaries/Unacceptables: Enumerate constraints and non-negotiables.\n- Schedules/Plans: Meeting schedule and Plan of Action with owners and timelines.\n- Commitments: Explicit, time-bound commitments by team members.\n- Maintenance: Team Maintenance Plan for ongoing health and continuous improvement.\n\nConcepts and principles\n- Clarity up front: Declare results, purpose, and standards early.\n- Psychological safety: Encourage open communication, disclosure, and feedback.\n- Integrity and reliability: Do what you say; align behavior with values.\n- Systems view: Multi-stakeholder win/win; avoid zero-sum thinking.\n- Ownership: Individuals take responsibility for outcomes and clearing backlogs.\n\nActionable insights and next steps\n- Run a Project Launch Workshop:\n  - Define Mission (WHAT), Purpose (WHY), Approach (HOW), and Team Name.\n  - Identify Team Leader and Process Owner; clarify all roles and RACI if needed.\n  - Draft 5+ Conditions of Satisfaction with measurable acceptance criteria.\n  - List mission boundaries/unacceptables (e.g., budget caps, regulatory constraints, quality floors).\n  - Select top 5 values from the provided list; document “why” for each.\n  - Adopt team standards; convert them into explicit behavioral agreements.\n  - Create Members Agreement capturing commitments, feedback norms, and meeting etiquette.\n  - Build the Plan of Action: deliverables, owners, due dates, dependencies, and risks.\n  - Establish Meeting Schedule (cadence, duration, purpose, decision rights).\n  - Create a Team Maintenance Plan (retros cadence, health checks, conflict resolution process).\n\n- Embed accountability:\n  - Track commitments and Conditions of Satisfaction in a visible dashboard.\n  - Use “do/date/dump” to manage task/communication backlogs.\n  - Incorporate a “win/win check” in decision-making templates.\n\n- Culture operationalization:\n  - Translate each standard into 1–2 observable behaviors and 1 consequence for non-adherence.\n  - Train on open communication, feedback (including appreciation), and concern-handling protocols.\n\nGaps/placeholders to be filled by the team\n- Team Mission, Purpose, Leader, Name.\n- Conditions of Satisfaction (5+), with metrics.\n- Team Roles and Process Owner assignment.\n- Top 5 Values and rationales.\n- Mission boundaries/unacceptables.\n- Members Agreement, Commitments, Maintenance Plan.\n- Meeting Schedule and Plan of Action (tasks, owners, timelines).\n\nSummary\nThis kit is a structured template to launch critical projects by defining mission, measurable objectives, roles, values, behavioral standards, commitments, boundaries, and operating rhythms, supported by a high-performance team framework and explicit actions to build team effectiveness.",
+      "reasoningTokens": 512,
+      "tokens": {
+        "input_tokens": 1029,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1919,
+        "output_tokens_details": {
+          "reasoning_tokens": 512
+        },
+        "total_tokens": 2948
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are the strategic patterns and business implications embedded in the Project Launch Kit, organized around strategy, competitive advantage, market opportunities, and business model insights.\n\nStrategic themes\n- Front-loaded alignment as risk mitigation: Explicit “conditions of satisfaction,” “unacceptables,” roles, and process ownership reduce ambiguity, scope creep, and rework.\n- Values as an operating system: Codified behaviors (Tell the Truth, Full Disclosure, Win/Win, Commitments, Integrity) create trust and predictability, accelerating decision cycles and execution.\n- Empowered, accountable teams: Strong leadership with open suggestion channels and explicit commitments encourages autonomy while maintaining standards.\n- Standardization at scale: A repeatable launch ritual (charter, standards, maintenance plan) supports consistent outcomes across cross-functional programs and geographies.\n- Continuous feedback and psychological safety: Encouraged concerns and",
+      "reasoningTokens": 1792,
+      "tokens": {
+        "input_tokens": 1028,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1968,
+        "output_tokens_details": {
+          "reasoning_tokens": 1792
+        },
+        "total_tokens": 2996
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Project Launch Kit – Implementation Guide\n\nWhat you will produce (core artifacts)\n- One-page Project Charter: Mission, Purpose/Why, Team Name, Team Leader, Sponsor, boundaries/unacceptables, success criteria, high-level plan.\n- Conditions of Satisfaction (CoS): 3–7 measurable objectives with acceptance tests and owners.\n- Roles and RACI/DACI: Who leads, who decides, who is consulted/informed for key domains.\n- Team Values translated into behaviors: 3–5 values with “we will” behaviors and how we’ll measure them.\n- Shared Team Standards and Working Agreement: concrete norms for truth-telling, full disclosure, commitments, integrity, honoring rules, win/win.\n- Member Commitment Agreement: signed by all team members.\n- Plan of Action: 30-60-90 day plan, milestones, deliverables.\n- Cadence and Maintenance Plan: meeting schedule, retrospectives, metrics reviews, onboarding/offboarding.\n- Governance: decision-making and escalation process, change control, risk/issue management (RAID), decision log, stakeholder comms plan.\n- Tooling setup: collaboration, planning, documentation, dashboards.\n\nRecommended timeline and roles (2 weeks total)\n- Roles: Sponsor, Team Leader, Facilitator/Project Manager, Process Owner(s), Tech/Workstream Leads, Recorder/PMO, Representatives of key stakeholders.\n- Week 1\n  - Day 1–2: Sponsor alignment (scope, purpose, success, constraints).\n  - Day 3: Pre-work commissioning to team (read-ahead, context).\n  - Day 4: Launch Workshop Part 1 (Mission, Why, CoS).\n- Week 2\n  - Day 1: Launch Workshop Part 2 (Roles, Values, Standards, Boundaries).\n  - Day 3: Launch Workshop Part 3 (Plan of Action, Cadence, Governance).\n  - Day 4–5: Finalize artifacts, publish, obtain signatures/approvals.\n\nLaunch Workshops – agendas and exercises\nWorkshop Part 1 (2.5–3 hours): Define What and Why\n- Opening (10 min): Sponsor sets intent, constraints, and non-negotiables.\n- Mission drafting (30 min): Small-group drafts; converge to one statement that answers who we serve, what we deliver, by when.\n- Purpose/Why (20 min): Document organizational impact and customer outcomes. Use “So that…” statements.\n- Conditions of Satisfaction (60 min):\n  - Brainstorm candidate objectives.\n  - Convert to SMART with acceptance tests. Example: “Launch MVP to 500 beta users by Nov 30; acceptance: >20% 30-day retention and NPS ≥ 30.”\n  - Prioritize top 3–7; assign owners; define leading indicators.\n- Boundaries/unacceptables (20 min): List constraints (budget, timelines, compliance, quality), and explicit unacceptables (e.g., scope changes without change control; undisclosed risks; missed commitments without advance notice).\n- Decision preview (10 min): Agree the decision-making model (e.g., DACI/consent) to use going forward.\n\nWorkshop Part 2 (2 hours): Who and How We’ll Work\n- Team roles and RACI/DACI (45 min):\n  - Define key domains (Vision, Delivery, Quality, Security, Customer, Operations, Budget, Change Control).\n  - Assign D/A/C/I for each domain. Clarify single Accountable where possible.\n- Team values to behaviors (40 min):\n  - Select 3–5 values from the list (e.g., Accountability, Honesty, Trust, Excellence, Collaboration).\n  - For each, define 2–3 observable behaviors and a measure. Example: Honesty → “Raise red flags within 24h; measure: time-to-escalation median <24h.”\n- Shared standards and working agreement (30 min):\n  - Translate the provided standards into “we will” statements. Examples:\n    - Tell the truth: “We will state facts and assumptions separately; no triangulation; address issues directly within 48h.”\n    - Commitments: “We will not commit without capacity check; if at risk, we inform owner ≥24h before due date and renegotiate.”\n    - Hon",
+      "reasoningTokens": 1088,
+      "tokens": {
+        "input_tokens": 1024,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1968,
+        "output_tokens_details": {
+          "reasoning_tokens": 1088
+        },
+        "total_tokens": 2992
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Transformational synthesis: what this kit is really doing, why it works long-term, and where the highest leverage lies\n\nCore insight\n- This kit is a social-technology for turning intent into coordinated action at speed. It works by engineering the conversations, commitments, and constraints",
+      "reasoningTokens": 1920,
+      "tokens": {
+        "input_tokens": 1028,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1980,
+        "output_tokens_details": {
+          "reasoning_tokens": 1920
+        },
+        "total_tokens": 3008
+      }
+    }
+  ],
+  "cost": 0.08348625000000001,
+  "reasoningTokens": 5312
+}

@@ -1,0 +1,57 @@
+{
+  "documentId": "19168c0b-8999-42c4-913c-fb2cb4c8c1d7",
+  "documentName": "A8-Methodology Summary.pdf",
+  "tenant": "WE_BRAIN_041524",
+  "sessionId": "b96daa90-cfd4-455f-8fca-f040ead8c732",
+  "processedAt": "2025-08-13T15:19:21.172Z",
+  "cascadeScore": 0,
+  "totalCost": 0,
+  "totalTime": 5380,
+  "layers": {
+    "FOUNDATION": {
+      "model": "gpt-5-nano",
+      "content": null,
+      "insights": [],
+      "metrics": {},
+      "reasoningTokens": 0,
+      "totalTokens": 0,
+      "processingTime": 601,
+      "cost": 0,
+      "rateLimits": {}
+    },
+    "STRATEGIC": {
+      "model": "gpt-5-mini",
+      "content": null,
+      "insights": [],
+      "metrics": {},
+      "reasoningTokens": 0,
+      "totalTokens": 0,
+      "processingTime": 264,
+      "cost": 0,
+      "rateLimits": {}
+    },
+    "IMPLEMENTATION": {
+      "model": "gpt-5",
+      "content": null,
+      "insights": [],
+      "metrics": {},
+      "reasoningTokens": 0,
+      "totalTokens": 0,
+      "processingTime": 277,
+      "cost": 0,
+      "rateLimits": {}
+    },
+    "EVOLUTION": {
+      "model": "gpt-5",
+      "content": null,
+      "insights": [],
+      "metrics": {},
+      "reasoningTokens": 0,
+      "totalTokens": 0,
+      "processingTime": 134,
+      "cost": 0,
+      "rateLimits": {}
+    }
+  },
+  "recommendations": []
+}

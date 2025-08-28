@@ -1,0 +1,83 @@
+{
+  "document": "Sample Family Enterprise.pdf",
+  "processedAt": "2025-08-14T01:14:52.314Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here is a structured extraction of key facts, entities, timelines, dependencies, and actionable items from the provided document.\n\nDocument context\n- Purpose: Family engagement work product examples focused on governance, estate planning, financial distributions, family foundation, and family dynamics across generations (G1, G2, G3).\n- Confidentiality: Marked Private & Confidential.\n\nKey entities\n- Organizations/Structures:\n  - XXX Corporation\n  - XXX Family Foundation\n  - Family Enterprise (mission/scope/expectations under development/activation)\n  - Trusts (including a new Estate Plan and G3 Trust)\n- Agreements/Processes:\n  - Buy-Sell Agreement (for XXX Corporation)\n  - Valuation process (underway; informs buy-sell)\n  - Insurance (signed by two redacted parties)\n- Stakeholder groups:\n  - Generations: G1, G2, G3\n  - Trustees: existing and a second Trustee to be identified\n- People placeholders:\n  - Multiple references to “XXX” as leads, signatories, and coordinators (names redacted)\n  - One “XXX” has set office hours: Tuesdays and Thursdays.\n\nWorkstreams: status and next steps\n- Buy-Sell Agreement (XXX Corporation)\n  - Status: Valuation underway; will be the basis for the buy-sell agreement.\n  - Timeline: Negotiate after valuation; before a recognition event tentatively in early December.\n  - Cadence: Office hours communicated (Tuesdays and Thursdays).\n  - Next steps: XXX to complete valuation; support Trust Insurance and buy-sell process; negotiate terms pre-December event.\n- Operating/Governance clarity\n  - Status: Plans at a point for review.\n  - Next steps: Present governance plans for review; clarify roles and structure.\n- Financial Distributions\n  - Status: Pending outcome of buy-sell; will be informed by company cash-flow needs and family considerations.\n  - Dependencies: Valuation/buy-sell completion; cash-flow modeling.\n- Estate Planning/Trusts (includes G3 Trust)\n  - Status: Insurance signed by two parties (XXX and XXX). Working to confirm trust structure, G1 liquidity needs, and identify second Trustee.\n  - Timeline: Target completion for trust documents/administration by July.\n  - Next steps: Review/refine trust documents and administration; finalize G1 liquidity needs; appoint second Trustee.\n- Financial Independence (Gen 2) – Financial Planning & Wellbeing\n  - Status: Clarity on distributions provided (to be specified); focus on financial wellbeing/planning for Gen 2.\n  - Next steps: Continue financial planning and wellbeing initiatives for G2.\n- Mortgages\n  - Status: Pending financial distribution decisions.\n  - Dependencies: Outcomes of distributions and cash-flow planning.\n- XXX Family Foundation – Mission/Scope/Engagement\n  - Status: Move forward with G1/G2 board structure; XXX working with XXX on G2/G3 engagement plan.\n  - Next steps: Integrate G2 into the board; develop and launch a G3 engagement plan.\n- G3 Engagement\n  - Status: To be developed as part of foundation and broader family enterprise engagement.\n- Family Enterprise – Mission/Scope/Expectations\n  - Status: Begin operating as outlined; move from forming",
+      "reasoningTokens": 1280,
+      "tokens": {
+        "input_tokens": 875,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1960,
+        "output_tokens_details": {
+          "reasoning_tokens": 1280
+        },
+        "total_tokens": 2835
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "High-level read: This content shows a family enterprise moving from founder-centric to institutional, multi-generational governance in parallel with a near-term liquidity/recognition event. Two reinforcing levers are at work: financial structuring (buy-sell, trusts, insurance, distributions) and social structuring (governance, communication norms, next‑gen engagement). That combination can produce durable advantage if executed with discipline.\n\nStrategic themes\n- Institutionalization and de-risked transition: Formal buy-sell tied to third-party valuation, updated estate/trust architecture, and insurance funding to depersonalize ownership changes and reduce litigation/negotiation risk.\n- Governance clarity and operating cadence: Movement from “forming” to “operating,” with defined roles, office hours, and board structures (enterprise and foundation) to speed decisions and reduce triangulation.\n",
+      "reasoningTokens": 1792,
+      "tokens": {
+        "input_tokens": 874,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1967,
+        "output_tokens_details": {
+          "reasoning_tokens": 1792
+        },
+        "total_tokens": 2841
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a practical, step-by-step implementation guide organized by workstream, with processes, tools, owners, and timelines. Adapt the names/roles (marked with XXX) as needed.\n\nProgram governance and cadence\n- Standing roles\n  - Executive sponsor: G1 lead (XXX)\n  - Program manager (PMO): designate one coordinator to drive timelines, agendas, and documentation\n  - Workstream leads: assign",
+      "reasoningTokens": 1856,
+      "tokens": {
+        "input_tokens": 870,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1946,
+        "output_tokens_details": {
+          "reasoning_tokens": 1856
+        },
+        "total_tokens": 2816
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a synthesis of transformational insights and leverage points inferred from the materials, with an emphasis on long-term implications, hidden patterns, paradigm shifts, and practical next moves.\n\nWhat the data suggests (patterns and tensions)\n- Governance and liquidity are interdependent but being handled in silos. The buy-sell valuation, distribution policy, trust design, and insurance/liquidity plan depend on each other; decisions in one area are shaping the others by default rather than by design.\n- Decision bottlenecks exist. Multiple items hinge on a small number of people/time windows, creating delay risk and potential power asymmetries.\n- The stated aspiration is harmony and transparency; the lived risks include triangulation, mixed messages, and “double standards” (values vs. actions) noted by Gen 2.\n- Family system is moving from founder-centric to multi-generational stewardship. G2 wants engagement, skill-building, and clearer decision rights; G3 has no defined pathway yet.\n- Philanthropy is underused as a low-risk governance and capability lab. It’s mentioned as a venue for G1/G2 structure but lacks defined learning pathways for G3.\n- Financial independence is both a goal and a governance tool. Clarity on distributions will de-escalate day-to-day tensions (e.g., mortgages) and reduce covert negotiations.\n\nLong-term implications if unmanaged\n- Erosion of trust capital. Continued triangulation and opaque decision-making will harden narratives of unfairness, especially as wealth transitions.\n- Value leakage. Tax inefficiency, suboptimal buy-sell terms, and misaligned distribution policy can compound over decades.\n- Talent flight and disengagement. Without role clarity and capability pathways, G2/G3 will either disengage or create informal power structures.\n- Mission drift in philanthropy and the broader enterprise. Absent a unifying family purpose and governance, initiatives become episodic and personality-driven.\n\nParadigm shifts to adopt\n- From event-driven to principles-driven. Finalize owner principles (purpose, risk appetite, fairness, time horizon) before hard-coding valuation, buy-sell, and distribution rules.\n- From equal to equitable. Replace “same-for-all” expectations with transparent criteria tied to role, need, stewardship, and enterprise sustainability.\n- From secrecy to bounded transparency. Share what matters at the appropriate forum and cadence; reduce rumor by defaulting to openness within well-defined boundaries.\n- From founder discretion to institutionalized governance. Codify decision rights, succession, and dispute resolution; embed independent voices where stakes are high.\n",
+      "reasoningTokens": 1472,
+      "tokens": {
+        "input_tokens": 874,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1989,
+        "output_tokens_details": {
+          "reasoning_tokens": 1472
+        },
+        "total_tokens": 2863
+      }
+    }
+  ],
+  "cost": 0.08298625,
+  "reasoningTokens": 6400
+}

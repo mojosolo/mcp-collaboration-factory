@@ -1,0 +1,57 @@
+{
+  "document": "A8-Company Roadmap-Work Sample.pdf",
+  "processedAt": "2025-08-13T23:24:30.636Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 2,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here is a structured extraction of key facts, metrics, entities, and actionable insights from the provided “Company Planning Framework” document.\n\nDocument metadata\n- Title: Company Planning Framework\n- Confidentiality: Private & Confidential\n- Sections visible: Desired Outcomes; What You Are For / What You Want – Declarations Development (CEO, COO, CFO)\n\nCore categories and concepts\n- Roadmap components to develop:\n  - Vision statement, core competencies, values, strategy\n  - Conditions of Satisfaction (CoS) for success\n  - Metrics to assess success\n  - Priority actions to attain objectives\n- High Performance Culture components:\n  - Team standards and commitments\n  - Team practices and processes\n  - Individual learning and growth\n- Organizational enablers (themes shown):\n  - Coordinate across functions and learn from actions\n  - Develop leadership team clarity and capability\n  - Align and equip broader team for accountability\n  - Apply new skills and practices to deliver at new levels\n- Strategic pillars referenced: People, Organization, Strategies, Vision\n\nStakeholders and their declared outcomes\n\n1) CEO\n- Individual desired state: Joyful, healthy, inspiring leader and teacher, prepared for life after work.\n- Individual Conditions of Satisfaction:\n  - Happy in work and life; loving and being loved\n  - Physical and spiritual vigor\n  - Partner expectations met/exceeded\n  - Associates able to overcome obstacles\n  - Shared learning\n  - Personal financial security\n- Individual measurements:\n  - Meditations, workouts, sound sleep\n  - Laughing, music playing\n  - Partner satisfaction\n  - Learning and teaching occurrences\n  - Increased savings and investments\n- Business desired state:\n  - Build a trusted company with 1,000,000+ customers who benefit from great people, valuable purchases, and unique insights shared openly.\n- Business Conditions of Satisfaction:\n  - Satisfied customers\n  - Ability to attract and retain talented associates\n  - Outstanding content creation\n  - Expert delivery systems\n- Business measurements:\n  - Number of customers and attrition rates\n  - Minimal unplanned employee turnover\n  - Volume of customer views and downloads\n  - Revenue and market value in excess of $1B\n\n2) COO\n- Individual desired state: Happy and fulfilled; wellness, enjoyment, connection, learning.\n- Individual measurements:\n  - Wellness: Whole30/Whole90 diet; workout 4x/week; read 1 hour/day\n  - Enjoyment: Bucket list achievement\n  - Connection: Coaching sons; relationship honesty\n  - Learning: Document “why” beliefs; apply daily curiosity tool\n- Business desired state:\n  - Deliver meaningful value for customers, business partners, employees, and shareholders.\n- Business operating principles/criteria:\n  - Customer-centric organization: Empathy; brand humility vs. hubris; grow relevance of value proposition over time\n  - Better strategic decisions: Emphasize simplicity; make vision/strategies/tactics actionable; instill bias for action\n  - High-performance culture: Operate “on-purpose”; take work seriously (not selves); attract/retain talent by inspiring passion and enabling greatness\n  - Exceeding key financial … (incomplete in source)\n\n3) CFO\n- Individual desired state: Be happy, have fun, add value, learn constantly, make money, create wealth.\n- Individual Conditions of Satisfaction / measurements:\n  - Feeling of well-being better today than yesterday\n  - More laughter and less anxiety\n  - Helping others fulfill needs/w",
+      "reasoningTokens": 1216,
+      "tokens": {
+        "input_tokens": 884,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1937,
+        "output_tokens_details": {
+          "reasoning_tokens": 1216
+        },
+        "total_tokens": 2821
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": false
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": false
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Executive synthesis\n- Unifying idea: The CEO, COO, and CFO are all optimizing for joy, learning, impact, and value creation. Translate that into a system-level design: Teach, Simplify, Serve at scale. Teaching (insight sharing) drives trust and demand; simplicity turns trust into adoption; service (empathy + outcomes) converts adoption into loyalty and cash flow. This is your flywheel.\n- North Star: Trusted insight to 1,000,000 active customers who realize measurable value. The constraint is not demand, but your ability to scale trust, simplicity, and delivery without diluting culture.\n\nHidden patterns and leverage points\n- Pattern 1: Leaders who want to be teachers. Leverage this by codifying “teach to scale” (content, playbooks, open benchmarks) as the primary demand engine. It’s",
+      "reasoningTokens": 1792,
+      "tokens": {
+        "input_tokens": 883,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1969,
+        "output_tokens_details": {
+          "reasoning_tokens": 1792
+        },
+        "total_tokens": 2852
+      }
+    }
+  ],
+  "cost": 0.04126875,
+  "reasoningTokens": 3008
+}

@@ -1,0 +1,31 @@
+{
+  "document": "A8-Ambition model.pdf",
+  "processedAt": "2025-08-13T21:51:46.116Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 0,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": false
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": false
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": false
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": false
+    }
+  ],
+  "cost": 0,
+  "reasoningTokens": 0
+}

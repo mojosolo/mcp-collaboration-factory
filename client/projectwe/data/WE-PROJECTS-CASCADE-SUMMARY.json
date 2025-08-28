@@ -1,0 +1,22 @@
+{
+  "tenant": "WE_PROJECTS",
+  "sessionId": "b3d0c24f-f26a-4d1a-bc01-87cb5cc18231",
+  "processedAt": "2025-08-13T16:56:52.458Z",
+  "totalDocuments": 1,
+  "successCount": 1,
+  "failCount": 0,
+  "documents": [
+    {
+      "id": "f5be0e8e-90f5-409a-b74c-cad08d33279b",
+      "name": "Advisor ROWW RFN.docx",
+      "cascadeScore": 70,
+      "cost": 0.018982890000000002
+    }
+  ],
+  "totalCost": 0.018982890000000002,
+  "databaseValidation": {
+    "weProjectsCount": 73,
+    "weexitProjectCount": 4,
+    "weBrain041524Count": 1
+  }
+}

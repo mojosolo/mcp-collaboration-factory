@@ -1,0 +1,83 @@
+{
+  "document": "A8-CFRs exercises.pdf",
+  "processedAt": "2025-08-13T22:05:07.119Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a structured extraction with clear categories, concepts, stakeholders, and actionable insights.\n\nOverview\n- Purpose: Build capability in “Conversations for Results” with emphasis on centering, practice, and applying skills to a live leadership request.\n- Format: Workshop with 5 sequential exercises, mostly in pairs.\n- Context anchor: 3 domains model (IBE) introduced early; practices of centering referenced throughout.\n\nKey Facts\n- 5 exercises conducted (mostly in pairs).\n- Focus areas: Requests, Conditions of Satisfaction (CoS), network of conversations, accountability, promises, and emotions.\n- Real-work anchoring: Participants explored a request made in the last 2 weeks or to be made in the next 2 weeks.\n- Organizational challenge: Apply the method to a leadership team (LT) request directed at 7 strategy teams, with several unspecified elements to be discovered (customer, reporting mechanism, reporting owner).\n\nFrameworks and Core Concepts\n- Conversations for Results: Structuring requests, promises, and follow-through to achieve outcomes.\n- Conditions of Satisfaction (CoS): Explicit criteria that define a successful fulfillment of a request.\n- Network of Conversations: Map of related commitments, dependencies, and follow-ups around a core request.\n- Centering and Practice: Preparatory and ongoing disciplines to support effective conversations.\n- 3 domains model (IBE): Referenced framework (specific content not detailed in the document).\n- Promises and Emotions: Acknowledging emotional impacts of broken promises and managing integrity through corrective moves.\n\nStakeholders and Roles\n- Leadership Team (LT): Requester to the 7 strategy teams.\n- 7 Strategy Teams: Recipients responsible for acting on the LT’s request.\n- Participants: Workshop attendees practicing in pairs.\n- Customer: The recipient of value from the LT’s request; identity unspecified (to be determined).\n- Reporting Owner(s): Specific individual(s) responsible for reporting back to the customer; currently unspecified.\n- Partners: Pair partners during exercises.\n\nTemporal References and Metrics\n- Exercises: 5 total.\n- Teams: 7 strategy teams.\n- Timing references: Morning spent on centering/practices and LT request; real-work request bounded by last 2 weeks or next 2 weeks.\n\nExercise Sequence and Intended Outputs\n1) Simple request in pairs\n   - Output: Clear CoS for a simple request.\n2) Real and important work request (past 2 weeks or next 2 weeks)\n   - Output: Documented request and explicit CoS.\n3) Network of Conversations for Results (new partner)\n   - Output: Map of dependencies, related requests, commitments, and follow-ups for the request from #2.\n4) Apply to LT’s request to 7 teams\n   - Outputs to define:\n     - What exactly is the request?\n     - Who is the customer?\n     - What is the mechanism to report back to the customer?\n     - Who specifically reports back?\n     - CoS for the LT request.\n     - Network of conversations required to fulfill the request (why it was made, what sub-requests are needed).\n5) Promises and emotions\n   - Output: Identified broken/imminently broken promise and a plan of “moves” to manage it (e.g., renegotiate, recommit, apologize, set new dates).\n\nArtifacts/Deliverables\n- Written CoS for simple and real requests.\n- Conversation network maps for the real request and the LT-to-7 teams request.\n- Defined customer, reporting mechanism, and named reporting owner(s) for the LT request.\n- Promise management plans for at-risk or broken promises.\n\nGaps/Unknowns to Clarify\n- The exact wording and scope of the LT request.\n- The true “customer” of the LT request (LT, an executive sponsor, or an external stakeholder).\n- The reporting mechanism (cadence, channel, format).\n- The singular accountable person per team or across teams for reporting.\n- Full definition of the 3 domains model (IBE).\n\nActionable Insights and Recommendations\n- For all requests:\n  - Always define CoS upfront (what done looks like, by when, quality criteria, constraints).\n  - Identify the customer explicitly and confirm their acceptance criteria.\n  - Name a single accountable reporting owner.\n  - Establish a clear reporting mechanism (who, what, when, where, format).\n  - Map the network of conversations: upstream intent (why), downstream requests, dependencies, approvals, and check-ins.\n- For the LT to 7 teams request:\n  - Draft and circulate a one-page request brief including purpose, CoS, customer, timelines, metrics, and risks.\n  - Assign one accountable reporter per team and a cross-team coordinator.\n  - Set a standard update cadence (e.g., weekly) with a shared template.\n  - Log all sub-requests and commitments in a visible tracker with owners and due dates.\n- Promise management:\n",
+      "reasoningTokens": 960,
+      "tokens": {
+        "input_tokens": 393,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1961,
+        "output_tokens_details": {
+          "reasoning_tokens": 960
+        },
+        "total_tokens": 2354
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below are the strategic patterns and business implications embedded in the “Conversations for Results” work, with emphasis on themes, competitive advantage, market opportunities, and business model insights.\n\nStrategic themes\n- Commitment-based execution over task assignment: Shifts work from “assigned tasks” to negotiated commitments with explicit Conditions of Satisfaction (CoS). This reduces ambiguity and execution risk.\n- Customer clarity for internal work: Every strategic request must name an internal “customer,” acceptance criteria, who reports back, and via what mechanism. This orients teams to value creation and speeds decision cycles.\n- Network-of-conversations mapping: Treats delivery as a web of interdependent promises, not a linear plan. Surfaces dependencies, missing requests, and governance gaps early.\n- Governance by cadence and mechanism: The explicit “report back” mechanism/cadence fills a common void in strategy execution (prevents orphaned decisions, enables faster feedback loops).\n- Integrity as an operational capability: Normalizing renegotiation and managing broken promises builds reliability without fear, improving throughput and trust.\n- Embodied/centering practices as enablers: Somatic and emotional regulation underpin better negotiations, clearer commitments, and healthier escalations—a distinct cultural capability.\n\nCompetitive advantages if institutionalized\n- Higher execution velocity and predictability: Clear CoS and acceptance routes reduce rework and cycle time.\n- Lower coordination costs: Fewer handoffs fail due to explicit “who/when/how” for reporting back.\n- Strong trust capital and cross-functional alignment: A shared language for commitments reduces conflict and escalation churn.\n- Better risk detection: Conversation maps reveal dependency and capacity constraints before they become delays.\n- Scalable governance: A lightweight, repeatable “request → promise → delivery → acceptance” loop across all strategy work.\n\nMarket opportunities\n- Internal (if you’re deploying this within one company):\n  - Create a “Commitment Operating System” for strategy execution: a standard request template, SLAs for acceptance/renegotiation, a cadence of check-ins, and dashboards.\n  - Apply to the 7 strategy teams: Treat the Leadership Team (LT) as customer; define CoS, the reporting mechanism and owner; map sub-requests to Finance, Product,",
+      "reasoningTokens": 1536,
+      "tokens": {
+        "input_tokens": 392,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1990,
+        "output_tokens_details": {
+          "reasoning_tokens": 1536
+        },
+        "total_tokens": 2382
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Implementation guide: Conversations for Results workshop and rollout\n\nPurpose\n- Build a shared, repeatable way of making, negotiating, keeping, and repairing commitments that reliably produce results.\n- Normalize explicit Conditions of Satisfaction (CoS), clear roles (customer/performer), and a visible network of related conversations.\n- Strengthen the team’s capacity to manage emotions and maintain trust when promises change or break.\n\nIntended outcomes\n- Participants can make “clean requests,” negotiate, and give explicit promises.\n- Each team leaves with a clear interpretation of the leadership team’s request, documented CoS, reporting mechanism, named owner(s), and a mapped conversation network.\n- A lightweight promise-tracking system is in place with simple measures of reliability and learning loops.\n\nPre-work (1–2 weeks prior)\n- Share a 2–3 page primer on Conversations for Action/Results: request → negotiation → promise → delivery → assessment.\n- Share a 1–page explainer on Conditions of Satisfaction with examples.\n- Ask participants to bring 1 real request they",
+      "reasoningTokens": 1728,
+      "tokens": {
+        "input_tokens": 388,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1944,
+        "output_tokens_details": {
+          "reasoning_tokens": 1728
+        },
+        "total_tokens": 2332
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below are synthesized, transformational insights and leverage points drawn from the arc of your Conversations for Results work (centering, 3 domains, simple-to-complex request drills, network mapping, and promise breakdowns).\n\nExecutive synthesis\n- You’re moving from a culture of assignment and status to a culture of commitments and coordination. The exercises exposed a systemic pattern: unclear customers, fuzzy Conditions of Satisfaction (CoS), missing closure, and a lack of explicit promise management. These create chronic waste (rework, delay, blame) masked as “busyness.”\n- The pivot is ontological: language-as-action, moods as capacity, and the body as enabler. Centering + clean speech acts + explicit networks of requests is the operating system upgrade.\n- If institutionalized, this reframes the organization as a network of promises with clear customers and feedback loops. Trust becomes a measurable asset; throughput and reliability rise without adding headcount.\n\nHidden patterns the exercises surfaced\n- Requests disguised as information or assignments: “FYI/Need this” without explicit accept/decline/counteroffer.\n- CoS gaps: output named, but quality, scope boundaries, and evidence of “done” absent. “When done it will look like X” is missing.\n- Customer is ambiguous: no named recipient empowered to declare satisfaction, so closure is perpetually deferred.\n- No return path: reporting mechanisms and accountable “voice” not specified; loops don’t close, so learning and trust don’t compound.\n- Silent declines: status asymmetry and politeness norms suppress counteroffers; commitments become shallow “yesses.”\n- Hidden dependency webs: teams discover too late that upstream promises were never made, or were made with incompatible CoS.\n- Emotional undercurrent unmanaged: anxiety and resentment follow broken promises; people get faster at coping than at coordinating.\n\nParadigm shifts (what must change)\n- From tasks and deadlines to explicit commitments with Conditions of Satisfaction.\n- From “communicating” to coordinating: requests, offers, accept/decline/counteroffer, completion, and closure as a practiced grammar.\n- From individual heroics to promise networks: dependencies mapped before work begins and actively stewarded.\n- From accountability as blame to accountability as care for the customer and the promise.\n- From time management to promise management: calendars are secondary to commitments and",
+      "reasoningTokens": 1472,
+      "tokens": {
+        "input_tokens": 392,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1945,
+        "output_tokens_details": {
+          "reasoning_tokens": 1472
+        },
+        "total_tokens": 2337
+      }
+    }
+  ],
+  "cost": 0.08035625,
+  "reasoningTokens": 5696
+}

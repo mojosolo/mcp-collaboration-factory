@@ -1,0 +1,266 @@
+{
+  "documentId": "f5be0e8e-90f5-409a-b74c-cad08d33279b",
+  "documentName": "Advisor ROWW RFN.docx",
+  "tenant": "WE_PROJECTS",
+  "sessionId": "b3d0c24f-f26a-4d1a-bc01-87cb5cc18231",
+  "processedAt": "2025-08-13T16:56:50.450Z",
+  "cascadeScore": 70,
+  "totalCost": 0.018982890000000002,
+  "totalTime": 30895,
+  "layers": {
+    "FOUNDATION": {
+      "model": "gpt-4.1-nano",
+      "content": {
+        "keyFindings": [
+          "The document outlines a training program focused on integrating wealth and wellbeing concepts for financial advisors.",
+          "The curriculum emphasizes developing skills in communication, stress management, goal setting, and creating strategic roadmaps for clients and advisors.",
+          "Core themes include understanding cultural influences on money, enhancing self-awareness, fostering effective communication, and designing actionable plans for sustained change."
+        ],
+        "metrics": {
+          "readinessScore": 7,
+          "confidenceLevel": 0.85,
+          "complexityScore": 65
+        },
+        "riskFactors": [
+          {
+            "risk": "Potential misalignment of training content with client needs",
+            "severity": "high",
+            "mitigation": "Customize curriculum based on client-specific requirements and feedback"
+          }
+        ],
+        "opportunities": [
+          {
+            "opportunity": "Expand advisor capability in holistic wealth management",
+            "impact": "high",
+            "effort": "medium"
+          }
+        ],
+        "recommendations": [
+          "Further develop tailored modules addressing diverse client profiles",
+          "Implement follow-up sessions to reinforce skills and monitor progress"
+        ],
+        "extractedConcepts": [
+          "Wealth & Wellbeing Roadmap",
+          "Cultural influences on money",
+          "Stress management and centering techniques",
+          "Effective communication and language skills",
+          "Values, stories, rituals, and their role in behavior change"
+        ]
+      },
+      "insights": [
+        "The document outlines a training program focused on integrating wealth and wellbeing concepts for financial advisors.",
+        "The curriculum emphasizes developing skills in communication, stress management, goal setting, and creating strategic roadmaps for clients and advisors.",
+        "Core themes include understanding cultural influences on money, enhancing self-awareness, fostering effective communication, and designing actionable plans for sustained change."
+      ],
+      "metrics": {
+        "readinessScore": 7,
+        "confidenceLevel": 0.85,
+        "complexityScore": 65
+      },
+      "reasoningTokens": 0,
+      "totalTokens": 2342,
+      "processingTime": 3697,
+      "cost": 0.00016225000000000001,
+      "rateLimits": {
+        "limitRequests": 30000,
+        "limitTokens": 150000000,
+        "remainingRequests": 29999,
+        "remainingTokens": 149997232,
+        "resetRequests": "2ms",
+        "resetTokens": "1ms"
+      }
+    },
+    "STRATEGIC": {
+      "model": "gpt-4.1-mini",
+      "content": {
+        "keyFindings": [
+          "The document details a comprehensive Family Advisor Training Program designed to integrate wealth and wellbeing through a holistic framework emphasizing values, relationships, culture, and communication.",
+          "The curriculum is structured around experiential learning, with a focus on self-awareness, stress management, communication skills, accountability, and the development of a Wealth & Wellbeing Roadmap to guide both client and advisor actions.",
+          "The training aims to equip advisors to facilitate transformative change in family clients by helping them understand their money narratives, cultural influences, and emotional responses, fostering sustainable behavior change through new stories, rituals, and practices."
+        ],
+        "metrics": {
+          "readinessScore": 7,
+          "confidenceLevel": 0.85,
+          "complexityScore": 65
+        },
+        "riskFactors": [
+          {
+            "risk": "Potential misalignment between training content and diverse client family dynamics and needs",
+            "severity": "high",
+            "mitigation": "Tailor and customize curriculum elements based on specific client contexts and feedback to ensure relevance and effectiveness"
+          }
+        ],
+        "opportunities": [
+          {
+            "opportunity": "Enhance advisor effectiveness by integrating holistic wellbeing concepts with financial advisory practices",
+            "impact": "high",
+            "effort": "medium"
+          }
+        ],
+        "recommendations": [
+          "Develop modular curriculum components that can be adapted for different advisor specialties and client family profiles to enhance customization and relevance.",
+          "Incorporate structured follow-up and peer learning sessions post-training to reinforce skills, monitor advisor progress, and foster a sustainable advisor learning community."
+        ],
+        "extractedConcepts": [
+          "Wealth & Wellbeing Roadmap",
+          "Holistic wealth framework including Family Stories, Values, Culture, and Relationships",
+          "Experiential and dialog-based learning",
+          "Centering and stress management techniques",
+          "Effective communication skills and language use",
+          "Accountability and choice as life principles",
+          "Design of new stories, rituals, and business practices for sustainable change"
+        ]
+      },
+      "insights": [
+        "The document details a comprehensive Family Advisor Training Program designed to integrate wealth and wellbeing through a holistic framework emphasizing values, relationships, culture, and communication.",
+        "The curriculum is structured around experiential learning, with a focus on self-awareness, stress management, communication skills, accountability, and the development of a Wealth & Wellbeing Roadmap to guide both client and advisor actions.",
+        "The training aims to equip advisors to facilitate transformative change in family clients by helping them understand their money narratives, cultural influences, and emotional responses, fostering sustainable behavior change through new stories, rituals, and practices."
+      ],
+      "metrics": {
+        "readinessScore": 7,
+        "confidenceLevel": 0.85,
+        "complexityScore": 65
+      },
+      "reasoningTokens": 0,
+      "totalTokens": 2773,
+      "processingTime": 6897,
+      "cost": 0.00049464,
+      "rateLimits": {
+        "limitRequests": 30000,
+        "limitTokens": 150000000,
+        "remainingRequests": 29999,
+        "remainingTokens": 149996867,
+        "resetRequests": "2ms",
+        "resetTokens": "1ms"
+      }
+    },
+    "IMPLEMENTATION": {
+      "model": "gpt-4.1",
+      "content": {
+        "keyFindings": [
+          "The Family Advisor Training Program utilizes a structured, experiential curriculum that integrates wealth management with holistic wellbeing by focusing on personal and interpersonal factors such as values, culture, and communication.",
+          "A core methodology is the use of a Wealth & Wellbeing Roadmap, which serves as both a reflective and actionable tool for advisors and their clients to clarify goals, foster accountability, and monitor progress.",
+          "The program is designed to build advisor capacities through progressive learning modules (Foundation, Tools & Capabilities, Action) that combine self-awareness practices, stress management, communication frameworks, and the creation of new stories and rituals to support sustainable change."
+        ],
+        "metrics": {
+          "readinessScore": 7,
+          "confidenceLevel": 0.85,
+          "complexityScore": 65
+        },
+        "riskFactors": [
+          {
+            "risk": "Potential misalignment between standardized training content and the varied, nuanced needs of diverse family client systems.",
+            "severity": "high",
+            "mitigation": "Introduce adaptive, feedback-driven curriculum tailoring and ongoing needs assessment to ensure contextual relevance for different advisor-client scenarios."
+          }
+        ],
+        "opportunities": [
+          {
+            "opportunity": "Advance advisor practice by embedding holistic wellbeing and behavioral change methodologies into traditional financial advisory models, elevating client outcomes and advisor differentiation.",
+            "impact": "high",
+            "effort": "medium"
+          }
+        ],
+        "recommendations": [
+          "Develop flexible, modular training elements that can be customized based on advisor specialty and client demographics, ensuring scalability and contextual fit.",
+          "Establish post-training structures for peer learning, mentorship, and continuous feedback, reinforcing skill adoption and fostering a collaborative advisor community."
+        ],
+        "extractedConcepts": [
+          "Wealth & Wellbeing Roadmap",
+          "Experiential and dialogic learning processes",
+          "Centering and stress management techniques",
+          "Transformative narrative and ritual creation",
+          "Communication frameworks for value-based advising"
+        ]
+      },
+      "insights": [
+        "The Family Advisor Training Program utilizes a structured, experiential curriculum that integrates wealth management with holistic wellbeing by focusing on personal and interpersonal factors such as values, culture, and communication.",
+        "A core methodology is the use of a Wealth & Wellbeing Roadmap, which serves as both a reflective and actionable tool for advisors and their clients to clarify goals, foster accountability, and monitor progress.",
+        "The program is designed to build advisor capacities through progressive learning modules (Foundation, Tools & Capabilities, Action) that combine self-awareness practices, stress management, communication frameworks, and the creation of new stories and rituals to support sustainable change."
+      ],
+      "metrics": {
+        "readinessScore": 7,
+        "confidenceLevel": 0.85,
+        "complexityScore": 65
+      },
+      "reasoningTokens": 0,
+      "totalTokens": 2846,
+      "processingTime": 9336,
+      "cost": 0.008206,
+      "rateLimits": {
+        "limitRequests": 10000,
+        "limitTokens": 30000000,
+        "remainingRequests": 9999,
+        "remainingTokens": 29996730,
+        "resetRequests": "6ms",
+        "resetTokens": "6ms"
+      }
+    },
+    "EVOLUTION": {
+      "model": "gpt-4o",
+      "content": {
+        "keyFindings": [
+          "The Family Advisor Training Program by Activ8 integrates wealth management with holistic wellbeing, focusing on personal and interpersonal factors like values, culture, and communication to enhance client and advisor experiences.",
+          "A central component is the Wealth & Wellbeing Roadmap, which guides advisors and clients in clarifying goals, fostering accountability, and monitoring progress, thereby aligning personal values with financial planning.",
+          "The training employs a progressive learning structure (Foundation, Tools & Capabilities, Action) that emphasizes self-awareness, stress management, effective communication, and the development of new stories and rituals to support sustainable change and improved financial and personal outcomes."
+        ],
+        "metrics": {
+          "readinessScore": 7,
+          "confidenceLevel": 0.85,
+          "complexityScore": 65
+        },
+        "riskFactors": [
+          {
+            "risk": "Potential misalignment between standardized training content and the varied, nuanced needs of diverse family client systems.",
+            "severity": "high",
+            "mitigation": "Introduce adaptive, feedback-driven curriculum tailoring and ongoing needs assessment to ensure contextual relevance for different advisor-client scenarios."
+          }
+        ],
+        "opportunities": [
+          {
+            "opportunity": "Advance advisor practice by embedding holistic wellbeing and behavioral change methodologies into traditional financial advisory models, elevating client outcomes and advisor differentiation.",
+            "impact": "high",
+            "effort": "medium"
+          }
+        ],
+        "recommendations": [
+          "Develop flexible, modular training elements that can be customized based on advisor specialty and client demographics, ensuring scalability and contextual fit.",
+          "Establish post-training structures for peer learning, mentorship, and continuous feedback, reinforcing skill adoption and fostering a collaborative advisor community."
+        ],
+        "extractedConcepts": [
+          "Wealth & Wellbeing Roadmap",
+          "Experiential Learning",
+          "Holistic Wellbeing",
+          "Communication Tools",
+          "Stress Management"
+        ]
+      },
+      "insights": [
+        "The Family Advisor Training Program by Activ8 integrates wealth management with holistic wellbeing, focusing on personal and interpersonal factors like values, culture, and communication to enhance client and advisor experiences.",
+        "A central component is the Wealth & Wellbeing Roadmap, which guides advisors and clients in clarifying goals, fostering accountability, and monitoring progress, thereby aligning personal values with financial planning.",
+        "The training employs a progressive learning structure (Foundation, Tools & Capabilities, Action) that emphasizes self-awareness, stress management, effective communication, and the development of new stories and rituals to support sustainable change and improved financial and personal outcomes."
+      ],
+      "metrics": {
+        "readinessScore": 7,
+        "confidenceLevel": 0.85,
+        "complexityScore": 65
+      },
+      "reasoningTokens": 0,
+      "totalTokens": 2839,
+      "processingTime": 6857,
+      "cost": 0.01012,
+      "rateLimits": {
+        "limitRequests": 10000,
+        "limitTokens": 30000000,
+        "remainingRequests": 9999,
+        "remainingTokens": 29996705,
+        "resetRequests": "6ms",
+        "resetTokens": "6ms"
+      }
+    }
+  },
+  "recommendations": [
+    "Develop flexible, modular training elements that can be customized based on advisor specialty and client demographics, ensuring scalability and contextual fit.",
+    "Establish post-training structures for peer learning, mentorship, and continuous feedback, reinforcing skill adoption and fostering a collaborative advisor community."
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "document": "A8-Advisor-1pgr.pdf",
+  "processedAt": "2025-08-13T21:49:14.142Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here is a structured extraction of key facts, entities, concepts, and actionable insights from the document.\n\nDocument summary\n- Title/Program: The Advisor Collaborative\n- Tagline: Elevate Your Practice | Transform Your Client’s Experience\n- Company: Activ8 Consulting\n- Platform/Offering: ProjectWE (virtual platform)\n- Core message: A collaborative, capability-building approach and platform for advisors and their clients to improve trust, decision-making, and outcomes across individuals, families, and organizations.\n\nPrimary stakeholders and audiences\n- Clients (including families; emphasis on multi-generational trust and family dynamics)\n- Advisors (e.g., family advisors, wealth advisors)\n- Teams/Organizations (advisor firms and their internal teams)\n- Advisor community (peer network)\n- Provider: Activ8 Consulting (facilitator and platform licensor)\n\nKey benefits by stakeholder\n- Client benefits:\n  - Clarity of what matters most\n  - Break through belief barriers\n  - Make decisions with pace\n  - Healthier family dynamics\n  - Create ambition and accountability\n- Advisor benefits:\n  - Increase trust across generations\n  - Respond to client needs\n  - Develop new capabilities\n  - Create a roadmap for success\n  - Differentiate in the marketplace\n- Team/Organization benefits:\n  - Develop new capabilities\n  - Improve client outcomes\n  - Adapt to disruption\n  - Deepen services and offers\n  - Increase capability to collaborate\n\nSupport and platform features (ProjectWE)\n- Client and advisor support:\n  - Personalized dashboard\n  - Roadmap\n  - Education and training\n  - Practice builder\n- Community and licensing:\n  - Advisor community\n  - License virtual platform\n\nConsulting approach and methodology (Activ8)\n- Understand: Assess current situation and growth/innovation areas\n- Co-create and customize\n- Four activation phases:\n  - Engage: Focus on what matters most and why\n  - Ignite: Accelerate new capabilities\n  - Learn: See new possibilities and take new actions\n  - Empower: Unleash the collective potential\n\nConcepts and frameworks referenced\n- People, Process, Structure (operating model focus areas)\n- Human dimensions (inferred from graphic text):\n  - Body, Emotion, Intellect, Purpose, Center, Meaning\n  - Likely a holistic framework for personal and relational development (inferred; not fully explained)\n- “Powered by you” (service mark indicated as SM)\n\nEvidence/validation\n- Testimonial (Family Advisor):\n  - Outcome: Changed approach to client collaboration; deepened trust and communication\n- No quantitative metrics or case studies provided in the document\n\nNamed entities and contact details\n- Company: Activ8 Consulting (brand: Activ8)\n- Program: The Advisor Collaborative\n- Platform: ProjectWE\n- Principal contact: Erik Gabrielson\n  - Phone: 612.747.7556\n  - Email: erik@activ8-u.com\n  - Website: www.activ8-u.com\n\nWhat this offering appears to solve\n- Builds cross-generational trust and healthier family dynamics\n- Accelerates decision-making and ambition with accountability\n- Equips advisors and teams with new capabilities and collaboration tools\n- Provides a structured roadmap and training with a virtual platform\n\nActionable insights and recommended next steps\n- For advisors/firms:\n  - Identify priority clients or families where trust-building and decision acceleration are needed\n  - Baseline current client outcomes (trust, decision speed, family dynamics, collaboration) to measure change\n  - Pilot ProjectWE with 1–3 client families and a small internal team\n  - Map internal roles to People–Process–Structure and assign owners for Engage–Ignite–Learn–Empower phases\n  - Join/assess the advisor community for peer learning and best practices\n  - Build a differentiation narrative around cross-generational trust and collaboration\n- For Activ8 engagement readiness:\n  - Clarify desired capabilities to develop (e.g., facilitation, family governance, conflict resolution)\n  - Define success metrics (e.g., NPS, meeting cadence, time-to-decision, intergenerational engagement)\n  - Schedule an assessment with Activ8 to tailor the roadmap and training plan\n\nGaps and open questions (missing details)\n- No pricing, contract terms, or implementation timelines\n- No security/compliance details for the virtual platform\n- No explicit target segments (e.g., RIAs, MFOs, SFOs, family enterprise advisors)\n- No quantified outcomes or",
+      "reasoningTokens": 1024,
+      "tokens": {
+        "input_tokens": 569,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1944,
+        "output_tokens_details": {
+          "reasoning_tokens": 1024
+        },
+        "total_tokens": 2513
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a concise strategy readout focused on themes, competitive advantages, market opportunities, and business model implications inferred from the content.\n\nStrategic themes\n- Human-centered advisory: Explicit focus on “what matters most,” purpose/meaning, and family dynamics positions the offer beyond financial planning into alignment, trust, and decision velocity.\n- Capability building + enablement: The Engage–Ignite–Learn–Empower journey, plus People–Process–Structure framing, signals a repeatable capability-development system for advisors and client families.\n- Platform + services flywheel: Dual engine of ProjectWE (platform: dashboards,",
+      "reasoningTokens": 1856,
+      "tokens": {
+        "input_tokens": 568,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1983,
+        "output_tokens_details": {
+          "reasoning_tokens": 1856
+        },
+        "total_tokens": 2551
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is an actionable, end-to-end implementation guide to operationalize “The Advisor Collaborative” and the ProjectWE approach in your practice. It converts the concepts (Engage, Ignite, Learn, Empower; People, Process, Structure; client/advisor/team benefits) into concrete steps, workflows, tools, and measurable outcomes.\n\n1) Objectives and success criteria\n- Primary outcomes to deliver for clients\n  - Clarity of what matters most (values, purpose, priorities)\n  - Break through belief barriers (limiting assumptions)\n  - Make decisions with pace (clear decision rights and cadence)\n  - Healthier family dynamics (communication, conflict norms)\n  - Ambition and accountability (goals and follow-through)\n- Primary outcomes for the practice\n  - Increase trust across generations\n  - Differentiate your offering\n  - Develop new capabilities and deepen services\n  - Improve collaboration internally and with partners\n- Define 90-day pilot targets (examples)\n  - 3–5 client families enrolled\n  - Baseline and post scores improve by 20% in clarity/decision pace\n  - Two cross-generational meetings run per family\n  - At least one belief barrier identified and addressed per family\n  - NPS +20 and 80%+ meeting usefulness ratings\n\n2) Program architecture and timeline\n- Phase 0: Setup and enablement (2–4 weeks)\n- Phase 1: Engage (weeks 1–4)\n- Phase 2: Ignite (weeks 5–8)\n- Phase 3: Learn (weeks 9–12)\n- Phase 4: Empower and scale (months 4–12)\n\n3) Phase 0: Setup and enablement\n3.1 Governance and roles\n- Program sponsor (lead advisor or principal)\n- Program manager (operations lead)\n- Lead facilitator (you or trained advisor)\n- Analyst/coordinator (data, scheduling, notes)\n- Confidentiality and consent lead (compliance)\n\n3.2 Measurement framework\n- Baseline and post surveys (sample scales 1–10)\n  - Clarity of priorities\n  - Speed of decision-making\n  - Trust across generations\n  - Family communication comfort\n  - Accountability follow-through\n- Behavioral KPIs\n  - Time-to-decision (request to decision)\n  - Number of cross-gen meetings held\n  - Commitments completed on time\n  - Conflicts resolved within agreed SLA\n- Business KPIs\n  - NPS, retention, share of wallet, referrals\n  - Time spent per case vs outcomes achieved\n\n3.3 Tooling and platform\n- If using ProjectWE\n  - Provision personalized dashboards per family\n  - Install roadmap template and practice builder\n  - Assign education/training modules to internal staff\n  - Join advisor community; set monthly learning goals\n- If not yet licensed, minimum viable stack\n  - Collaboration: Zoom/Teams + Miro/Mural for workshops\n  - Client portal: ShareFile/Box/Drive (secure folders per family)\n  - CRM: Wealthbox/Redtail/HubSpot or Salesforce (custom fields)\n  - Workflow: Asana/Monday (roadmap, commitments)\n  - Survey: Typeform/Google Forms (pre/post and pulse checks)\n  - Dashboard: Notion/Airtable/Power BI (metrics and progress)\n\n3.4 Core templates to prepare\n- Client intake and consent form (including cross-gen permissions)\n- Values/Purpose Discovery Guide\n- Relationship and Stakeholder Map\n- Belief Barrier Inventory + Reframe Worksheet\n- Decision Charter (RAPID or DACI) + Timebox policy\n- Family Meeting Charter (rules, confidentiality, norms)\n- Roadmap and OKR/quarterly plan\n- After Action Review (AAR) form\n- Weekly Accountability Check-in form\n- Program dashboard fields (see Section 6)\n\n4) Client journey and facilitation playbook\nPhase",
+      "reasoningTokens": 1152,
+      "tokens": {
+        "input_tokens": 564,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1959,
+        "output_tokens_details": {
+          "reasoning_tokens": 1152
+        },
+        "total_tokens": 2523
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Synthesis: what this really is\n- This reframes “advice” from giving answers to building a shared decision-making system. The core product isn’t information; it’s a repeatable collaboration capability across client, advisor, and family that compounds trust, decision velocity, and adaptability.\n- The method blends tech (dashboards, roadmaps), facilitation (Engage, Ignite, Learn, Empower), and community. It integrates emotion and intellect around purpose, then institutionalizes it via people/process/structure.\n\nHidden patterns and flywheels\n- Dual-sided capability loop: The same capabilities (clarity, belief-busting, decision cadence) are built in both client and advisor. As clients improve outcomes, advisors differentiate and expand services, which funds more capability building—trust and results compound.\n- Emotion x Intellect x Purpose: Anchoring decisions in “what matters most” converts emotional energy into aligned execution.",
+      "reasoningTokens": 1792,
+      "tokens": {
+        "input_tokens": 568,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1981,
+        "output_tokens_details": {
+          "reasoning_tokens": 1792
+        },
+        "total_tokens": 2549
+      }
+    }
+  ],
+  "cost": 0.08150624999999999,
+  "reasoningTokens": 5824
+}

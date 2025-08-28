@@ -11,9 +11,9 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 *.env
-directus-mcp.env
+weexit-mcp.env
 
-# Directus projects
+# WeExit projects
 my-directus-project/
 **/my-directus-project/
 

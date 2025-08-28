@@ -1,0 +1,31 @@
+{
+  "name": "we-projects-cascade-export",
+  "version": "1.0.0",
+  "description": "WE_PROJECTS CASCADE Intelligence Export Package",
+  "main": "data-import.js",
+  "scripts": {
+    "install-db": "psql -d $DB_NAME -f database-schema.sql",
+    "import-data": "node data-import.js",
+    "verify-data": "psql -d $DB_NAME -c \"SELECT * FROM we_projects_summary\"",
+    "setup": "npm run install-db && npm run import-data && npm run verify-data"
+  },
+  "dependencies": {
+    "pg": "^8.11.0",
+    "csv-parse": "^5.4.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.10.0",
+    "@types/uuid": "^9.0.0"
+  },
+  "keywords": [
+    "cascade",
+    "intelligence",
+    "we-projects",
+    "activ8",
+    "leadership",
+    "gpt5"
+  ],
+  "author": "WeExit Team",
+  "license": "MIT"
+}

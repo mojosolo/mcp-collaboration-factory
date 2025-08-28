@@ -1,0 +1,83 @@
+{
+  "document": "Customer Quotes.pdf",
+  "processedAt": "2025-08-14T00:50:06.855Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a structured extraction of key facts, metrics, entities, concepts, stakeholders, and actionable insights from the document.\n\nSummary\n- The document is a collection of testimonials praising “Erik” (leadership speaker/coach/author) and his programs (notably “Activ8”) and book (“Our Fear Never Sleeps”).\n- Feedback emphasizes authenticity, vulnerability, practical tools, and personal as well as professional transformation.\n- Engagements include a workshop at Oak Ridge (Chaska, MN), a two-day session, and at least one afternoon talk.\n\nCore Entities\n- People\n  - Erik (leadership speaker/coach/author/facilitator; central figure)\n  - Moira (associated with Erik; contributor to the journey)\n  - Kieran (associated with Erik; contributor to the journey)\n  - George Saad (CEO, PULSE Performance)\n  - Unnamed Senior Executive (Global Med Tech Company)\n  - Dane DeSantis\n  - Jon Radabaugh (2nd generation business owner)\n  - John Harrison\n  - Jim Jungbauer (President, Hollstadt & Assoc.)\n  - Kris Wyrobek (President; 2nd generation business owner)\n  - Rachel Schromen (Attorney)\n  - Bjorn Gunnerud\n  - David (leader who advocated for attending Activ8 sessions; org unspecified)\n- Organizations/Groups\n  - YPO Twin",
+      "reasoningTokens": 1664,
+      "tokens": {
+        "input_tokens": 667,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1955,
+        "output_tokens_details": {
+          "reasoning_tokens": 1664
+        },
+        "total_tokens": 2622
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a strategic read of the content, distilled into themes, advantages, opportunities, and business model moves.\n\nStrategic themes emerging\n- Transformational impact tied to action: Repeated emphasis on “life changing,” “tools to take action,” and “major decision within a day” points to a value proposition around accelerating clarity and decision-making, not just inspirational content.\n- Credibility with senior leaders: Testimonials include CEOs, YPO members, a senior MedTech executive, second-generation business owners, and an attorney. This signals resonance with high-caliber, cross-industry leaders and family-owned enterprises.\n- Differentiation via authenticity and clinical grounding: “Authenticity,” “vulnerability,” and “clinical experience” recur. This blends evidence-based methods with human storytelling—rare in a crowded leadership space.\n- Systemic reach beyond business: Impact extends to family and personal domains (coaching a son; better father/husband). This positions offerings as holistic performance—attracting leaders who value whole-life outcomes.\n- Product ecosystem in motion: Book (“Our Fear Never Sleeps”), workshops (Oak Ridge), and sessions/programs (Activ8) suggest a multi-modality pathway from content to experience to behavior change.\n- Community and affinity channels: YPO/Vistage-like forums, peer referrals, and word-of-mouth serve as primary distribution levers.\n\nCompetitive advantages\n- Category angle: “Fear” as a core construct creates a distinct, timely niche (uncertainty, crises, AI disruption). You can own “Fear-Intelligent Leadership.”\n- Clinical expertise + pragmatic tools: Combines credibility (clinical) with usability (“packaging makes all the difference”), beating purely academic or purely motivational competitors.\n- Speed-to-outcome: Helping leaders make delayed decisions “within a day” is a compelling ROI narrative.\n- Social proof density: Multi-industry, senior-level testimonials build trust for enterprise buying committees and forum chairs.\n- Team-based delivery: Presence of Moira and Kieran, plus the Activ8 brand, reduces single-guru risk and enables scale.\n\nIdeal customer profiles (ICP)\n- Mid-market CEOs/founders (50–1,000 employees) seeking leadership alignment and faster execution.\n- Family-owned and second-generation businesses (succession, governance, conflict, decision paralysis).\n- Professional services and regulated sectors (MedTech, legal) where human performance and compliance pressures intersect.\n- Peer forum ecosystems (YPO, EO, Vistage) and PE portfolio companies needing consistent leadership upgrades across holdings.\n\nCore value proposition and outcomes to lead with\n- Make critical decisions faster with confidence.\n- Convert fear into strategic clarity and decisive action.\n- Improve leadership at work and at home—leading to retention, succession readiness, and team cohesion.\n- Equip leaders with evidence-based, repeatable tools instead of one-off inspiration.\n\nOffering architecture (codify and scale)\n- Awareness: Book + keynote speeches (lead-gen, story-led).\n- Conversion: Flagship workshop/retreat (2-day Activ8), executive team offsites.\n- Expansion: Multi-cohort programs for managers, ongoing coaching, and an alumni community.\n- Scalable products: Digital course, playbooks/toolkits, assessments (e.g., Fear Triggers Index), and a certification pathway for partner coaches/facilitators.\n- Enterprise: Annual licenses for content + quarterly interventions + measurement dashboards tied to decision speed and engagement.\n\nMarket opportunities\n- Crisis/uncertainty leadership: AI disruption, hybrid work, market volatility—strong appetite for fear-to-focus frameworks.\n- Family business succession: High turnover of ownership next decade; decision paralysis and interpersonal dynamics are endemic pain points.\n- PE and bank/wealth channels: Portfolio operating partners and private banks seek value-add executive programs for clients.\n- Corporate wellness-performance convergence: HR/L&D and EAP budgets are merging toward whole-person performance—your approach fits both.\n- Geographic expansion: Start with forum ecosystems and industry associations for national reach beyond Twin Cities.\n\nGo-to-market motions\n- Forum-first: Partner with YPO/EO/Vistage chairs for content sessions leading to offsites and team programs.\n- Anchor verticals: MedTech and professional services. Build 2–3 deep case studies with quantified outcomes per vertical.\n- Content funnel: Quarterly webinars on “Fear-Intelligent Leadership,” LinkedIn thought leadership, and a podcast mini-series featuring client stories (with permission).\n- Partnerships: PE firms (portfolio programs), banks/wealth advisors (family business clinics), benefits brokers (leadership+wellbeing offerings).\n- Events: Host 1–2 annual “Fear to Focus” summits for alumni and prospects.\n\nPricing and packaging (indicative)\n- Keynote: Premium one-off pricing; discount when bundled with workshops.\n- Flagship 2-day: Value-based pricing tied to executive team size; include pre/post assessments and coaching.\n- Enterprise subscription: Annual retainer with quarterly interventions, unlimited digital access, and internal facilitator enablement.\n- Certification: Train external coaches/consultants; license IP with quality controls and revenue share.\n\nMeasurement and proof (make impact legible)\n- Time-to-de",
+      "reasoningTokens": 960,
+      "tokens": {
+        "input_tokens": 666,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1997,
+        "output_tokens_details": {
+          "reasoning_tokens": 960
+        },
+        "total_tokens": 2663
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a practical, step-by-step playbook to implement the approach reflected in the content: transparent leadership, purposeful action, fear-awareness, better decisions faster, breakthrough thinking, and life/work integration. It includes phases, agendas, tools, scripts, and metrics you can use immediately.\n\nOutcomes to expect\n- Faster, clearer decision-making at all levels\n- Better 1:1 and tough conversations\n- Higher team buy-in and breakthrough problem-solving\n- Increased personal clarity and energy (at work and home)\n- Measurable improvement in engagement, trust, and execution\n\nImplementation roadmap (180 days)\nPhase 0 – Align and baseline (Weeks 0–2)\n- Identify sponsors and core team: Executive sponsor, Program lead, HR/L&D, 2–3 business unit leads, 2 respected frontline managers.\n- Define outcomes and targets: Example: cut key decision cycle time by 50%, raise engagement by 10 points, increase “quality of conversations” by 20%, complete 3 breakthrough pilots.\n- Baseline pulse: 10-minute survey for all participants:\n  - Psychological safety (3 items)\n  - Decision velocity (self-reported cycle time on 2–3 recent decisions)\n  - Frequency/quality of 1:1s and tough conversations\n  - Personal clarity/energy (0–10)\n  - “Fear index” (How often fear of failure/judgment slows you down?)\n- Choose pilot scope: 1–2 business units (50–150 people total).\n- Logistics: Book rooms/virtual platforms, assign facilitators, build simple program page (Notion/SharePoint) with all tools and templates below.\n\nPhase 1 – Kickoff and catalyst workshop (Weeks 3–4)\n- Leadership kickoff (60–75 min): Executive sponsor shares a real story of fear, a tough decision, and a commitment. Introduce outcomes, cadence, and what “good” will look like in 90 days.\n- Two-day catalyst workshop for pilot groups (agenda below).\n\nPhase 2 – 12-week practice sprint (Weeks 5–16)\n- Weekly micro-practice cadence for teams (60–90 minutes).\n- Manager circles bi-weekly (75 minutes) to reinforce tools.\n- Book club cadence (optional) on “Our Fear Never Sleeps,” 6 sessions x 45 minutes.\n\nPhase 3 – Scale and sustain (Weeks 17–26)\n- Train-the-trainer (TTT) for internal champions (2 half-days).\n- Expand to next business units.\n- Quarterly “Fear-to-Fuel” forums, ongoing metrics, and management system integration.\n\nCore practices and toolkits\n1) Fear-to-Fuel Framework\nGoal: Name, normalize, neutralize, and navigate fear so it becomes data—not a driver.\n\nSteps and tools:\n- Fear Audit (15 minutes, individual or team)\n  1. Situation: What’s the decision/conversation/result at stake?\n  2. Fear Story: What am I afraid will happen? (1–2 sentences)\n  3. Evidence: What facts support/contradict this story?\n  4. Worst/Best/Most Likely: Briefly list each.\n  5. Influence: What is in my control/influence/no control?\n  6. First Action: One move in 24 hours.\n- Normalize: Leaders model by sharing their own Fear Audits monthly.\n- Neutralize:",
+      "reasoningTokens": 1280,
+      "tokens": {
+        "input_tokens": 662,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1987,
+        "output_tokens_details": {
+          "reasoning_tokens": 1280
+        },
+        "total_tokens": 2649
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are synthesized, high‑leverage insights from the testimonials, with implications, hidden patterns, paradigm shifts, and strategic moves you can act on.\n\nWhat is uniquely working\n- Trust → Truth → Tools → Action → Advocacy flywheel: Your authentic, vulnerable story earns trust; trust permits truth-telling; simple, well-packaged tools convert truth into action; rapid wins convert participants into advocates who refer others (“cup of coffee”).\n- Translation, not novelty: Clients stress that the content is “common sense” made powerful by how you package and deliver it. Your edge is precision packaging of wisdom into routines people will actually use.\n- Whole-person transfer: Tools work at work and at home (e.g., son’s teacher). This cross-domain utility is rare and sticky; it creates identity-level change, not just skill increments.\n- Speed to courage: “Decision in a day I delayed for two years” signals a premium on time-to-clarity/time-to-action, not just inspiration.\n- Culture lift through vulnerability: Senior leaders praise authenticity and clinical insight. Your approach normalizes vulnerability as a performance lever, creating psychological safety and team buy-in for",
+      "reasoningTokens": 1728,
+      "tokens": {
+        "input_tokens": 666,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1966,
+        "output_tokens_details": {
+          "reasoning_tokens": 1728
+        },
+        "total_tokens": 2632
+      }
+    }
+  ],
+  "cost": 0.08237625000000001,
+  "reasoningTokens": 5632
+}

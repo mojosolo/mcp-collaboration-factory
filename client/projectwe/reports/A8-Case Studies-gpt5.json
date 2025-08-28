@@ -1,0 +1,83 @@
+{
+  "document": "A8-Case Studies.pdf",
+  "processedAt": "2025-08-13T22:07:21.703Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a structured extraction of the key facts, metrics, entities, and insights from the document.\n\nOverview\n- Document type: Case studies\n- Core themes: Trust building, leadership alignment, customer-centricity, platform integration, cross-unit collaboration, decision clarity, and risk reduction.\n\nEntities and Stakeholders\n- Organizations/contexts: Manufacturer, IT organization, European multinational (20 countries), Platform-level organization (multiple business units), Investment bank, Printing company.\n- Roles: President, leadership team, platform leaders, country leaders, IT team, business units, clients/customers.\n- Named client: McDonald’s.\n- Geographies: Asia, Europe, US; 20 countries in Europe case.\n\nCase-by-Case Extraction\n\n1) Manufacturer\n- Issue:\n  - President perceived insufficient trust limiting results.\n- Key interventions/changes:\n  - Aligned and more engaged leadership team; expanded direct input to major decisions.\n  - Instituted clear requests/criteria for big decisions; sought clarity on FSOW.\n  - Reduced risk by focusing on high-margin, high-return deals.\n  - Shifted from President-centric decision-making to leveraging broader leadership talents.\n  - Consolidated offers into one platform; increased volume and service to McDonald’s.\n  - Fired largest revenue client due to strategic misalignment.\n- Outcomes:\n  - Faster, clearer, better-grounded decisions.\n  - Improved alignment and pace.\n  - Risk mitigation and portfolio quality improvement.\n  - Increased volume/service for a key account (McDonald’s).\n  - Strategic discipline (exiting misaligned revenue).\n- Metrics/signals (qualitative):\n  - Decision velocity up; risk exposure down; account volume up; reliance on misaligned revenue down.\n\n2) IT (enterprise platform replacement)\n- Issue:\n  - Business units felt IT was imposing",
+      "reasoningTokens": 1600,
+      "tokens": {
+        "input_tokens": 796,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1971,
+        "output_tokens_details": {
+          "reasoning_tokens": 1600
+        },
+        "total_tokens": 2767
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Executive summary of strategic patterns\n- Trust and alignment as performance multipliers: Each case shows that raising trust and clarifying decision rights accelerates pace, improves decision quality, and unlocks cross-unit leverage.\n- Shift to customer-centric, solution-led selling: Moving from product- or silo-led behavior to integrated, client-outcome solutions increases win rates, pricing power, and share of wallet.\n- Platform integration and bundling: Standardizing practices and packaging capabilities across units/geographies turns fragmentation into scalable platforms and creates cross-sell synergies.\n- Portfolio focus and risk discipline: Clear deal qualification (margin/return) and willingness to fire misaligned customers improve profitability and reduce strategic drift.\n- Distributed leadership and operating cadence: Leveraging the full leadership bench (not just the president/IT) and instituting common operating practices improves throughput and resilience.\n\nCompetitive advantages created\n- Speed with clarity: Alignment and explicit decision rights increase organizational clock speed without sacrificing rigor; competitors stuck in silos move slower.\n- Trusted-advisor position: IT and investment banking examples show that listening, co-design, and de-emphasizing internal splits until the client problem is solved builds trust and long-term account control.\n- Economies of scope: Bundling across units into one platform creates differentiated offers competitors can’t easily match; increases switching costs and reduces price comparison.\n- Margin expansion: Strategic pruning (e.g., firing largest but misaligned client) and standardized qualification frameworks shift mix to higher-margin, lower-risk work.\n- Talent leverage: Engaging broader leadership and diverse geographies harnesses more ideas and execution capacity; reduces key-person bottlenecks.\n\nMarket opportunities unlocked\n- Enterprise cross-sell and account expansion: Single-enterprise selling across multiple platforms/units opens larger deals, new buying centers, and upsell paths.\n- Global coordination for multinational clients: Aligned practices across 20 countries enable consistent, scalable offerings attractive to global buyers.\n- Solution packaging for verticals: Platform integration supports industry-specific bundles (e.g., quick-serve restaurants, financial services IPO packages).\n- Advisory-led transformation deals: IT-as-partner creates opportunities to lead business-led tech transformations vs commodity implementation.\n- Demand amplification in capital markets: Client-first syndication and solution focus increase book quality and geographic breadth (oversubscription across regions).\n\nBusiness model insights\n- From product P&Ls to platform/customer P&Ls: Organize around customer outcomes and platforms rather than siloed units to optimize for enterprise value and cross-sell.\n- Value-based pricing and deal qualification: Use margin/return thresholds and clear SOW/FSOW to reduce scope creep and price leakage; enable premium pricing for integrated solutions.\n- Governance and incentives: Align compensation and KPIs to shared enterprise outcomes (revenue, margin, NPS, platform adoption), not unit-level wins; remove fee-split frictions until the solution is set.\n- Operating system for decisions: Codify decision rights, escalation paths, and cadences (e.g., monthly platform councils, cross-unit deal boards) to sustain speed and trust.\n- Customer co-creation: Move upstream with discovery, problem framing, and prototypes; formalize client councils and joint planning to lock in roadmaps.\n\nEnabling practices repeatedly used\n- Clear decision rights and requests on big decisions (including SOW/FSOW clarity).\n- Cross-unit forums to surface egos, resolve conflicts, and align on shared outcomes.\n- Standardized deal qualification based on margin, risk, and strategic fit.\n- Single-platform packaging and go-to-market motion for large accounts.\n- Leadership development focused on listening, perspective-taking, and partner posture.\n\nKPIs and leading indicators\n- Trust/alignment: org health scores, decision cycle time, cross-unit participation rates.\n- Customer-centricity: NPS/CSAT by strategic account, multi-product penetration, solution attach rate.\n- Platform leverage: % of revenue from bundled offers, average products per deal, platform adoption across geographies.\n- Profitability/discipline: Qualified pipeline mix by margin band, win rate on target deals, scope-change capture rate.\n- Speed and quality: Time-to-decision on strategic deals, time-to-market for cross-unit offers, post-mortem rework rates.\n\nRisks and mitigations\n- Misaligned incentives reignite turf battles: Redesign comp/crediting to reward enterprise outcomes; use neutral deal boards.\n- Over-pruning or revenue shocks from firing clients: Stage-gate exits; replace with targeted high-fit accounts; maintain cash buffers.\n- Change fatigue: Provide clear narrative, visible executive sponsorship, and quick wins; limit simultaneous changes.\n- Platform complexity: Invest in product management, integration architecture, and enablement; avoid “Franken-bundles.”\n\nActionable playbook\n1) Diagnose trust and decision bottlenecks; clarify decision rights and cadence.\n2) Define target customer outcomes; map capabilities across units; design flagship bundled offers.\n3) Rework incentives and fee-crediting to favor enterprise deals; defer internal splits until solution set.\n4) Institute standardized deal qualification (margin/fit/risk) and SOW rigor.\n5) Stand up cross-unit councils (platform, large deals) with authority to resolve conflicts fast.\n6) Track KPIs above; run monthly retros to sustain alignment and speed.\n\nBottom line\nThe repeated pattern is an organizational shift from siloed, product-centric execution to trusted, platform-based, customer-outcome solutions enabled by high trust, clear governance, and incentive alignment. The business implications are faster decisions, higher margins, defensible competitive positions, and larger enterprise deals across markets and geographies.",
+      "reasoningTokens": 768,
+      "tokens": {
+        "input_tokens": 795,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1903,
+        "output_tokens_details": {
+          "reasoning_tokens": 768
+        },
+        "total_tokens": 2698
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a practical, step-by-step implementation guide that translates the case study patterns into repeatable actions, processes, tools, and cadences you can deploy immediately.\n\n1) What consistently worked across the cases\n- Build real trust fast: establish working agreements, surface egos and concerns early, make clear commitments, and follow through.\n- Align on a shared direction and how decisions are made: clarify outcomes, authority, and what “good” looks like before executing.\n- Make customer-centricity the default: co-design with stakeholders, don’t force internal solutions on them.\n- Speed with clarity: use lightweight decision briefs, explicit decision rights, and short, tight operating rhythms.\n- Integrate capabilities across units: package offers, remove turf battles, and align incentives to reward enterprise wins.\n- Use evidence: base decisions on fit, margin, risk, and customer impact; listen first, then decide.\n\n2) Phased roadmap (6 phases)\n\nPhase 0: Rapid diagnose (1–2 weeks)\n- Outcomes:\n  - Trust and alignment baseline\n  - Decision-making pain points\n  - Customer and stakeholder needs\n- Steps:\n  - 12–15 stakeholder interviews across leadership, frontline, and key customers\n  - Survey: trust, clarity, speed, cross-unit collaboration (1–5 scale)\n  - Map current decision flows and where they stall\n  - Identify top 5 blockers and 5 high-value opportunities\n- Tools:\n  - Stakeholder map and influence grid\n  - Decision flow map (from data to decision to execution)\n  - Trust and alignment pulse survey\n\nPhase 1: Leadership alignment and “rules of the road” (2–4 weeks)\n- Outcomes:\n  - One-page strategy and success metrics\n  - Leadership team charter and working agreements\n  - Decision rights codified\n- Steps:\n  - Facilitate a 1–2 day workshop to align on purpose, 12–18 month outcomes, and operating norms\n  - Clarify decision types, owners, and escalation paths (use RAPID or RACI)\n  - Create an enterprise-first charter (customer and enterprise > individual P&L)\n- Tools:\n  - One-page strategy (vision, goals, measures, focus areas)\n  - Leadership team charter (values, norms, meeting cadence, conflict handling)\n  - Decision rights matrix (who recommends, decides, inputs, informs)\n\nPhase 2: Customer-centric design and prioritization (3–6 weeks)\n- Outcomes:\n  - Clear portfolio/offer direction based on customer needs\n  - Ideal Customer Profile (ICP) and fit score\n  - Prioritized opportunities\n- Steps:\n  - Conduct voice-of-customer and internal listening tours\n  - Define ICP and disqualifiers; score current deals for fit, margin, and risk\n  - Stand up cross-unit “solution pods” to package integrated offers\n- Tools:\n  - Customer-centric offer canvas (problem, outcomes, solution, proof, value)\n  - ICP and deal fit scorecard (fit, strategic alignment, margin, risk, capacity)\n  - Solution pod charter (mission, members, scope, KPIs)\n\nPhase 3: Decision and deal discipline (4–8 weeks)\n- Outcomes:\n  - Faster, better decisions; fewer reworks\n  - Clear SOW/FSOW for big decisions and deals\n- Steps:\n  - Introduce a Decision Brief for all material choices (investment, client, platform)\n  - Setup Deal Qualification gates with explicit go/no-go criteria\n  - Run weekly Decision Review and Deal Triage meetings\n- Tools:\n  - Decision Brief (context, options, risks, recommendation, decision owner, timebox)\n  - SOW/FSOW checklist (scope, assumptions, acceptance, SLAs, risks, exit criteria)\n  - Deal Qualification rubric (margin, fit, capacity, risk, strategic value)\n\nPhase 4: Operating model and incentives (6–12 weeks)\n- Outcomes:\n  - Cross-unit collaboration becomes the default\n  - Incentives reward enterprise outcomes\n- Steps:\n  - Create a Platform Council (or Enterprise Sales Council) with P&L leaders\n  - Standardize operating practices across regions/units\n  - Implement shared credit models and fee-split rules; adjust compensation to reward multi-unit wins\n- Tools:\n  - Platform Council charter and agenda\n  - Fee-split and shared credit rules (primary, contributing, and enabler credits)\n  - Enterprise KPI dashboard (revenue, margin, cross-sell, NPS",
+      "reasoningTokens": 1024,
+      "tokens": {
+        "input_tokens": 791,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1952,
+        "output_tokens_details": {
+          "reasoning_tokens": 1024
+        },
+        "total_tokens": 2743
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are the transformational insights cutting across the cases, with long-term implications, hidden patterns, paradigm shifts, and high‑leverage moves you can reuse.\n\nCross‑case patterns that created outsized outcomes\n- Trust as operating capital: Trust wasn’t “soft.” It lowered transaction costs, enabled distributed decision-making, and increased decision velocity. Where trust rose, alignment, speed, and quality of decisions rose in tandem.\n- Outcome-before-ego: Teams shifted from “my house/my P&L” to enterprise outcomes and customer value. Fee-split, turf, and internal wins moved behind solving the client’s problem end-to-end.\n- Clarity creates speed: Explicit scope, deal criteria, and decision rights reduced rework and indecision. Paradoxically, slowing down to clarify created faster, better moves (e.g., firing misfit clients, qualifying high-margin work).\n- Co-creation beats compliance: Moving from “done to” to “done with” (IT with business units) transformed adoption, cut resistance, and surfaced risks earlier.\n- Platform integration unlocks scale: Combining offers into coherent platforms enabled cross-sell, larger enterprise deals, cost leverage, and better service (McDonald’s, printing company, platform leaders).\n- Strategic subtraction creates focus: Choosing what not to do (e.g., exiting the largest misfit client) improved margins, reduced distraction, and signaled seriousness about strategy.\n\nParadigm shifts (the before → after moves)\n- Control leadership → Context and coordination leadership: From a president or silo head as the decider to a leadership system that sets clear context, empowers leaders, and aggregates diverse input.\n- Outputs → Outcomes: From activity and revenue-chasing to value, fit, customer impact, and margin quality.\n- Silo P&Ls → Enterprise platform economics: From piecemeal sales to integrated, customer-centric solutions that compound cross-unit value.\n- Internal optimization → Market-back design: From tech- or function-led “adopt this” to research, listen, and co-design from how the business and customer will experience change.\n- Speed by edict → Speed by alignment: From pushing harder to moving faster because the path is clear, roles are explicit, and incentives align.\n\nHidden dynamics that made or broke progress\n-",
+      "reasoningTokens": 1536,
+      "tokens": {
+        "input_tokens": 795,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 2000,
+        "output_tokens_details": {
+          "reasoning_tokens": 1536
+        },
+        "total_tokens": 2795
+      }
+    }
+  ],
+  "cost": 0.08223125,
+  "reasoningTokens": 4928
+}

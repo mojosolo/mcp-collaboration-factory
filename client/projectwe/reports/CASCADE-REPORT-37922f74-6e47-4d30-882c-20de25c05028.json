@@ -1,0 +1,57 @@
+{
+  "documentId": "afb19b9a-a866-4bab-9943-1d7f79c3d49d",
+  "documentName": "A8-Accountability Engine.pdf",
+  "tenant": "WEEXIT_PROJECT",
+  "sessionId": "37922f74-6e47-4d30-882c-20de25c05028",
+  "processedAt": "2025-08-13T15:28:59.248Z",
+  "cascadeScore": 0,
+  "totalCost": 0,
+  "totalTime": 4745,
+  "layers": {
+    "FOUNDATION": {
+      "model": "gpt-5-nano",
+      "content": null,
+      "insights": [],
+      "metrics": {},
+      "reasoningTokens": 0,
+      "totalTokens": 0,
+      "processingTime": 200,
+      "cost": 0,
+      "rateLimits": {}
+    },
+    "STRATEGIC": {
+      "model": "gpt-5-mini",
+      "content": null,
+      "insights": [],
+      "metrics": {},
+      "reasoningTokens": 0,
+      "totalTokens": 0,
+      "processingTime": 104,
+      "cost": 0,
+      "rateLimits": {}
+    },
+    "IMPLEMENTATION": {
+      "model": "gpt-5",
+      "content": null,
+      "insights": [],
+      "metrics": {},
+      "reasoningTokens": 0,
+      "totalTokens": 0,
+      "processingTime": 265,
+      "cost": 0,
+      "rateLimits": {}
+    },
+    "EVOLUTION": {
+      "model": "gpt-5",
+      "content": null,
+      "insights": [],
+      "metrics": {},
+      "reasoningTokens": 0,
+      "totalTokens": 0,
+      "processingTime": 156,
+      "cost": 0,
+      "rateLimits": {}
+    }
+  },
+  "recommendations": []
+}

@@ -1,0 +1,83 @@
+{
+  "document": "A8-Leader Practice Kit.pdf",
+  "processedAt": "2025-08-14T00:12:17.174Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Structured extraction of key facts, metrics, entities, and insights\n\nDocument overview\n- Title/Type: Leader Resource – Leader Practice Kit\n- Purpose: Implement ongoing leadership and team practices to improve mood, alignment, decision clarity, and accountability\n\nQuantitative details (metrics explicitly in the document)\n- Team size for Acknowledgement Practice: 3–7 people\n- Timeboxes in Acknowledgement Practice:\n  - 1 minute: Person shares what they bring to the team\n  - 5 minutes: Others share appreciations with that person\n- Roles: 2 roles per session (Timer, Scribe)\n- Deadlines: “By when?” required in Decision Made Practice\n\nNamed practices and core workflows\n1) Acknowledgement Practice (to shift team mood)\n- Participants: Team of 3–7; all rotate\n- Steps:\n  - For 1 minute, the focal person shares: “What I bring to the team is…”\n  - For 5 minutes, each teammate says: “What I appreciate about what you bring is…”\n  - Speak to the person (not about them)\n- Roles:\n  - Timer: times each part\n  - Scribe: captures appreciations for the focal person and delivers notes afterward\n- Outputs: Written notes for each person; strengthened morale and recognition\n\n2) Do Well, Do Better Practice (learning vs. blame)\n- Purpose: Retrospective-style continuous improvement focused on learning\n- Prompts/fields:\n  - Action/Practice/Initiative\n  - What am I doing well?\n  - What could I be doing better?\n  - What is the team doing well?\n  - What could the team be doing better?\n  - What new actions do we need to take?\n  - Who owns that action?\n  - Outcome of an initiative\n  - Ongoing practices (etc.)\n- Outputs: Action plan with owners; improvement backlog; outcomes documented\n\n3) Resolving Team Issues Practice (ongoing, as needed)\n- Purpose: Resolve misalignments and breakdowns\n- Key questions:\n  - What is the issue to resolve? Where is the misalignment?\n  - What is the purpose of the current practice/activity? Who does it serve? How?\n  - What are individual concerns (similarities/differences)?\n  - How does my part impact the team?\n  - What are we for vs. against? (state positive intent)\n  - Accountability: What is my part in creating the breakdown?\n- Outputs: Clarity on purpose, concerns, accountability; agreed direction\n\n4) Decision Made Practice (when management makes key decisions)\n- Trigger: Management decisions affecting people, strategy, process, or customers\n- Required answers:\n  - What decision was made?\n  - Why was the decision made? (context)\n  - What do you need to communicate?\n  - To whom?\n  - By when?\n- Outputs: Decision log; communication plan with audiences and deadlines\n\nCommitments, standards, and culture\n- High-performance team premise:\n  - Members agree to be held accountable for the mission to and by the team\n  - Trust built via clear, explicit commitments and open participation\n  - Mutual respect, responsibility, dignity\n  - Intentionally manage mood: create/sustain ambition, gratitude, belief\n- Expectations and standards (behavioral commitments):\n  - If unclear, ask for clarity\n  - No blaming; all are responsible\n  - Own your part of outcomes\n  - Ask “Where can I add value?”\n  - Don’t let ego block team mission\n  - Sincerity (mean",
+      "reasoningTokens": 1216,
+      "tokens": {
+        "input_tokens": 983,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1958,
+        "output_tokens_details": {
+          "reasoning_tokens": 1216
+        },
+        "total_tokens": 2941
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Strategic patterns and their business implications\n\nCore strategic themes\n- Operationalizing culture through rituals: Simple, repeatable practices (acknowledgement rounds, blameless reviews, decision logs) convert values into behaviors. This lowers coordination costs and accelerates execution.\n- Psychological safety as a performance lever: Practices explicitly build trust, respect, and appreciation, enabling candor and faster problem-solving—key for innovation and cross-functional work.\n- Decision hygiene and transparency: “Decision Made Practice” functions like an ADR (architecture decision record) beyond engineering. It reduces ambiguity, rework, and misalignment.\n- Ownership and accountability: Clear commitments, role clarity, explicit requests/promises. This addresses the chronic “who owns what by when” gap and improves throughput.\n- Continuous learning loops: “Do Well/Do Better” makes retrospectives a default habit, decoupled from blame. This compounds improvements and resilience.\n- Mood management as strategy: Normalizes talk about team climate and intent (“for” vs “against”). Expect lower conflict drag and improved engagement/retention.\n\nCompetitive advantages (if adopted internally)\n- Faster cycle times and higher reliability: Fewer dropped balls, clearer handoffs, quicker decisions.\n- Stronger cross-functional alignment: Shared language for commitments and issues reduces friction across teams.\n- Talent magnet and retention: Trust and appreciation practices support higher eNPS and lower regrettable attrition.\n- Higher change capacity: Blameless learning builds adaptive capacity for reorgs, new product bets, and market shocks.\n- Better customer outcomes: Cleaner decisions and accountability improve delivery predictability and service quality.\n\nMarket opportunities (if productized)\n- Buyer segments\n  - Mid-market and scale-ups struggling with first-line manager enablement.\n  - PE-backed roll-ups and post-merger integrations needing culture and execution alignment.\n  - Distributed/remote teams (tech, professional services, healthcare ops).\n  - Regulated industries where decision traceability matters (finserv, healthcare, aerospace).\n  - Team leads in product/engineering adopting agile/OKRs but missing trust/accountability rituals.\n- Use-case wedges\n  - “Manager starter kit” for new managers.\n  - 60-minute team reset/offsite-in-a-box.\n  - Decision log rollout for cross-functional programs.\n  - Post-incident blameless practice for ops/SRE/CS.\n- Channels\n  - HR/L&D budgets; leadership development and engagement programs.\n  - PLG via freemium templates in Notion/Confluence, Slack/Teams apps.\n  - Partner with executive coaches, boutique consultancies, and PE operating partners.\n\nBusiness model insights\n- Packaging\n  - SaaS platform: workflows for the practices (timers, scribe capture, decision log templates, action tracking), Slack/Teams integration",
+      "reasoningTokens": 1408,
+      "tokens": {
+        "input_tokens": 982,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1978,
+        "output_tokens_details": {
+          "reasoning_tokens": 1408
+        },
+        "total_tokens": 2960
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a practical, end-to-end implementation guide that turns your Leader Practice Kit into repeatable habits. It includes roll-out plan, step-by-step processes, agendas, roles, templates, tools, and metrics.\n\nImplementation roadmap (first 90 days)\n- Week 0: Kickoff (60 min)\n  - Confirm team mission, values, and standards.\n  - Adopt the 8 Essential Commitments as your team charter.\n  - Assign a Practice Owner (rotates quarterly).\n  - Choose tools (docs, board, timer, comms).\n- Cadence\n  - Weekly: Do Well, Do Better (DWDB) retrospective (30–45 min).\n  - Monthly: Acknowledgement Session (50–70 min; more if team >5).\n  - As needed: Resolving Team Issues (60–90 min).\n  - On decision: Decision Made practice (within 24–72 hours of decision).\n- Tracking and artifacts\n  - Create a shared “Team Practices” folder with:\n    - 01_Acknowledgements (notes per person)\n    - 02_DWDB (rolling log/table)\n    - 03_Issues Log (issue canvas + actions)\n    - 04_Decision Briefs (5-question template + comms)\n    - 05_Team Charter (commitments, norms)\n- Metrics (review monthly)\n  - Trust/psychological safety pulse (2–4 questions)\n  - % actions completed on time\n  - Average time to resolve issues\n  - Clarity scores after decisions (quick thumbs up/down or 1–5)\n  - Recognition count (ack highlights)\n\nCore practices and how to run them\n\n1) Acknowledgement Practice (shift mood, build identity)\n- When: Monthly or after major milestones; 3–7 people per session.\n- Duration: ~10 min per person (1 min self + 5 min appreciations + transitions).\n- Roles\n  - Facilitator (keeps vibe safe and focused; can be the Practice Owner)\n  - Timer (enforces timeboxes)\n  - Scribe (captures appreciations verbatim; gives notes to the person)\n- Pre-work and tools\n  - Timer app, shared doc (one page/person), quiet room or virtual with cameras on.\n  - Safety norms: speak to the person, not about them; no fixing, no “but.”\n- Steps\n  1. Facilitator frames purpose: “We’re amplifying strengths and trust. Speak to, not about.”\n  2. Person A (1 min): “What I bring to the team is…” (focus on essence and contribution).\n  3. Team (5 min): “What I appreciate about what you bring is…” One by one, concise and specific.\n  4. Scribe documents verbatim and hands notes to Person A at end of their turn.\n  5. Rotate roles each session if you like; repeat for all.\n- Output\n  - Acknowledgement notes per person (store in folder; optional personal reflection).\n- Tips\n  - Use a speaking token to prevent crosstalk.\n  - Hybrid: keep remote-first etiquette; scribe posts notes immediately after.\n\n2) Do Well, Do Better (DWDB) Retrospective (learning, not blame)\n- When: Weekly or biweekly; 30–45 min.\n- Template (keep a single rolling table)\n\n  Columns:\n  - What am I doing well?\n  - What could I be doing better?\n  - What is the team doing well?\n  - What could the team be doing better?\n  - New actions to take\n  - Owner\n  - Due date\n  - Status\n\n- Steps\n  1. Check-in (3 min): mood and quick wins.\n  2. Silent capture (5 min): individuals add notes to first four columns.\n  3. Discuss themes (10–15 min): cluster similar items; avoid blame; focus on learning.\n  4. Commit to actions (10–15 min): draft new actions, assign owner and due date, define “done.”\n  5. Close (2 min): each person states one commitment they’ll keep.\n- Output\n  - Updated action list with owners/dates and clear definition of done.\n- Tips\n  - Keep actions small and testable.\n  - Start next retro by reviewing last actions’ status.\n\n3) Resolving Team Issues Practice (alignment",
+      "reasoningTokens": 1024,
+      "tokens": {
+        "input_tokens": 978,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1944,
+        "output_tokens_details": {
+          "reasoning_tokens": 1024
+        },
+        "total_tokens": 2922
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below are transformational insights that surface when you treat this “Leader Practice Kit” not as a set of isolated exercises, but as a conversational operating system for a high‑trust, high‑performance team.\n\nFoundational lens: this is a language-and-mood operating system\n- The common denominator: each practice upgrades the team’s speech acts (requests, promises, declarations, assessments) and the team’s mood (the background emotion that shapes what actions seem possible). When language and mood are tended deliberately, performance compounds.\n- Replace “task management” with “commitment management.” Work is the flow of requests and promises among people who trust each other enough to coordinate under uncertainty.\n\nHidden architecture and flywheels across the practices\n- Trust flywheel: Acknowledgement (2) raises belonging and identity safety → people make clearer requests and promises (6, 7) → delivery reliability improves → trust grows → more candid, faster coordination → even better delivery.\n- Learning flywheel: Do Well/Do Better (3) normalizes non-blaming retros → issues surface sooner → they’re processed with the Resolving Issues protocol (4) → structural fixes implemented → future retros find fewer recurrences.\n- Clarity cascade: Decision Made (5) converts decisions from “events” into cascaded commitments (what/why/what to say/to whom/by when) → misinterpretation and rumor shrink → execution accelerates.\n- Mood-as-infrastructure: Acknowledgement (2) and “speak for what you’re for” (4, 6) shift collective mood from anxiety/resentment to ambition/gratitude → more option-generation, less defensive narrowing → higher creativity and resilience.\n\nParadigm shifts required\n- From heroics to agreements: Success is not individual brilliance; it’s consistent, explicit agreements honored and renegotiated early when reality shifts.\n- From blame to capability-building: Retros are for learning and redesigning the system, not allocating fault.\n- From decisions as pronouncements to decisions as designed communications: A decision isn’t done until the right people heard the right message and made new promises.\n- From feedback as judgment to acknowledgment as fuel: Frequent, specific appreciation creates identity coherence, which sustains performance under stress.\n- From meeting time to practice time: Recurrent rituals are the production line of culture; treat them as core work, not “soft add-ons.”\n\nStrategic leverage points (small changes, big systemic effects)\n- Upgrade requests and promises (7, 6):\n  - Every request includes conditions of satisfaction, due date/time, success criteria, constraints, and the right to say no or counter-offer.\n  - Track promises in a visible system with states: Requested, Committed, In Progress, At Risk, Renegotiated, Delivered.\n  - Teach early renegotiation as a norm; reward it more than last-minute heroics.\n- Institutionalize decision clarity (5):\n  - Maintain a Decision Register: decision, rationale/context, implications, communications owner, audiences, by-when, FAQs.\n  - Pre-commit to who will be inconvenienced and how you’ll support them; it reduces resistance.\n- Normalize mood management (2, 6):\n  - Set a minimum appreciation ratio in meetings (e.g., 3:1 positive to constructive).\n  - Use “speak to",
+      "reasoningTokens": 1280,
+      "tokens": {
+        "input_tokens": 982,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1960,
+        "output_tokens_details": {
+          "reasoning_tokens": 1280
+        },
+        "total_tokens": 2942
+      }
+    }
+  ],
+  "cost": 0.08330625,
+  "reasoningTokens": 4928
+}

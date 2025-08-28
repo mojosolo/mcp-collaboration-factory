@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-08-14T01:31:13.277Z",
+  "processed": 66,
+  "total": 66,
+  "percentComplete": 100,
+  "totalReasoningTokens": 320960,
+  "avgReasoningPerDoc": 4863,
+  "estimatedTotalReasoning": 320958,
+  "totalCost": 5.12503875,
+  "avgCostPerDoc": 0.0777,
+  "estimatedTotalCost": 5.13
+}

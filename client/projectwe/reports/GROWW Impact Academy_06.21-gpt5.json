@@ -1,0 +1,83 @@
+{
+  "document": "GROWW Impact Academy_06.21.pdf",
+  "processedAt": "2025-08-14T00:59:30.372Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a structured extraction of key facts, metrics, entities, and actionable insights from the provided document.\n\nDocument metadata\n- Title: Impact Academy Discussion Document\n- Date: June 2021\n- Confidentiality: Private & Confidential\n- Sections present: Curriculum; Learning Methodology\n\nProgram overview\n- Purpose: Increase awareness, clarify purpose, and align action; build sustainable behavior shifts via periodic refreshes and deepening work.\n- Format: Begins with an Intensive Offsite to create unconditional support and deeper connection; subsequent sessions interleaved with practice time.\n- Core deliverable: Personal roadmap identifying future ideal state, assessing current state, and outlining growth path to achieve desired impact/outcomes.\n\nProgram structure and metrics (durations)\n- Total modules: 4\n- Intensive Offsite: 2 days\n- High-Performance Communication: 1 day\n- Breaking Belief Barriers and Creating New Norms: 1 day\n- Making and Delivering on Commitments: 1 day\n- Inter-session cadence: Readings and practices with a “learning buddy” after each module to reinforce learning and application.\n\nCurriculum modules and outcomes\n1) Foundation to Higher Performance – Intensive Offsite (2 days)\n- Outcomes/tools:\n  - Understand interplay of intellect, body, and emotion in performance/learning/action.\n  - Learn a tool to manage stress over time and improve moment-to-moment responsiveness.\n  - Move from comfort zone to learning zone to expand possibilities.\n  - Identify and break limiting beliefs.\n  - Use vulnerability to strengthen relationships, teams, and community.\n  - Build/repair trust; create accountable cultures where members “fill the gaps.”\n  - Normalize commitment to drive innovation and execution.\n- Reinforcement: Readings and learning buddy practices.\n\n2) High-Performance Communication (1 day)\n- Outcomes/tools:\n  - Grasp speech as generative—how language shapes future context.\n  - Use assessments effectively with proper grounding.\n  - Practice distinctions in speaking for aligned action and better relationships.\n  - Manage key conversations for innovation, execution, and visioning.\n  - Leverage awareness training for engagement and leadership.\n  - Identify personal triggers and coping mechanisms.\n- Reinforcement: Readings and learning buddy practices.\n\n3) Breaking Belief Barriers and Creating New Norms (1 day)\n- Outcomes/tools:\n  - Surface personal/professional norms that hinder change.\n  - Create psychologically safe learning environments for risk-taking and possibility.\n  - Apply a fast-learning model.\n  - Draft personal declarations and define conditions of satisfaction.\n- Reinforcement: Readings and learning buddy practices.\n\n4) Making and Delivering on Commitments (1 day)\n- Outcomes/tools:\n  - Conduct effective conversations for results: requests, offers, promises.\n  - Manage breakdowns; give/receive feedback; renegotiate commitments.\n  - Commit to specific practices.\n  - Celebrate achievements.\n- Reinforcement: Readings and learning buddy practices.\n\nLearning methodology (Embodied learning)\n- Core assertions:\n  - Learning is not solely cognitive; mastery is the ability to take effective action.\n  - Effective action engages the whole self: intellect, physical presence, and emotional rapport.\n  - Building new skills and worldviews requires repetition and practice.\n\nKey concepts and terms\n- Generative speech; assessments and grounding\n- Comfort zone vs learning zone\n- Limiting beliefs; vulnerability\n- Trust-building and repair\n- Accountable cultures; aligned action\n- Conditions of satisfaction; personal declarations\n- Fast-learning model\n- Breakdowns, feedback",
+      "reasoningTokens": 1216,
+      "tokens": {
+        "input_tokens": 801,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1938,
+        "output_tokens_details": {
+          "reasoning_tokens": 1216
+        },
+        "total_tokens": 2739
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a concise, business-focused read of the Impact Academy content.\n\nStrategic themes\n- Behavior change over information transfer: Emphasis on embodied learning (intellect, body, emotion), repetition, and practice vs. purely cognitive instruction.\n- Trust and accountability as execution levers: Vulnerability, psychological safety, and explicit commitments positioned as drivers of innovation, risk reduction, and delivery.\n- Conversation as the operating system for",
+      "reasoningTokens": 1856,
+      "tokens": {
+        "input_tokens": 800,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1946,
+        "output_tokens_details": {
+          "reasoning_tokens": 1856
+        },
+        "total_tokens": 2746
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a practical, step‑by‑step implementation guide that turns the curriculum into a runnable program with clear processes, tools, scripts, and artifacts. You can copy/paste this into a project plan and assign owners.\n\n1) Program purpose and outcomes\n- Purpose: Build awareness, clarity of purpose, and aligned action, then hardwire gains into daily work via embodied practice.\n- Outcomes by 90 days:\n  - Personal roadmap completed and in weekly use.\n  - Measurable lift in trust, commitment reliability, and communication quality.\n  - Team can consistently use requests/offers/promises and renegotiate cleanly.\n  - Participants run fast-learning experiments and share results.\n\n2) Structure and timeline\n- Cohort size: 16–24 (pairs and triads work best).\n- Duration: 8–10 weeks.\n- Cadence:\n  - Week 0: Prework and baseline metrics.\n  - Week 1: Intensive Offsite (2 days).\n  - Weeks 2–3: Practice sprints with buddy/coach.\n  - Week 4: High-Performance Communication (1 day).\n  - Weeks 5–6: Practice sprints.\n  - Week 7: Breaking Belief Barriers and Creating New Norms (1 day).\n  - Week 8: Practice sprint.\n  - Week 9: Making and Delivering on Commitments (1 day).\n  - Week 10: Capstone, celebration, sustainment kickoff.\n- Weekly rhythm between sessions:\n  - 30-minute buddy call.\n  - 15-minute solo reflection.\n  - 1 micro-experiment.\n  - 1 practice clinic/office hour (optional, 45 minutes).\n\n3) Roles and responsibilities\n- Executive sponsor: Sets context, removes obstacles, models practices.\n- Lead facilitator: Designs and runs sessions, ensures safety and rigor.\n- Co-facilitator/coach: Observes, offers feedback, runs breakouts.\n- Program manager: Logistics, comms, attendance, artifact collection.\n- Participants: Complete prework; attend fully; run experiments.\n- Learning buddies: Weekly practice; feedback; accountability.\n- Team leads of participants: Align on real-work commitments; reinforce practices.\n\n4) Prework (Week 0) and baselines\n- Time commitment: 90",
+      "reasoningTokens": 1472,
+      "tokens": {
+        "input_tokens": 796,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1949,
+        "output_tokens_details": {
+          "reasoning_tokens": 1472
+        },
+        "total_tokens": 2745
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below are transformational insights that synthesize the document’s intent and method, with long-term implications, hidden patterns, paradigm shifts, and leverage points you can act on.\n\nMeta-shift: from knowing to doing to becoming\n- Paradigm shift: Performance is not primarily cognitive; it is embodied (state), relational (trust), and linguistic (commitments). The program reorganizes how people make sense, coordinate action, and regulate state.\n- Long-term implication: If embedded, the organization evolves into a commitment-based, fast-learning network that adapts quickly, reduces execution risk, and compounds trust as a strategic asset.\n\nHidden patterns the curriculum surfaces and rewires\n- Vague speech → vague results: Unclear requests, missing conditions of satisfaction, and implicit promises drive rework. Making explicit requests/offers/commitments with “who/what/by-when/conditions” eliminates silent failure modes.\n- Opinions masquerading as facts: Ungrounded assessments spread risk and stall innovation. Training people to ground assessments improves decision quality and de-escalates conflict.\n- Fear and stress shrink the learning zone: Chronic stress narrows perception and options. Embodied practices expand capacity under pressure, enabling better decisions and faster learning.\n- Low-trust micro-frictions: Small breaches (missed micro-commitments, unrenegotiated slips) silently tax velocity. Normalizing renegotiation before due dates preserves trust stock and project momentum.\n- Belief cages: Legacy norms (e.g., “don’t say no,” “speed over clarity,” “never show vulnerability”) cap performance. Surfacing and reauthoring these norms unlocks latent capability.\n- Feedback as threat: Without safety and skill, feedback becomes compliance or avoidance. Reframing breakdowns as learning assets turns feedback into a performance flywheel.\n\nCore paradigm shifts and their strategic value\n- Language is generative: We don’t just describe the future; we bring it forth via declarations, requests, and promises. Shifting meeting language shifts outcomes at low cost.\n- Trust as an operational system: Trust is built on competence, reliability, sincerity, and care. Treat it as a stock you measure and manage, not a vibe you hope for.\n- Commitment as the atomic unit of execution: Plans coordinate resources; commitments coordinate people. Managing the network of commitments is a leverage point for cycle time, quality, and morale.\n- Vulnerability as a performance enhancer: Psychological safety expands the learning zone, accelerates issue detection, and increases innovation throughput.\n- Breakdowns as signal, not shame: Early naming and structured renegotiation convert uncertainty into clarity and resilience.\n\nStrategic leverage points to embed and scale\n- Redesign your meeting operating system:\n  - Begin with explicit",
+      "reasoningTokens": 1408,
+      "tokens": {
+        "input_tokens": 800,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1961,
+        "output_tokens_details": {
+          "reasoning_tokens": 1408
+        },
+        "total_tokens": 2761
+      }
+    }
+  ],
+  "cost": 0.08193625,
+  "reasoningTokens": 5952
+}

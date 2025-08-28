@@ -1,0 +1,83 @@
+{
+  "document": "Mapping Family Culture.pdf",
+  "processedAt": "2025-08-14T01:08:03.115Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a structured extraction of key facts, metrics, entities, and practical insights from the document “Mapping your Family Culture.”\n\n1) Purpose and Use\n- Purpose: A self-assessment and intergenerational comparison tool to map a family’s cultural orientation along an Individualistic vs. Honor Culture spectrum and identify gaps to bridge.\n- Output: A set of ratings across cultural dimensions for two cohorts (self vs. other generation), plus an action plan to address differences.\n\n2) Process/Steps (Method)\n- Step One (self-rating): Use blue or black ink to rate yourself on each dimension using a 1–5 scale.\n- Step Two (intergenerational rating): Use red ink to rate the other generation (rising rates current; current rates rising).\n- Step Three (action planning): Identify differences and list actions to bridge gaps.\n\n3) Metrics and Scales\n- Scale: 1–5 Likert-type scale per dimension.\n  - 1 = Strongly Individualistic Culture anchor\n  - 5 = Strongly Honor Culture anchor\n- Scoring entities: Two ratings per item (self vs. other generation).\n- Gap metric: Absolute difference between the two ratings per dimension (larger gaps indicate higher priority areas for adaptation).\n- Number of dimensions: 14 cultural dimensions.\n\n4) Cultural Dimensions and Anchors (Individualistic vs. Honor Culture)\n- Primary purpose of the family\n  - 1: Develop individuals to lead fulfilling lives\n  - 5: Respect tradition and authority within the family; family power protects/sustains members\n- Identity\n  - 1: Created predominantly by oneself\n  - 5: Derived from personal and family reputation and one’s role in the extended family\n- Hierarchy\n  - 1: Limited hierarchy; adults essentially equal\n  - 5: Strong, fixed hierarchy; roles differentiated by tradition\n- Trusting\n  - 1: Task-based; performance/reliability\n  - 5: Relationship/tradition-based; enhanced by evidence of trustworthiness\n- Communicating\n  - 1: Direct, explicit, task- and performance-oriented; rational agreements\n  - 5: Ambiguous/political; influenced by one’s rank in hierarchy\n- Expression of emotions\n  - 1: Direct, rational, restrained especially in business\n  - 5: Direct/emotional (even volatile) with trusted people; otherwise cautious/hidden\n- Leading\n  - 1: Egalitarian\n  - 5: Hierarchical\n- Evaluating (feedback style)\n  - 1: Gives negative feedback directly\n  - 5: Gives negative feedback obliquely\n- Persuading\n  - 1: Prefers practical applications first\n  - 5: Prefers concepts/principles first\n- Disagreeing\n  - 1: Able to confront directly\n  - 5: Avoids confrontation\n- Deciding\n  - 1: Consensual; “one voice one vote”; fair/collaborative\n  - 5: Top-down; elders respected for wisdom; leaders act on behalf of family\n- Basis for decisions\n  - 1: Analytical, data-driven; timeliness/action prized\n  - 5: Tradition-led; general solutions prioritized; details less important\n- Transparency, sharing of ideas\n  - 1: Transparency advocated; speak up/share; innovation valued democratically\n  - 5: Little transparency (esp. with outsiders); sharing limited to trusted insiders\n- Scheduling\n  - 1: Exact, linear time\n  - 5: Relaxed, flexible about time\n\n5) Key Concepts\n- Cultural polarity: Individualistic Culture vs. Honor Culture as two ends of a continuum across multiple family/business practices.\n- Intergenerational comparison: Explicitly contrasts current and rising generations’ cultural orientations.\n- Areas of application: Communication, decision-making, leadership, trust, conflict, time, transparency, identity, and purpose.\n\n6) Stakeholders/Entities\n- Individual assessor (self)\n- Rising generation (children/next generation)\n- Current generation (parents/present leadership)\n- Family elders/leaders (particularly salient in Honor Culture)\n- Extended family (role and reputation matter)\n- Outsiders (relevant to transparency and sharing)\n- Family business context (not universal, but referenced in transparency/operations)\n\n7) Data Fields to Capture (for implementation)\n- Participant name and generation (current or rising)\n- Date of assessment\n- Ratings (1–5) for each of the 14 dimensions:\n  - Self rating (blue/black)\n  - Other-generation rating (red)\n- Calculated gap per dimension (|self − other|)\n- Notes on observed differences\n- Proposed actions per gap\n- Priority ranking (e.g., high/medium/low based on gap magnitude and impact)\n\n8) Actionable Insights and Bridging Strategies (by high-gap area)\n- Communication (direct vs. indirect)\n  - Agree on when to use direct vs. calibrated messaging; set norms for meeting agendas and follow-ups; use written summaries to reduce ambiguity.\n- Feedback (direct vs. oblique)\n  - Align on feedback channels (private vs. group), tone, and frequency; consider a “feedback contract” stating preferences.\n- Decision-making (cons",
+      "reasoningTokens": 896,
+      "tokens": {
+        "input_tokens": 840,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1990,
+        "output_tokens_details": {
+          "reasoning_tokens": 896
+        },
+        "total_tokens": 2830
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are the strategic patterns and business implications embedded in the Individualistic ↔ Honor culture map, with emphasis on themes, competitive advantages, market opportunities, and business model design.\n\nStrategic themes\n- Culture-as-strategy: Cultural orientation determines how value is created (innovation vs. reputation), how decisions are made (consensus vs. top-down), and how trust is built (performance vs. relationships). Treat it as a deliberate design variable, not a soft factor.\n- Two operating logics: The spectrum implies two distinct but valid operating systems. Individualistic OS optimizes for speed, transparency, and merit. Honor OS optimizes for cohesion, legitimacy, and resilience through hierarchy.\n- Generational drift as a growth lever: Rising generations often skew more individualistic. Structured bridges (sandboxes, venture arms, codified governance) unlock innovation without destroying legacy trust networks.\n- Market-culture fit: Product, pricing, sales motion, and governance should match customer culture. Culture-market misfit is a root cause of stalled deals and failed partnerships, especially cross-border.\n\nCompetitive advantages\n- If you lean Individualistic\n  - Speed and innovation: Faster ideation-to-decision cycles, direct feedback loops, experimentation, and data-driven pivots.\n  - Talent magnet: Merit-based growth, transparency, and autonomy attract high-skill talent.\n  - Scalable GTM: Repeatable, process-driven sales, clear SLAs, measurable KPIs.\n  - M&A/integration in rules-based markets: Easier post-merger integration where contracts and data anchor trust.\n\n- If you lean Honor\n  - Market access via relationships: Advantage in relational economies and sectors where reputation and elders’ endorsements unlock distribution.\n  - Stickiness and price power: Loyalty, multi-generational customer retention, and premium for reliability/trust.\n  - Cohesion under stress: Clear authority enables decisive crisis response; lower internal churn.\n  - Brand durability: Family name equity compounds; stewardship narrative reduces reputational risk.\n\n- If you build a hybrid (ambidextrous) model\n  - Two-speed advantage: Legacy core run hierarchically for reliability; ventures run autonomously for innovation.\n  - Boundary-spanners: Trusted individuals who “translate” between data-first and tradition-first logics shorten sales and decision cycles.\n  - Adaptive persuasion: Lead with concepts/principles for Honor audiences, with applications/data for Individualistic ones.\n\nMarket opportunities\n- Advisory and enablement\n  - Culture-to-strategy advisory for family enterprises, family offices, and founder-led firms (governance design, decision rights, succession, conflict resolution).\n  - Cross-cultural GTM services for companies expanding into relational economies (Middle East, South Asia, LATAM, parts of Africa).\n  - Generational transition programs: rising-gen leadership, feedback training, and stewardship narratives.\n\n- Productization\n  - Assessment SaaS: Digitize the culture map as a diagnostic with dashboards, deltas by generation, and action playbooks.\n  - Governance OS: Role-based decision rights, consent thresholds, escalation paths, meeting cadences, and transparency policies with permissioned access.\n  - Relationship CRM: Track kinship ties, elder endorsements, and reputation capital alongside standard CRM metrics.\n  - Learning content/certification: Train advisors and operators in “dual-culture” practices; monetize via certification and community.\n\n- Financial services\n  - Succession financing, trusts, and co-invest structures aligned to hierarchical decision-making and reputation protection.\n  - Cross-border JV structuring that marries",
+      "reasoningTokens": 1280,
+      "tokens": {
+        "input_tokens": 839,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1998,
+        "output_tokens_details": {
+          "reasoning_tokens": 1280
+        },
+        "total_tokens": 2837
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a complete, practical guide to implement the Family Culture mapping and turn insights into action. It includes steps, processes, tools, templates, and concrete bridging practices for each cultural dimension.\n\n1) Objectives and outcomes\n- Produce a shared picture of your family’s cultural tendencies across key dimensions.\n- Identify cross-generation gaps and select the top 3–5 to address first.\n- Agree on bridging norms, decision processes, and communication practices.\n- Pilot changes, measure results, and institutionalize what works.\n\n2) Setup and logistics\n- Roles\n  - Sponsor: senior family member who convenes and supports the process.\n  - Facilitator: neutral person (ideally external or a designated internal member trained to facilitate).\n  - Scribe: records agreements and action items.\n- Tools\n  - Digital survey: Google Forms or Typeform for 1–5 ratings per dimension.\n  - Visualization: Excel/Google Sheets for radar/spider charts.\n  - Collaboration: Notion/SharePoint for shared documents; WhatsApp/Signal for group chat.\n  - Scheduling: Doodle/Calendly for session booking.\n- Ground rules (agree up front)\n  - Confidentiality: “Chatham House Rule” for discussions.\n  - Psychological safety: “No shaming; curiosity over judgment.”\n  - Time norms: start/stop on time, phones silent except emergencies.\n\n3) Assessment process (1–2 weeks)\n- Prepare the survey\n  - Create one survey with 12 dimensions (use the statements provided).\n  - For each dimension, include two questions:\n    1) Rate yourself (1–5 scale).\n    2) Rate the other generation (1–5 scale).\n  - Add “importance” (Low/Medium/High) per dimension to gauge impact.\n- Invite participants\n  - All adult family members complete it independently.\n  - If paper: use black/blue for self; red for the other generation.\n- Collect and aggregate\n  - Export results to a sheet.\n  - Compute for each dimension:\n    - Average self-rating by generation.\n    - Perceived-other rating by generation.\n    - Gap size = absolute difference between generations’ self-averages.\n    - Perception-gap = difference between how one generation sees the other vs their self-rating (helps uncover misperceptions).\n- Visualize\n  - Create radar charts showing:\n    - Current Gen self vs Rising Gen self.\n    - Each generation’s perception of the other vs that generation’s self.\n  - Create a simple “Top Gaps” list sorted by gap size, filtered to High importance.\n\n4) Debrief workshop (2–3 hours, live or virtual)\n- Agenda\n  - Opening and purpose (10 min)\n  - Review of radar charts and top gaps (30 min)\n  -",
+      "reasoningTokens": 1408,
+      "tokens": {
+        "input_tokens": 835,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1986,
+        "output_tokens_details": {
+          "reasoning_tokens": 1408
+        },
+        "total_tokens": 2821
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below are transformational insights and practical leverage points you can use with the Individualistic–Honor Culture map, even before you collect ratings. They focus on long-term implications, hidden patterns, paradigm shifts, and concrete moves that close intergenerational gaps.\n\nWhat this tool really measures\n- Cultural distance, not just preferences: The gap size across items is a proxy for future friction in succession, capital allocation, hiring, and conflict resolution.\n- Pattern couplings: Dimensions cluster. For example, strong hierarchy usually coexists with oblique feedback and confrontation avoidance. Shifting one dimension without the others creates whiplash.\n- Cultural debt: Unaddressed gaps behave like “technical debt.” They don’t show as line items but surface at high-stakes moments (succession, liquidity events, reputational crises).\n- Domain drift: Families often default to Honor in “family” contexts and Individualistic in “business” contexts, but without explicit boundary lines. Drift creates inconsistent expectations.\n\nLong-term implications if gaps persist\n- Succession risk: Rising gen raised in Individualistic norms will exit (quietly or abruptly) if dissent has no safe channel. Honor-oriented rising gen will comply publicly but disengage privately, eroding initiative.\n- Strategy paralysis or reckless pivots: Consensus norms can stall decisive moves; top-down norms can accelerate poorly vetted strategies. Both raise enterprise risk when the environment is volatile.\n- Talent and trust erosion: Merit-driven non-family talent leaves if hierarchy tr",
+      "reasoningTokens": 1664,
+      "tokens": {
+        "input_tokens": 839,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1963,
+        "output_tokens_details": {
+          "reasoning_tokens": 1664
+        },
+        "total_tokens": 2802
+      }
+    }
+  ],
+  "cost": 0.08356125,
+  "reasoningTokens": 5248
+}

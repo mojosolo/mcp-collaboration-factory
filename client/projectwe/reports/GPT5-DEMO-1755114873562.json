@@ -1,0 +1,54 @@
+{
+  "demo": "GPT-5 CASCADE with v1/responses API",
+  "processedAt": "2025-08-13T19:54:33.561Z",
+  "tenant": "WE_PROJECTS",
+  "totalReasoningTokens": 5312,
+  "averagePerDocument": 1771,
+  "documents": [
+    {
+      "document": "A8 Customer Quotes.pdf",
+      "layers": [
+        {
+          "layer": "FOUNDATION",
+          "reasoningTokens": 448,
+          "preview": "Here are the key facts, metrics and outcomes extracted from the customer quotes:\n\nPeople & roles\n- E..."
+        },
+        {
+          "layer": "EVOLUTION",
+          "reasoningTokens": 1472,
+          "preview": "..."
+        }
+      ]
+    },
+    {
+      "document": "A8-Accountability Engine.pdf",
+      "layers": [
+        {
+          "layer": "FOUNDATION",
+          "reasoningTokens": 320,
+          "preview": "No numeric metrics are given in the source text. Below are extracted key facts and suggested measura..."
+        },
+        {
+          "layer": "EVOLUTION",
+          "reasoningTokens": 1216,
+          "preview": "Executive insights\n\n- The real gap isn’t role clarity; it’s commitment formation. Leaders often “fin..."
+        }
+      ]
+    },
+    {
+      "document": "A8-Advisor-1pgr.pdf",
+      "layers": [
+        {
+          "layer": "FOUNDATION",
+          "reasoningTokens": 384,
+          "preview": "Here are the key facts and available metrics extracted from the provided content.\n\nProgram / Name\n- ..."
+        },
+        {
+          "layer": "EVOLUTION",
+          "reasoningTokens": 1472,
+          "preview": "..."
+        }
+      ]
+    }
+  ]
+}

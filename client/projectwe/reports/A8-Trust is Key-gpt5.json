@@ -1,0 +1,83 @@
+{
+  "document": "A8-Trust is Key.pdf",
+  "processedAt": "2025-08-14T00:29:29.326Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a structured extraction of the document’s key elements.\n\nTitle and Theme\n- Title: Trust is the Key\n- Central theme: Trust is an assessment that underpins effective relationships and teamwork; when trust is low or broken, performance and possibilities decline.\n\nCore Assertions / Facts\n- Trust is always an assessment (not a fact).\n- No trust, no team. Low trust, low performance.\n- When trust is broken or insufficient, options are limited to:\n  - Accept higher levels of risk\n  - Declare a breakdown\n  - End the relationship and find another resource\n\nKey Concepts and Definitions\n- Trust: An assessment used to navigate uncertainty and enable action.\n- Sincerity: Alignment between private and public conversations; alignment of verbal and non-verbal communication.\n- Reliability: Effectively managing commitments.\n- Capability: Two parts:\n  - Competence: Recurrently producing satisfaction for others in a particular field.\n  - Capacity: Having the bandwidth to get it done.\n- Care: Emotional involvement and connection to the other’s concerns and desired outcomes in an appropriate way.\n\nComponents of Trust (with subcomponents)\n- Sincerity\n- Reliability\n- Capability\n  - Competence\n  - Capacity\n- Care\n\nConditions / Diagnostics\n- Where are you trusted, where are you not?\n- Team-level assessment: Where are we breaking trust as a team?\n- Individual-level assessments:\n  - Where am I breaking/eroding trust?\n  - What could I do to build trust?\n\nCommon Blind Spots Leading to Broken/Eroded Trust\n- Being late for meetings\n- Acting inconsistently with team standards\n- Stating assessments as if they are facts\n- Using other assessments to ground your assessments\n- Using standards not shared by the team to ground your assessments\n- “Thinking you know” (overconfidence/not checking)\n\nStakeholders and Contexts\n- Individuals (personal behavior and commitments)\n- Teams (shared standards, performance, coordination)\n- Leaders/managers (setting and upholding standards, repairing breakdowns)\n- Partners/clients/vendors (external relationships and service delivery)\n\nEntities and Terms (Glossary)\n- Trust, Assessment, Risk, Breakdown, Relationship, Team Standards\n- Sincerity, Reliability, Capability, Care\n- Competence, Capacity\n- Verbal/non-verbal communication, Commitments, Bandwidth, Satisfaction\n\nImplied Metrics and Indicators (Qualitative)\n- Sincerity indicators: Congruence between stated intentions and actions; consistency across private/public statements; alignment of words and body language.\n- Reliability indicators: On-time delivery; meeting deadlines; keeping and renegotiating commitments.\n- Capability indicators:\n  - Competence: Evidence of recurrently producing satisfaction in the relevant field.\n  - Capacity: Adequate time and resources to fulfill commitments.\n- Care indicators: Demonstrated understanding of others’ concerns; actions aligned with others’ desired outcomes.\n\nActionable Insights / Next Steps\n- Map trust by component:\n  - Rate/assess Sincerity, Reliability, Competence, Capacity, and Care for yourself and your team.\n- Identify and address blind spots:\n  - Track punctuality; align to team standards; label statements clearly as assessments vs. facts; agree on shared standards.\n- Make breakdowns explicit:\n  - If trust is insufficient, choose among the three options (accept risk, declare breakdown, or end/replace the relationship) and communicate the choice.\n- Strengthen commitments:\n  - Clarify, negotiate, and document commitments; proactively renegotiate when at risk.\n- Build Care:\n  - Elicit others’ concerns and success criteria; reflect them back; adjust actions accordingly.\n- Regular retrospectives:\n  - Ask: Where is trust strong/weak? Where are we breaking/eroding trust? What specific behaviors will we change this week to rebuild it?",
+      "reasoningTokens": 704,
+      "tokens": {
+        "input_tokens": 383,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1488,
+        "output_tokens_details": {
+          "reasoning_tokens": 704
+        },
+        "total_tokens": 1871
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below are strategic patterns and business implications you can derive from the trust framework, oriented to themes, competitive advantage, market opportunities, and business model design.\n\nStrategic themes\n- Trust as an operating system: Treat trust as a measurable, managed capability (not a value statement). Build processes, tooling, metrics, and governance around the four components: sincerity, reliability, capability, care.\n- Speed and cost advantages: High trust reduces verification, oversight, and negotiation costs; accelerates decision cycles, sales, and product delivery.\n- Risk management and resilience: Clear “breakdown” rituals and recovery playbooks reduce relationship loss after incidents and limit compounding risk.\n- Cultural alignment to execution: Explicit separation of facts vs assessments reduces rework and conflict; commitment-based management (requests, promises, renegotiations) increases reliability.\n- Trust telemetry as a data asset: Instrument commitments, communications congruence, skill coverage, and customer empathy to create a “trust graph” across teams, vendors, and customers.\n\nCompetitive advantages\n- Pricing power and conversion: Transparent commitments and performance history support premium pricing and shorten enterprise sales cycles.\n- Lower churn and higher LTV: Care and reliability reduce post-sale friction, increase expansion/renewals, and create referenceability.\n- Ecosystem leverage: Verified capability and reliability data attract higher-quality partners; enables marketplace or platform strategies.\n- Talent magnet: Sincere leadership and reliable commitments drive retention and attract high performers.\n- Regulatory access: Trust signals (security, compliance, auditability) unlock regulated sectors and larger deal sizes.\n\nMarket opportunities\n- Trust infrastructure products\n  - “Trust centers” (security, uptime, roadmaps, postmortems, SLA adherence) as a standard external artifact for B2B.\n  - Commitment management systems (SaaS) that track requests/promises, renegotiations, and on-time delivery rates; integrate with CRM/PM tools.\n  - Reliability analytics and badges (verifiable credentials, skills passports, team capacity telemetry).\n  - Care/Empathy tooling for CX (sentiment detection, escalation triggers, effort scores).\n  - Sincerity checks (message congruence, disclosure completeness) for regulated communications and AI-generated content.\n- Vertical plays with trust deficits\n  - Marketplaces/gig: provider reliability scoring, escrow, performance bonds, dispute resolution guarantees.\n  - Supply chain: provenance/traceability",
+      "reasoningTokens": 1472,
+      "tokens": {
+        "input_tokens": 382,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1959,
+        "output_tokens_details": {
+          "reasoning_tokens": 1472
+        },
+        "total_tokens": 2341
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a practical, step-by-step “Trust Operating System” you can deploy in a team or organization. It turns the concepts of sincerity, reliability, capability, and care into daily practices, with tools, templates, metrics, and a 90-day rollout.\n\n1) Program goals and non-negotiables\n- Outcome goals\n  - Raise trust so teams can move faster with fewer escalations.\n  - Reduce rework and coordination costs caused by low trust.\n- Non-negotiables\n  - Distinguish facts from assessments in all key communications.\n  - Manage commitments explicitly (requests, promises, renegotiations).\n  - Keep and enforce shared standards (working agreements).\n\n2) Roles and governance\n- Sponsor: Removes org impediments; models trust behaviors; receives monthly status.\n- Trust steward (1 per team): Facilitates trust rituals; maintains dashboards and tools.\n- People managers: Integrate trust metrics into 1:1s and development plans.\n- All team members: Own their commitments; call out broken standards; request clarifications.\n\n3) 90-day rollout plan\nWeeks 1–2: Baseline trust and define standards\n- Run the baseline trust survey (template below).\n- Conduct 3–5 stakeholder interviews per team (customers/partners).\n- Draft team working agreement and definition of on-time, quality, responsiveness.\n- Publish a “fact vs assessment” cheat sheet.\nWeeks 3–4: Implement commitments management\n- Introduce the Requests-to-Promises protocol and commitments log.\n- Start weekly Reliability Score reporting.\n- Train on renegotiation and “saying no well.”\nWeeks 5–6: Capability and capacity\n- Build a skills matrix; map work to capability; identify gaps.\n- Start capacity planning and visible workload limits.\nWeeks 7–8: Care and stakeholder alignment\n- Introduce stakeholder maps and care checks in 1:1s.\n- Define service levels (SLAs) for response and delivery to key stakeholders.\nWeeks 9–10: Blindspot detection\n- Install meeting punctuality tracker and standard start/stop rituals.\n- Train on feedback using SBI and NVC; start biweekly micro-retros on trust.\nWeeks 11–12: Trust repair and decision protocols\n- Deploy the Trust Breakdown protocol (apology-root cause-recommit).\n- Implement decision tree when trust is insufficient (risk, breakdown, exit).\nWeek 13: Review and adjust\n- Re-run the trust survey; compare metrics; update working agreement and targets.\n\n4) Core processes and how to run them\nA) Baseline and monitor trust\n- Trust survey (10–12 questions, Likert 1–5). Sample questions:\n  - Sincerity: My teammates’ words match their actions. I see alignment between their private and public statements.\n  - Reliability: We keep commitments or renegotiate early. Meetings start and end on time.\n  - Capability: We have the skills and bandwidth to meet expectations. We match work to strengths.\n  - Care: My concerns are understood and appropriately considered. We prioritize shared outcomes.\n  - Overall: I feel safe to speak up. I would recommend this team to a colleague (eNPS).\n- Frequency: Baseline, then quarterly.\n- Share results and choose 2–3 focus actions per quarter.\n\nB) Working agreement and standards (2-hour workshop)\n- Create explicit standards for:\n  - Time: “On time” means in the room and ready at the scheduled start; grace 0–5 min; repeat lateness triggers a check-in.\n  - Communication: Response SLAs (e.g., chat 4 business hours; email 24; decision docs 48).\n  - Quality: Definition of done; review standards; acceptance criteria.\n  - Tools: Where requests live, how we log commitments, where decisions are recorded.\n  - Conflict: Feedback norms; escalation path.\n- Publish and review quarterly; newcomers sign onto it.\n\nC) Requests-to-Promises protocol\n- Make a clear request:\n  - What: Deliverable, quality standard, format.\n  -",
+      "reasoningTokens": 1152,
+      "tokens": {
+        "input_tokens": 378,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1992,
+        "output_tokens_details": {
+          "reasoning_tokens": 1152
+        },
+        "total_tokens": 2370
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below are condensed, high‑leverage insights and moves that turn the ideas you shared into a durable operating system for trust.\n\n1) Reframe: trust as a designable system, not a personality trait\n- Treat trust as an asset with compounding returns. High trust lowers transaction costs, speeds decision cycles, and unlocks autonomy; low trust does the opposite.\n- Trust is co-created through language and behavior (requests, promises, assessments), not just intentions. You can architect it.\n\n2) See the system dynamics: flywheel vs death spiral\n- Trust flywheel: clear requests → grounded promises → on-time delivery/renegotiations → reliability reputation → lower risk premiums/less oversight → more speed/capacity → more wins → higher trust.\n- Trust death spiral: vague asks → thin promises → misses → more controls/meetings → reduced autonomy/slower cycles → more misses → eroded trust.\n- Strategic aim: protect the flywheel with explicit standards and fast repair loops.\n\n3) Make the four components operable\n- Sincerity: declare uncertainty and motives explicitly; align words, tone, and action. Signal your “say/do” ratio.\n- Reliability: manage a visible promise backlog with due dates, conditions of satisfaction, and renegotiation norms. Reward early “no” and fast renegotiation over heroic last-minute saves.\n- Capability: map competence (what we’re good at) and capacity (when we actually have bandwidth). Publish load/queues to avoid silent overcommitment.\n- Care: link tasks to what matters for others; show you grasp their stakes. Care is not “niceness”—it’s relevance to their outcomes.\n\n4) Expose hidden patterns that quietly erode trust\n- Assessment-as-fact: stating opinions as truths triggers defensiveness. Practice: “My assessment is X, grounded in Y evidence and Z standard.”\n- Unshared standards: teams assume different quality/time standards. Surface and codify shared standards; treat deviations as learnable gaps, not moral failures.\n- Time blindness: small lateness compounds. Make “time integrity” a team norm (start on time, end on time, notify early).\n- Shadow commitments: implied promises (“I’ll try”) clog the system. Replace with explicit yes/no/when plus conditions of satisfaction.\n- Capacity concealment: overpromising is a care failure disguised as goodwill.\n\n5) Paradigm shifts that unlock performance\n- From “trustworthy people” to “trustworthy protocols” (promise-based management). Design the work as a network of requests and promises.\n- From “more oversight” to “better promises.” Controls rarely fix bad commitments; better speech acts do.\n- From “communication = information” to “communication = action.” Requests, offers, promises, declarations, and assessments have different rules.\n- From “fix people” to “fix interactions”: standards, commitments, and repair rituals.\n\n6) Practical leverage points you can deploy quickly\n- Commitment architecture\n  - Every request includes: what, why (value), who is accountable, done-by-when, conditions of satisfaction, review method, escalation path.\n  - Promise responses limited to: yes; no; commit-to-commit by X; counter-offer; decline with rationale.\n- Renegotiation protocol\n  - Notify the moment you predict a miss; propose a new plan; acknowledge impact; ask if acceptable; update the record. Reward early renegotiations.\n- Grounded assessments\n  - Standard template: “My assessment is [X], grounded by [evidence], using [standard], in the domain of [scope].”\n- Trust repair playbook\n  - Acknowledge breach without defensiveness; name impact; state what you’ve",
+      "reasoningTokens": 1216,
+      "tokens": {
+        "input_tokens": 382,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1978,
+        "output_tokens_details": {
+          "reasoning_tokens": 1216
+        },
+        "total_tokens": 2360
+      }
+    }
+  ],
+  "cost": 0.07607625,
+  "reasoningTokens": 4544
+}

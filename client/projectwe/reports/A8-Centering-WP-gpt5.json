@@ -1,0 +1,58 @@
+{
+  "document": "A8-Centering-WP.pdf",
+  "processedAt": "2025-08-13T23:06:01.257Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 2,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a structured extraction of key facts, concepts, entities, and actionable insights from the provided document.\n\nDocument metadata\n- Title: Centering\n- Type: White paper\n- Organization: Activ8 LLC\n- Copyright: © 2014 Activ8 LLC\n- Quote featured: “At the center of your being you have the answer; you know who you are and you know what you want.” — Lao Tzu\n- Figure referenced: “Figure 1: Domains of Awareness, Practice & Centering” (image not included)\n- Status: Excerpt; last section (“Centering The Body”) is truncated\n\nCore thesis\n- Optimal performance requires integrated development across body, emotions, intellect, and spirit.\n- “Centering” is a state of wholeness where effective action, emotional security, mental alertness, and spiritual connection are balanced.\n- Sustainable change comes from regular practice; knowledge alone does not produce behavioral change.\n\nKey concepts and definitions\n- Optimal performance dimensions:\n  - Body: Physical energy and regulation\n  - Emotions: Emotional connection and flexibility\n  - Intellect: Mental awareness and endurance\n  - Spirit: Alignment with purpose beyond self-interest\n- Emotional Flexibility: Ability to bounce back from disappointment, frustration, and loss.\n- Mental Endurance: Ability to sustain focus over time and embrace multiple perspectives.\n- Spiritual Strength: Commitment to deepest values regardless of circumstance.\n- Center: A non-physical, balanced state enabling confidence, influence, and competence.\n- Three key distinctions in centering:\n  1) Presence: Being here now; cultivate via attention to body, slow deep breathing, muscle relaxation, and reducing physical tension. Outcomes: mood shifts, expanded choices, integrity in expression, deeper listening.\n  2) Openness: Non-judgmental sensory receptivity; expands range and texture of experience.\n  3) Connection: Built on presence and openness; has three dimensions:\n     - Connected to Self: Mind–body integration; source of authentic personal power.\n     - Connected to Others: Enables mutual growth.\n     - Connected to Surroundings: Connection to the broader universe.\n- Practice:\n  - Definition: A behavior done regularly; operative or generative practices are mentioned.\n  - Frequency guidance: Daily or several times per week yields meaningful change.\n  - Mechanism: Repetition leads to embodiment (actions become automatic, part of identity).\n  - Impact: The right practices, sustained, change how you move in the world and how others experience you.\n\nClaims and benefits\n- Centering fosters effective action, emotional security, mental alertness, and spiritual connection.\n- Presence practices can shift moods, increase choices, strengthen integrity, and improve listening.\n- Openness deepens and enriches experience.\n- Connection yields personal power (self), mutual development (others), and broader alignment (surroundings).\n\nEntities and proper nouns\n- Organization: Activ8 LLC\n- Authoritative voice/quote: Lao Tzu\n- Conceptual artifact referenced: “Domains of Awareness, Practice & Centering” (Figure 1)\n\nQuantitative elements and metrics\n- Year: 2014\n- Counts:\n  - 4 performance dimensions (body, emotions, intellect, spirit)\n  - 3 key distinctions (presence, openness, connection)\n  - 3 dimensions of connection (self, others, surroundings)\n- Frequency guidance: Daily or “several times a week” for practice\n- No empirical performance metrics or outcome data provided\n\nStakeholders and audiences\n- Individuals seeking optimal performance, resilience, and purpose alignment\n- Leaders, coaches, and teams focused on influence, competence, and collaboration\n- Organizations aiming to improve focus, adaptability, and well-being through practice\n- Practitioners in wellness, leadership development, and organizational effectiveness\n\nActionable insights and recommendations\n- Start with presence:\n  - Daily micro-practice: 2–5 minutes of slow, deep diaphragmatic breathing; scan for muscle tension; release clenching/twitching.\n  - Outcome focus: Notice mood shifts, decision clarity, and listening depth post-practice.\n- Build openness:\n  - Sensory check-in: Spend 1 minute noticing sights, sounds, bodily sensations without judgment.\n  - Journaling: Record new sensory details and emotional tones to enrich perception.\n- Strengthen connection:\n  - Self: Brief body–mind alignment (posture reset + breath) before key tasks.\n  - Others: In conversations, reflect back what you heard to foster mutual growth.\n  - Surroundings: Short nature or environment-awareness breaks to widen perspective.\n- Make it a true practice:\n  - Frequency: Daily or at least several times weekly.\n  - Fit to commitments: Choose practices aligned with current goals (e.g., focus, resilience, empathy).\n  - Track embodiment: Note when actions become automatic (less effortful, more reliable).\n- Integrate across dimensions:\n  - Body: Posture alignment, breathing, brief mobility breaks.\n  - Emotions: Label emotions; apply recovery breathing after stress.\n  - Intellect: Focus sprints with mindful transitions.\n  - Spirit: Revisit values; link tasks to a purpose beyond self-interest.\n\nGaps and limitations\n- No empirical data, case studies, or validated measures provided.\n- “Operative” vs “generative” practices mentioned but not defined.\n- “Centering The Body” section is incomplete.\n- Referenced figure is not included; framework visual is unavailable.\n\nOpen questions for follow-up\n- What specific centering exercises does Activ8 teach (beyond breathing and relaxation)?\n- How does Activ8 measure outcomes (e.g., focus, resilience, performance)?\n- Definitions and examples of “operative” vs “generative” practices in this framework.\n- Details of “Domains of Awareness, Practice & Centering” model (from Figure 1).\n\nConcise summary\n- The white paper argues that centering is a learnable, practice-driven state balancing body, emotions, intellect, and spirit. Through presence, openness, and connection, individuals can enhance performance, resilience, and influence. Regular practice (daily or several times weekly) is",
+      "reasoningTokens": 704,
+      "tokens": {
+        "input_tokens": 858,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1957,
+        "output_tokens_details": {
+          "reasoning_tokens": 704
+        },
+        "total_tokens": 2815
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": false,
+      "error": "fetch failed"
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a practical blueprint to implement Centering across body, emotions, intellect, and spirit—and to operationalize Presence, Openness, and Connection in daily life and team workflows. It includes step-by-step protocols, practice menus, schedules, tools, and metrics.\n\nObjectives\n- Build reliable, repeatable centering practices that become embodied.\n- Increase emotional flexibility, mental endurance, and spiritual strength.\n- Improve performance, relationships, and well-being.\n\nCore operating principle\nSmall, frequent, consistent practices beat long, occasional efforts. Anchor practices to existing routines, track briefly, and review regularly.\n\n1) The CENTER Protocol (90–180 seconds)\nUse this anytime you need to show up at your best—before meetings, difficult conversations, presentations, or when stressed.\n\n- C — Check-in body: Feel feet on floor, lengthen spine, relax jaw/shoulders, soften belly.\n- E — Exhale slow: Breathe in 4 seconds, out 6 seconds for 6 cycles. Quiet nasal breathing.\n- N — Name and normalize: Silently name your top emotion(s) in a word or two. “I feel tense and rushed.” Allow it to be present.\n- T — Tune to surroundings: Gently look around. Notice 3 sights, 2 sounds, 1 sensation. Let vision expand to peripheral.\n- E — Establish intention: One sentence starting with “Today I’m committed to…” or “In this meeting I will…”\n- R — Relate: If relevant, acknowledge others with a brief presence cue (eye contact, nod) or a short appreciative thought.\n\nTime-box: 90 seconds minimum, 3 minutes ideal.\n\n2) Daily Core Routine (6 minutes total)\nDo this at the same time every day (morning or pre-work). Use a timer and a simple log.\n\n- Body (2 min): 4-6 breathing; align posture; brief neck/shoulder release.\n- Emotions (2 min): RAIN-lite: Recognize, Allow, Name (one word), Nurture (one kind phrase to self).\n- Intellect (1 min): Set one “most important task” (MIT). Write it down and block 50–90 minutes for it.\n- Spirit (1 min): Read or recite your purpose/values line. Identify one act today aligned beyond self-interest.\n\n3) Micro-practices for Transitions (10–60 seconds each)\nUse these whenever you switch tasks, enter a room/meeting, or feel triggered.\n\n- 4–6 Breath: 4",
+      "reasoningTokens": 1472,
+      "tokens": {
+        "input_tokens": 853,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1998,
+        "output_tokens_details": {
+          "reasoning_tokens": 1472
+        },
+        "total_tokens": 2851
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": false
+    }
+  ],
+  "cost": 0.041688750000000004,
+  "reasoningTokens": 2176
+}

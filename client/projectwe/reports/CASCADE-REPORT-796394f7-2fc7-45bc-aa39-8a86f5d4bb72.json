@@ -1,0 +1,263 @@
+{
+  "documentId": "76e1a8d1-9233-4503-9ea7-4cb46f409be4",
+  "documentName": "A8-Ambition model.pdf",
+  "tenant": "WE_PROJECTS",
+  "sessionId": "796394f7-2fc7-45bc-aa39-8a86f5d4bb72",
+  "processedAt": "2025-08-13T16:05:55.069Z",
+  "cascadeScore": 70,
+  "totalCost": 0.01652191,
+  "totalTime": 26541,
+  "layers": {
+    "FOUNDATION": {
+      "model": "gpt-4.1-nano",
+      "content": {
+        "keyFindings": [
+          "The document presents a holistic model of human development emphasizing the integration of intellect, body, emotion, and spirit.",
+          "It introduces the Ambition Model, focusing on awareness, assessment, and emotional states such as resentment, resignation, peace, and ambition.",
+          "The importance of self-awareness, self-management, and balanced engagement across human experience domains for personal growth and effective response to life situations."
+        ],
+        "metrics": {
+          "readinessScore": 7,
+          "confidenceLevel": 0.85,
+          "complexityScore": 65
+        },
+        "riskFactors": [
+          {
+            "risk": "Misinterpretation of holistic concepts leading to ineffective application",
+            "severity": "medium",
+            "mitigation": "Provide additional training or clarification on key concepts and practical implementation"
+          }
+        ],
+        "opportunities": [
+          {
+            "opportunity": "Enhance personal development programs with holistic awareness techniques",
+            "impact": "high",
+            "effort": "medium"
+          }
+        ],
+        "recommendations": [
+          "Integrate the Ambition Model into leadership training to improve emotional intelligence",
+          "Develop practical exercises that foster awareness of the three human experience domains"
+        ],
+        "extractedConcepts": [
+          "holistic human development",
+          "domains of human experience: intellect, body, emotion, spirit",
+          "awareness-assessment-emotion cycle",
+          "emotional states: resentment, resignation, peace, ambition",
+          "power of awareness, choice, and accountability"
+        ]
+      },
+      "insights": [
+        "The document presents a holistic model of human development emphasizing the integration of intellect, body, emotion, and spirit.",
+        "It introduces the Ambition Model, focusing on awareness, assessment, and emotional states such as resentment, resignation, peace, and ambition.",
+        "The importance of self-awareness, self-management, and balanced engagement across human experience domains for personal growth and effective response to life situations."
+      ],
+      "metrics": {
+        "readinessScore": 7,
+        "confidenceLevel": 0.85,
+        "complexityScore": 65
+      },
+      "reasoningTokens": 0,
+      "totalTokens": 1688,
+      "processingTime": 3976,
+      "cost": 0.00013375,
+      "rateLimits": {
+        "limitRequests": 30000,
+        "limitTokens": 150000000,
+        "remainingRequests": 29999,
+        "remainingTokens": 149998405,
+        "resetRequests": "2ms",
+        "resetTokens": "0s"
+      }
+    },
+    "STRATEGIC": {
+      "model": "gpt-4.1-mini",
+      "content": {
+        "keyFindings": [
+          "The document emphasizes a holistic approach to human development integrating intellect, body, emotion, and spirit as interrelated domains critical for balanced living and effective leadership.",
+          "The Ambition Model provides a framework for self-awareness through assessment of situations as facts or possibilities, and positioning oneself by acceptance or opposition, which results in four emotional states: resentment, resignation, peace, and ambition.",
+          "Emotional intelligence components—self-awareness and self-management—are foundational for shifting from negative emotional states (resentment, resignation) to positive and productive ones (peace, ambition), enabling empowered responses and leadership presence."
+        ],
+        "metrics": {
+          "readinessScore": 7,
+          "confidenceLevel": 0.85,
+          "complexityScore": 65
+        },
+        "riskFactors": [
+          {
+            "risk": "Misinterpretation of holistic integration leading to fragmented application and ineffective personal development",
+            "severity": "medium",
+            "mitigation": "Provide clear, contextualized training with practical examples to reinforce holistic integration and application in daily life and leadership"
+          }
+        ],
+        "opportunities": [
+          {
+            "opportunity": "Leverage the Ambition Model to enhance leadership development programs by embedding emotional intelligence and self-awareness practices",
+            "impact": "high",
+            "effort": "medium"
+          }
+        ],
+        "recommendations": [
+          "Incorporate experiential learning exercises that develop awareness across intellect, body, emotion, and spirit to foster holistic self-development.",
+          "Integrate the Ambition Model framework into leadership and team training to improve emotional positioning, reduce unproductive opposition, and increase constructive ambition."
+        ],
+        "extractedConcepts": [
+          "holistic human development",
+          "domains of human experience: intellect, body, emotion, spirit",
+          "Ambition Model: assessment and positioning choices",
+          "emotional states: resentment, resignation, peace, ambition",
+          "self-awareness and self-management as foundations of emotional intelligence",
+          "power of awareness-choice-accountability chain"
+        ]
+      },
+      "insights": [
+        "The document emphasizes a holistic approach to human development integrating intellect, body, emotion, and spirit as interrelated domains critical for balanced living and effective leadership.",
+        "The Ambition Model provides a framework for self-awareness through assessment of situations as facts or possibilities, and positioning oneself by acceptance or opposition, which results in four emotional states: resentment, resignation, peace, and ambition.",
+        "Emotional intelligence components—self-awareness and self-management—are foundational for shifting from negative emotional states (resentment, resignation) to positive and productive ones (peace, ambition), enabling empowered responses and leadership presence."
+      ],
+      "metrics": {
+        "readinessScore": 7,
+        "confidenceLevel": 0.85,
+        "complexityScore": 65
+      },
+      "reasoningTokens": 0,
+      "totalTokens": 2122,
+      "processingTime": 5772,
+      "cost": 0.00041766000000000004,
+      "rateLimits": {
+        "limitRequests": 30000,
+        "limitTokens": 150000000,
+        "remainingRequests": 29999,
+        "remainingTokens": 149998012,
+        "resetRequests": "2ms",
+        "resetTokens": "0s"
+      }
+    },
+    "IMPLEMENTATION": {
+      "model": "gpt-4.1",
+      "content": {
+        "keyFindings": [
+          "The document proposes a holistic model for human development that integrates intellect, body, emotion, and spirit, arguing that balanced attention to all domains is essential for sustained well-being, effective action, and leadership presence.",
+          "The Ambition Model introduces a decision matrix based on two key choices: whether a situation is assessed as a fixed fact or as having possibilities, and whether one chooses to accept or oppose that assessment, resulting in four core emotional states—resentment, resignation, peace, and ambition.",
+          "Transitioning from negative emotional states (resentment, resignation) to positive ones (peace, ambition) requires developed self-awareness and self-management, aligning with foundational principles of emotional intelligence and supporting more empowered, creative, and compassionate responses to challenges."
+        ],
+        "metrics": {
+          "readinessScore": 7,
+          "confidenceLevel": 0.85,
+          "complexityScore": 65
+        },
+        "riskFactors": [
+          {
+            "risk": "Fragmented application of the holistic model may occur if individuals or teams focus only on one domain (e.g., intellect) while neglecting others, reducing the effectiveness of the approach.",
+            "severity": "medium",
+            "mitigation": "Implement integrative training sessions that explicitly connect and reinforce practices across all four domains, using real-life scenarios and feedback loops to ensure comprehensive adoption."
+          }
+        ],
+        "opportunities": [
+          {
+            "opportunity": "Embed the Ambition Model within organizational development, leadership training, and team-building programs to foster higher emotional intelligence, adaptability, and resilience.",
+            "impact": "high",
+            "effort": "medium"
+          }
+        ],
+        "recommendations": [
+          "Deploy experiential learning modules that facilitate self-assessment and reflection across intellect, body, emotion, and spirit, encouraging participants to recognize and balance these domains in daily practice.",
+          "Integrate the Ambition Model’s emotional decision matrix into leadership and coaching curricula to help individuals identify their default emotional responses and cultivate shifts toward more constructive states such as peace and ambition."
+        ],
+        "extractedConcepts": [
+          "holistic integration of human domains",
+          "Ambition Model decision matrix (assessment and positioning)",
+          "emotional intelligence (self-awareness, self-management)",
+          "state transitions: resentment, resignation, peace, ambition"
+        ]
+      },
+      "insights": [
+        "The document proposes a holistic model for human development that integrates intellect, body, emotion, and spirit, arguing that balanced attention to all domains is essential for sustained well-being, effective action, and leadership presence.",
+        "The Ambition Model introduces a decision matrix based on two key choices: whether a situation is assessed as a fixed fact or as having possibilities, and whether one chooses to accept or oppose that assessment, resulting in four core emotional states—resentment, resignation, peace, and ambition.",
+        "Transitioning from negative emotional states (resentment, resignation) to positive ones (peace, ambition) requires developed self-awareness and self-management, aligning with foundational principles of emotional intelligence and supporting more empowered, creative, and compassionate responses to challenges."
+      ],
+      "metrics": {
+        "readinessScore": 7,
+        "confidenceLevel": 0.85,
+        "complexityScore": 65
+      },
+      "reasoningTokens": 0,
+      "totalTokens": 2235,
+      "processingTime": 5938,
+      "cost": 0.007398,
+      "rateLimits": {
+        "limitRequests": 10000,
+        "limitTokens": 30000000,
+        "remainingRequests": 9999,
+        "remainingTokens": 29997901,
+        "resetRequests": "6ms",
+        "resetTokens": "4ms"
+      }
+    },
+    "EVOLUTION": {
+      "model": "gpt-4o",
+      "content": {
+        "keyFindings": [
+          "The document emphasizes a holistic approach to human development, integrating intellect, body, emotion, and spirit, which collectively contribute to an individual's overall well-being and effectiveness.",
+          "The Ambition Model provides a framework for emotional response based on two key decisions: whether a situation is viewed as changeable or fixed, and whether it is accepted or opposed, leading to emotional states like resentment, resignation, peace, and ambition.",
+          "Self-awareness and self-management are critical for transitioning from negative emotional states to positive ones, aligning with emotional intelligence principles and enabling more constructive responses to situations."
+        ],
+        "metrics": {
+          "readinessScore": 7,
+          "confidenceLevel": 0.85,
+          "complexityScore": 65
+        },
+        "riskFactors": [
+          {
+            "risk": "There is a risk that individuals may focus excessively on one aspect of the holistic model (e.g., intellect) while neglecting others (e.g., emotion), leading to imbalanced development and reduced effectiveness.",
+            "severity": "medium",
+            "mitigation": "Conduct integrative training sessions that emphasize the interconnectedness of all domains and utilize real-life scenarios to practice balanced application."
+          }
+        ],
+        "opportunities": [
+          {
+            "opportunity": "Integrate the Ambition Model into organizational development and leadership training to enhance emotional intelligence, adaptability, and resilience among team members.",
+            "impact": "high",
+            "effort": "medium"
+          }
+        ],
+        "recommendations": [
+          "Develop experiential learning programs that encourage participants to engage in self-assessment and reflection across all domains of the holistic model, promoting balance and integration.",
+          "Implement ongoing support and feedback mechanisms to reinforce the application of the Ambition Model in real-world scenarios, enhancing emotional intelligence and decision-making skills."
+        ],
+        "extractedConcepts": [
+          "holistic development",
+          "emotional intelligence",
+          "self-awareness",
+          "Ambition Model"
+        ]
+      },
+      "insights": [
+        "The document emphasizes a holistic approach to human development, integrating intellect, body, emotion, and spirit, which collectively contribute to an individual's overall well-being and effectiveness.",
+        "The Ambition Model provides a framework for emotional response based on two key decisions: whether a situation is viewed as changeable or fixed, and whether it is accepted or opposed, leading to emotional states like resentment, resignation, peace, and ambition.",
+        "Self-awareness and self-management are critical for transitioning from negative emotional states to positive ones, aligning with emotional intelligence principles and enabling more constructive responses to situations."
+      ],
+      "metrics": {
+        "readinessScore": 7,
+        "confidenceLevel": 0.85,
+        "complexityScore": 65
+      },
+      "reasoningTokens": 0,
+      "totalTokens": 2181,
+      "processingTime": 6767,
+      "cost": 0.0085725,
+      "rateLimits": {
+        "limitRequests": 10000,
+        "limitTokens": 30000000,
+        "remainingRequests": 9999,
+        "remainingTokens": 29997877,
+        "resetRequests": "6ms",
+        "resetTokens": "4ms"
+      }
+    }
+  },
+  "recommendations": [
+    "Develop experiential learning programs that encourage participants to engage in self-assessment and reflection across all domains of the holistic model, promoting balance and integration.",
+    "Implement ongoing support and feedback mechanisms to reinforce the application of the Ambition Model in real-world scenarios, enhancing emotional intelligence and decision-making skills."
+  ]
+}

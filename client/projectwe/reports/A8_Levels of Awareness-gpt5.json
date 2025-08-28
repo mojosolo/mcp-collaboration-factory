@@ -1,0 +1,83 @@
+{
+  "document": "A8_Levels of Awareness.pdf",
+  "processedAt": "2025-08-14T00:37:09.323Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here is a structured extraction of key facts, concepts, entities, and actionable insights from the provided document.\n\nDocument metadata\n- Title: Levels of Awareness\n- Type: White paper\n- Publisher/Owner: Activ8 LLC\n- Copyright: © 2014 Activ8 LLC\n- Alternate title reference: An Activ8 White Paper\n- Author: Not specified\n\nCore thesis\n- The depth of “truth” in communication increases as one shifts focus from judging others (“you are…”) to reporting one’s direct experience (“I feel… because… which means… about me I fear…”).\n- Conflicts often escalate when only shallow truth (e.g., labeling or name-calling) is expressed. As awareness deepens, defensiveness and negative outcomes (e.g., getting fired) become less likely.\n- Being truthful requires both awareness (knowing one’s internal state) and honesty (sharing what one is aware of).\n\nConcept model: Levels of Awareness (0–5)\n- Level 0: Withholding\n  - Canonical statement: Silence (withholding)\n  - Example/comportment: Not expressing important feelings or reactions\n  - Required skill: Awareness of sensations\n  - Notes: Most feelings are withheld, often rationalized as tact, fear, futility, etc.\n- Level 1: Judging/Labeling\n  - Canonical statement: “You are a jerk.”\n  - Required skill: Express self\n  - Notes: Expressing a feeling (even as name-calling) is a step forward but risky if it stops here.\n- Level 2: Owning feelings toward the other\n  - Canonical statement: “Toward you I feel dislike.”\n  - Required skill: Know own feelings\n  - Notes: Safer than Level 1; shifts focus from describing the other to reporting one’s feelings.\n- Level 3: Identifying triggers\n  - Canonical statement: “Because you don’t acknowledge my work.”\n  - Required skill: Make connections (between feelings and external triggers)\n  - Notes: Recognizing the behavior/event that triggered the feeling opens paths to resolution.\n- Level 4: Naming interpretations/defenses\n  - Canonical statement: “Which means you don’t think I’m competent.”\n  - Required skill: Know own defenses\n  - Notes: Awareness of projections/interpretations used to avoid painful feelings.\n- Level 5: Owning core self-beliefs/fears\n  - Canonical statement: “About me, I fear that I’m not competent.”\n  - Required skill: Awareness of self\n  - Notes: At this depth, issues are owned personally and can be co-solved; conflict risk is minimal.\n\nDefinitions (as used in the document)\n- Truth: What is, whether known or not.\n- My truth: My experience, memories, thoughts, feelings, sensations, and assessments.\n- Awareness: How much of my truth I let myself know.\n- Unconscious: The portion of my truth I do not let myself know.\n- Honesty: Telling what I am aware of.\n- Being truthful: Being both aware and honest.\n\nKey facts and claims\n- The perceived risk of negative outcomes (e.g., being fired) stems from telling too little truth (stopping at shallow levels), not from telling the full, deeper truth.\n- Most feelings are withheld (qualitative claim: “overwhelming proportion”).\n- Moving from “you” statements to “I” statements deepens truth and reduces conflict.\n- Recognizing triggers, interpretations/defenses (e.g., projection), and core self-beliefs enables productive problem solving.\n\nNamed entities and concepts\n- Organization: Activ8 LLC\n- Conceptual entities: Levels of Awareness (0–5), defense/coping mechanisms (e.g., projection)\n- Roles in examples: Employee (“I”), Boss (“you”)\n\nStakeholders and use contexts\n- Individuals",
+      "reasoningTokens": 1152,
+      "tokens": {
+        "input_tokens": 964,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1956,
+        "output_tokens_details": {
+          "reasoning_tokens": 1152
+        },
+        "total_tokens": 2920
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Executive summary\nThe “Levels of Awareness” framework is a simple, teachable ladder that moves people from blame (you-statements) to ownership (I-statements), linking each level to specific skills. Operationalized in business, it reduces the costs of silence and miscommunication, strengthens psychological safety, accelerates decision-making, and improves manager effectiveness. This can be productized as a capability system (training + tools + analytics) with strong land-and-expand potential.\n\nStrategic themes\n- From accusation to ownership: A clear progression (0–5) that shifts discourse from labeling others to self-awareness and constructive problem-solving. This underpins cultures of accountability and learning.\n- Reduce the cost of silence: Level 0 (withholding) highlights organizational silence; surfacing it drives faster risk detection, fewer rework cycles, and higher engagement.\n- Skill-stack, not just mindset: Each level maps to a specific skill (aware of sensations, express self, know feelings, make connections, know defenses, aware of self). This enables curriculum design, assessment, and measurable progress.\n- Psychological safety as an operating system: Training people to reach L3–L5 reduces defensiveness, enabling better feedback, postmortems, and cross-functional work.\n- Standard for “minimum viable communication”: Establishing “L3 minimum” for escalations, code reviews, performance conversations, and retrospectives creates organization-wide norms that lower politics and churn.\n\nCompetitive advantages and moats\n- Simplicity with depth: A five-level ladder is easy to grasp yet ties to behavioral science (projection, defenses, self-awareness). It outperforms generic “be nice” training by providing a progression.\n- Instrumentable framework: The levels can be operationalized in tools (coaching prompts, tone/intent detectors, reflection templates) and measured over time, creating a data moat.\n- Interoperability: Complements popular models (Radical Candor, Crucial Conversations, NVC, CBT) and can be the backbone beneath them, not a direct replacement.\n- IP and certification network effects: Proprietary assessments, playbooks, and a certified coach ecosystem create brand equity and recurring revenue while compounding impact data.\n- In-the-flow nudging: Unique edge via Slack/Teams/Zoom plugins that suggest “leveling up” messages before sending. This real-time assist differentiates from content-only training vendors.\n\nMarket opportunities\n- Enterprise learning and leadership development: Large, recurring budgets for manager training, feedback culture, and DEI/psych safety initiatives. Targets: CHRO, L&D, People Ops, COO.\n- Remote/hybrid collaboration: High demand for better async and cross-cultural communication; embedding the model",
+      "reasoningTokens": 1408,
+      "tokens": {
+        "input_tokens": 963,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1954,
+        "output_tokens_details": {
+          "reasoning_tokens": 1408
+        },
+        "total_tokens": 2917
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a pragmatic, step-by-step way to implement the “Levels of Awareness” model in day-to-day work. It translates the framework into processes, tools, scripts, training, metrics, and guardrails you can put in place immediately.\n\nGoals\n- Move from blame and name-calling (Level 1) or silence (Level 0) toward ownership and collaboration (Levels 2–4, and Level 5 when appropriate).\n- Improve feedback quality, conflict resolution, trust, and speed of problem-solving.\n- Build skills in four areas: sensing (body/emotions), naming (feelings/needs), linking (trigger ↔ meaning), and owning (defenses/self-beliefs).\n\nCore Model (operational focus)\n- Minimum viable standard for work: Express at Levels 2–3; aim for Level 4 when trust exists; share Level 5 selectively (coaching/1:1s).\n- Avoid Level 1 statements in feedback (“You are…”). Replace with: feeling, trigger, meaning, and request.\n\nPart 1: Individual Toolkit (daily practice and in-the-moment)\n1) Trigger-to-Truth Protocol (use this anytime you’re activated)\n- Pause: 2–3 slow breaths; check HALT (Hungry, Angry, Lonely, Tired). If flagged, delay conversation.\n- Notice sensations: Where do I feel this in my body? (tight chest, heat, jaw clench)\n- Name the feeling (Level 2): Use an Emotion Wheel; pick specific words (irritated, dismissed, anxious).\n- Identify the trigger (Level 3): What specific behavior/event preceded this? (e.g., “no acknowledgment in the meeting”)\n- Surface the meaning (Level 4): What did I make it mean about them/this situation? (e.g., “you think I’m not competent”)\n- Check the self-story (Level 5): What do I fear/believe about myself that this touches? (e.g., “I fear I’m not competent”)\n- Choose response: Is this a work-issue to discuss (L2–4), a me-issue to self-work or coaching (L5), or both?\n\n2) Conversation-ready Script (SBI + Levels 2–4)\n- Situation/Behavior (facts, neutral): “In today’s review, when the report wasn’t acknowledged…”\n- Impact/Feeling (L2): “…I felt discouraged and frustrated…”\n- Trigger/Making connections (L3): “…because acknowledgment matters to me when I put in extra effort…”\n- Meaning I made (L4): “…and I started to think it might mean you don’t see my work as competent.”\n- Ask/Request: “Can we level-set on expectations for recognizing work and how you’re evaluating the report?”\n\n3) Micro-practices (5 minutes/day)\n- Awareness Ladder Journal: Write one trigger and complete Levels 2–5 in bullet points.\n- Two-Column Reframe: Left = What I think about them; Right = What I’m experiencing/feeling/meaning.\n- 24-hour rule: If emotionally charged, draft your message, sleep on it, recheck Levels 3–4 before sending.\n\n4) Fast Tools (print or pin in your notes)\n- Emotion Wheel (primary → secondary feelings).\n- Defenses cheat sheet: projection, rationalization, deflection, minimization; ask “Am I using",
+      "reasoningTokens": 1280,
+      "tokens": {
+        "input_tokens": 959,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1991,
+        "output_tokens_details": {
+          "reasoning_tokens": 1280
+        },
+        "total_tokens": 2950
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are transformational insights and leverage points drawn from the Levels of Awareness model, with an eye toward long-term implications, hidden patterns, paradigm shifts, and how to operationalize them.\n\nCore insight (reframed)\n- The model redefines “truth",
+      "reasoningTokens": 1920,
+      "tokens": {
+        "input_tokens": 963,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1975,
+        "output_tokens_details": {
+          "reasoning_tokens": 1920
+        },
+        "total_tokens": 2938
+      }
+    }
+  ],
+  "cost": 0.08357125,
+  "reasoningTokens": 5760
+}

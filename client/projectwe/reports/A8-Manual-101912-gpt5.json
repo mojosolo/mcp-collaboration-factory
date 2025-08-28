@@ -1,0 +1,83 @@
+{
+  "document": "A8-Manual-101912.pdf",
+  "processedAt": "2025-08-14T00:14:38.207Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here is a structured extraction of key facts, metrics, entities, and actionable insights based on the provided document snippet.\n\nDocument metadata\n- Title: Foundations of High Performance — Participant Manual\n- Document type: Training/education participant manual\n- Quote featured: “The real voyage of discovery consists not in seeking new lands, but in having new eyes.” — Marcel Proust\n- Intended user field: Name: [blank line for participant]\n- Visible sections presented: Table of Contents (partial)\n- Version/date: Not provided\n\nKey facts\n- The manual is structured as a learning program focused on personal and interpersonal effectiveness within “High Performance.”\n- Core thematic areas include: values/ethics (Honesty, Integrity), personal agency (Awareness, Choice, Accountability), relational dynamics (Trust, Awareness of Others, Levels of Listening), self-regulation (Centering: body, intellect, emotions), and communication (Generative Language, Six Speech Acts).\n- The content is modular, indicating a sequenced learning journey from foundational principles to specific communication practices and tools.\n\nStructural metrics (from the Table of Contents)\n- Pagination (as provided):\n  - Introduction — p.1\n  - Our Approach — p.2\n  - Living Principles — p.6\n  - Awareness — p.8\n  - Choice — p.13\n  - Accountability — p.15\n  - Honesty — p.17\n  - Integrity — p.19\n  - Trust — p.22\n  - Centering — p.26\n  - Centering the Body — p.28\n  - Centering the Intellect — p.30\n  - Centering the Emotions — p.31\n  - Awareness — p.33 (appears again; possibly a deeper or second module)\n  - Three Domains of Human Performance — p.34\n  - Emotional Intelligence — p.36\n  - Four Moods Model — p.37\n  - Awareness and Attention — p.41\n  - Awareness of Others — p.43\n  - The IIO Chart — p.44\n  - Levels of Listening — p.45\n  - Coping Mechanisms — p.46\n  - Behavior Feedback Form — p.48\n  - High Performance Communication — p.49\n  - High Performance — p.50\n  - Generative Language — p.51\n  - The Six Speech Acts — page not visible in excerpt\n- Count of distinct headings shown: 27 (including the repeated “Awareness”)\n- Noted duplication: “Awareness” appears on p.8 and p.33 (could signify a second module or a deeper dive)\n\nKey entities\n- Person cited: Marcel Proust (author of the featured quote)\n- Program/manual: Foundations of High Performance (Participant Manual)\n- Artifacts/tools referenced:\n  - The IIO Chart (content not included here)\n  - Behavior Feedback Form\n- Conceptual frameworks referenced:\n  - Three Domains of Human Performance\n  - Emotional Intelligence\n  - Four Moods Model\n  - Levels of Listening\n  - Generative Language\n  - Six Speech Acts\n\nCore concepts and topic taxonomy (as indicated by headings)\n- Foundational framing:\n  - Introduction\n  - Our Approach\n  - Living Principles\n- Personal mastery:\n  - Awareness (two modules)\n  - Choice\n  - Accountability\n  - Honesty\n  - Integrity\n- Relational trust-building:\n  - Trust\n  - Awareness of Others\n  - Levels of Listening\n  - High Performance Communication\n- Self-regulation and centering:\n  - Centering\n  - Centering the Body\n  - Centering the Intellect\n  - Centering the Emotions\n  - Awareness and Attention\n  - Coping Mechanisms\n- Performance frameworks and language:\n  - Three Domains of Human Performance\n  - Emotional Intelligence\n  - Four Moods Model\n  - Generative Language\n  - The Six Speech Acts\n  - High Performance\n- Tools/forms:\n  - Behavior Feedback Form\n  - The I",
+      "reasoningTokens": 1152,
+      "tokens": {
+        "input_tokens": 380,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1999,
+        "output_tokens_details": {
+          "reasoning_tokens": 1152
+        },
+        "total_tokens": 2379
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a strategy-focused read of the “Foundations of High Performance” manual, treating it as a leadership/performance-development offering.\n\nStrategic themes\n- Principles-to-practice arc: A deliberate progression from inner work (awareness, choice, centering) to social trust (accountability, honesty, integrity, trust) and into execution (communication, speech acts). This creates a repeatable change journey rather than a one-off workshop.\n- Holistic performance model: Integration of body, intellect, and emotions (centering + emotional intelligence + moods) differentiates from purely cognitive skills training and aligns with resilience/wellbeing outcomes.\n- Language-as-action: Emphasis on “Generative Language,” “Six Speech Acts,” and “Levels of Listening” moves beyond soft skills to operational coordination (requests, offers, promises, commitments) that directly impacts execution reliability.\n- Measurable behavior change: Tools (Behavior Feedback Form, IIO chart, listening levels) suggest assessable competencies and before/after measurement—key for enterprise ROI.\n- Culture and psychology safety: Honesty, integrity, trust, and coping mechanisms speak to psychological safety, inclusion, and conflict hygiene—central to modern org performance and retention.\n\nCompetitive advantages\n- Distinctive synthesis: Combines ontological coaching (moods/speech acts), EI, and somatic centering with practical communication protocols. Fewer competitors offer this integrated stack.\n- End-to-end capability: Covers self-regulation, social trust, and coordination—applicable across leadership, sales, operations, and customer service.\n- Operationally relevant language framework: Mapping conversations to commitments gives a clear line to cycle-time reduction, fewer rework loops, and better handoffs.\n- Instrumented learning: Built-in assessments provide proof of impact; supports enterprise procurement requirements.\n- Scalability via modularity: TOC indicates modular units that can be sequenced for different personas (frontline leaders, execs, sales, CS).\n\nMarket opportunities\n- Enterprise leadership development and culture transformation: CHRO/CLO budgets for durable human skills (post-GenAI) and hybrid work trust gaps.\n- Sales and customer success: Speech acts and listening frameworks can lift conversion, renewal, and NPS.\n- High-stress sectors: Healthcare, aviation, utilities, military, first responders—centering and accountability map to safety and error reduction.\n- Tech scale-ups and PE portfolios: Rapid-change environments needing consistent coordination and accountability norms.\n- Global/hybrid workforces: Cross-cultural listening and trust frameworks for distributed teams.\n- Wellbeing/mental health",
+      "reasoningTokens": 1472,
+      "tokens": {
+        "input_tokens": 379,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1994,
+        "output_tokens_details": {
+          "reasoning_tokens": 1472
+        },
+        "total_tokens": 2373
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a practical, field-ready playbook that turns the “Foundations of High Performance” outline into daily/weekly routines, processes, and tools you can implement immediately. It’s organized by phases and by the major topics in your table of contents, with step-by-step methods, templates, and metrics.\n\n90-DAY ROLL-OUT PLAN (TEAM OR ORG)\nPhase 0 – Setup (Week 0)\n- Select a pilot group (6–12 people) and an executive sponsor.\n- Appoint a practice lead",
+      "reasoningTokens": 1856,
+      "tokens": {
+        "input_tokens": 375,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1969,
+        "output_tokens_details": {
+          "reasoning_tokens": 1856
+        },
+        "total_tokens": 2344
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a synthesis that connects the manual’s elements into a single operating system for high performance, then surfaces hidden patterns, paradigm shifts, and leverage points you can act on.\n\nCore thesis\n- Performance is the quality of coordination under uncertainty. Coordination is produced by conversations shaped by embodied state (centering), moods/emotions, and language practices. Trust, integrity, and accountability amplify or degrade that coordination over time.\n\nAn integrated operating system\n1) Foundations: Awareness → Choice → Accountability\n- Awareness: Notice your inner and outer state (body, attention, mood, others).\n- Choice: Interrupt autopilot; select a response that serves the bigger aim.\n- Accountability: Convert intention into observable commitments; own outcomes and cleanup.\n\n2) Ethical substrate: Honesty → Integrity → Trust\n- Honesty: Transparent, caring candor; separate facts (assertions) from judgments (assessments).\n- Integrity: Honor your word as whole and on time; renegotiate before breakdown; clean up impacts.\n- Trust: The compounding asset built by reliable promises and transparent breakdowns.\n\n3) Three domains of human performance\n- Body (Centering): Regulate arousal, posture, breath; build presence under pressure.\n- Emotion (Moods/EI): Recognize and shift moods (e.g., resentment/resignation/acceptance/ambition); grow social attunement.\n- Language (Generative language): Use Six Speech Acts to turn conversations into coordinated action.\n\n4) Conversational mechanics for action\n- Six Speech Acts (typical set): Assertions, Assessments, Declarations, Requests, Offers, Promises. Mastery is precision:\n  - Requests/Offers include: clear conditions of satisfaction, standards, by-when, owner, explicit accept/decline/counteroffer.\n  - Promises are tracked; breakdowns are surfaced early; renegotiation is normal.\n- Levels of Listening: Move from self-centered listening to empathic/generative listening that discovers new possibilities.\n- Awareness of Others: Perspective-taking; read commitments, moods, and concerns of stakeholders.\n- IIO feedback (e.g., Intent–Impact–Outcome): Deliver feedback that aligns on purpose, reveals effects, and designs next steps.\n\n5) Attention and resilience architecture\n- Awareness and Attention: Attention is the scarcest performance resource; design rituals to refocus.\n- Coping vs Centering: Replace reactive coping (avoidance, control, appeasement) with centering micro-practices that preserve choice.\n- Behavior Feedback: Normalize rapid, behavior-specific feedback loops; decouple identity from learning.\n\n6) Communication and culture\n- High Performance Communication: Clear requests/promises + mood literacy + honest cleanup = low friction execution.\n- Generative Language: Language doesn’t just describe reality; it changes it. Use declarations",
+      "reasoningTokens": 1408,
+      "tokens": {
+        "input_tokens": 379,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1983,
+        "output_tokens_details": {
+          "reasoning_tokens": 1408
+        },
+        "total_tokens": 2362
+      }
+    }
+  ],
+  "cost": 0.08134124999999999,
+  "reasoningTokens": 5888
+}

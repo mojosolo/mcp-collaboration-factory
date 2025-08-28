@@ -1,0 +1,83 @@
+{
+  "document": "MODULE 2 CFR.pdf",
+  "processedAt": "2025-08-14T01:05:43.134Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a structured extraction of key facts, entities, and takeaways from the document provided.\n\nDocument overview\n- Organization: Performance Unlimited, LLC\n- Document type: Facilitator Outline for a training module\n- Module focus: Conversations for Results (CFR)\n\nModule goals (what participants should understand/do)\n- Distinctions between Conversations for Possibilities (CFP) and Conversations for Results (CFR)\n- How to make clear requests, including defining Conditions of Satisfaction (CoS)\n- Structure of Conversations for Results\n- Options available to a performer when receiving a request\n- Concepts and practices for managing broken promises\n\nCore concepts and definitions\n- Conversations for Possibilities (CFP): Explore options and possibilities; characterized by assessments and assertions\n- Conversations for Results (CFR): Where work gets done; focused on clear requests, offers, promises, and fulfillment\n- Speech acts: Requests, Offers, Promises\n- Conditions of Satisfaction (CoS): Explicit criteria that define what “done” and “done well” mean for a request\n- Broken promises: Commitments not fulfilled as expected; tied to trust and identity at work\n\nTypes of conversations mentioned\n- Conversations for Possibilities\n- Conversations for Results\n- Relationship conversations (developing relationships)\n- Productive conversations (design/create something together)\n- Conversations for comfort and solace\n- Conversations for persuasion\n\nIllustrative anecdote\n- CEO and COO misalignment: One party treated a discussion as CFP while the other shifted it to CFR; explicitly naming the conversation type helped avoid wasted time and misaligned expectations\n\nCFR prompting questions (diagnostic/openers)\n- Have you experienced others failing to fulfill requests they committed to?\n- Have you been less than fully satisfied with fulfilled requests?\n- Have you failed to fulfill a request you promised?\n- Have you believed you fulfilled a request only to find expectations weren’t met?\n\nImpacts and values highlighted (qualitative metrics)\n- Projects not completed on time\n- Wasted time and effort\n- Emotional cost: frustration, anger\n- Loss of trust\n- Diminished identity: people seen as unreliable/untrustworthy\n- Principle: Requests and promises drive action in business and in life\n\nCommon everyday examples of requests/promises\n- Meeting someone for lunch\n- Getting back to someone\n- Asking for voicemail or email replies\n- Customer asking for help with a need\n- Asking a colleague for help\n\nRequests/Offers/Promises section\n- Emphasis: Understand how these speech acts work to drive results\n- Exercise: Journal current important requests/promises (who’s involved, what’s required, whether you made the request or promise)\n- Elements of an effective request/offer: Introduced via a partner demo (ball toss), emphasizing clarity and coordination (full list not included in excerpt)\n- Parties involved: At minimum two people (example mentions “Customer”)\n\nStakeholders and roles referenced\n- Facilitator and participants/performers\n- CEO, COO (example)\n- Customers and colleagues\n- Requesters and performers (those receiving requests)\n\nKey facts and takeaways\n- Being explicit about the type of conversation (CFP vs CFR) improves effectiveness and reduces waste\n- CFR is the core context for execution and results at work\n- Clear requests with defined Conditions of Satisfaction reduce misalignment\n- Managing broken promises is essential for trust and performance\n- Speech acts (requests, offers, promises) are the engine of coordinated action\n\nGaps/partial content noted\n- Detailed structure of a CFR and full list of “options open to a performer receiving a request” are referenced but not enumerated in the excerpt\n- “Elements of an Effective Request” list is incomplete in the provided text\n\nActionable insights and next steps\n- Name the conversation type up front: Begin meetings or threads by labeling CFP or CFR to align expectations\n- Define Conditions of Satisfaction: Specify deliverable, quality/acceptance criteria, deadline, roles, communication cadence, and how completion will be verified\n- Clarify speech acts: Distinguish when someone is making a request, an offer, or a promise; capture explicit commitments\n- Provide options for request recipients: Encourage performers to seek clarity, negotiate terms, accept or decline, or propose alternatives rather than defaulting to implicit acceptance\n- Implement a promise-management practice: Track requests/promises, renegotiate early when at risk, and establish recovery/apology protocols for broken promises\n- Use the diagnostic questions: Open CFR training or team retros with the provided questions to surface breakdowns and learning\n- Run the journaling exercise: Have team members list current requests/promises, owners, and Conditions of Satisfaction; review for clarity gaps\n- Coach on feedback loops: Confirm understanding of requests; recap agreements in writing to prevent misaligned expectations\n\nIf you want, I can turn this into a one-page CFR checklist for your team or map it into a training agenda with exercises and timing.",
+      "reasoningTokens": 960,
+      "tokens": {
+        "input_tokens": 923,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1964,
+        "output_tokens_details": {
+          "reasoning_tokens": 960
+        },
+        "total_tokens": 2887
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are the strategic patterns and business implications embedded in the “Conversations for Results” (CFR) content, with emphasis on strategic themes, competitive advantages, market opportunities, and business model insights.\n\nStrategic themes\n- Commitment architecture as execution infrastructure: Treat requests, offers, and promises as the core “micro-contracts” that power work. Shifts management from activity tracking to outcome reliability (conditions of satisfaction).\n- Clarity as an operational advantage: Explicitly naming conversation types (CFP vs CFR) reduces ambiguity, rework, and cycle time. This is a scalable governance mechanism for decision vs exploration modes.\n- Trust capital management: Broken promises degrade performance, brand, and morale. CFR operationalizes trust by standardizing how commitments are made, accepted, renegotiated, and recovered.\n- Language as a performance technology: Speech acts (request, offer, promise) provide a repeatable, teachable method to increase throughput, decrease coordination costs, and align expectations.\n- Cultural shift to accountable autonomy: Normalizes options for responders (accept/decline/counteroffer/commit-by-when/renegotiate) to avoid weak commitments and surface constraints early.\n- Execution risk reduction: Proactive management of “broken promises” creates an early-warning system for project slippage and customer dissatisfaction.\n\nCompetitive advantages\nFor organizations adopting CFR:\n- Measurable execution gains: Higher on-time/on-quality delivery, fewer rework loops, shorter cycle times, more accurate forecasts.\n- Lower coordination cost: Fewer meetings and email churn as requests become structured with clear conditions of satisfaction.\n- Stronger cross-functional reliability: Standardized commitment practices across teams/vendors improve handoffs and reduce friction.\n- Trust and brand lift: Internally (engagement, retention) and externally (customer NPS, renewal/upsell) driven by dependable delivery.\n- Scalable across contexts: Applicable in sales, customer success, product/engineering, operations, and vendor management.\n\nFor Performance Unlimited (the provider):\n- Clear differentiation: Focus on “Conversations for Results” and promise-based management (speech-act rigor) vs generic “communication skills” training.\n- Tangible ROI narrative: Links soft-skill training to hard metrics (on-time delivery, rework reduction, NPS, margin expansion).\n- Low-friction integration: Method fits within existing workflows (email/Slack/Teams/Jira) and complements Agile, OKRs, Lean.\n\nMarket opportunities\n- Segments with high coordination complexity: Software/Ag",
+      "reasoningTokens": 1472,
+      "tokens": {
+        "input_tokens": 922,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1978,
+        "output_tokens_details": {
+          "reasoning_tokens": 1472
+        },
+        "total_tokens": 2900
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is a practical playbook you can implement to turn Conversations for Results (CFR) into consistent execution. It includes steps, processes, scripts, templates, tools, cadences, and metrics.\n\n1) Establish the shared language and purpose\n- Define two primary work conversations:\n  - Conversation for Possibilities (CFP): explore, ideate, assess. Dominated by assessments and assertions. No commitments.\n  - Conversation for Results (CFR): produce outcomes through clear requests, negotiated commitments, delivery, and completion.\n- Norm: Explicitly name the conversation type at the start. Example openers:\n  - “I’d like a CFP to explore options for X for 20 minutes.”\n  - “I’d like a CFR to secure a commitment for Y by Z date.”\n- Business case (use in kickoff): Unclear requests and broken promises cause delays, rework, frustration, and loss of trust. Requests and promises are the engine of work; we will make them explicit and reliable.\n\n2) CFR core structure and roles\n- Roles:\n  - Customer/requester: the person who needs an outcome.\n  - Performer/provider: the person expected to deliver.\n- CFR stages:\n  1. Request made (with Conditions of Satisfaction).\n  2. Negotiation (clarify, counteroffer, accept/decline).\n  3. Promise (clear commitment).\n  4. Delivery and reporting (work + status).\n  5. Completion and assessment (acceptance or gaps).\n  6. Learning/cleanup (capture lessons; adjust systems).\n- Performer’s legitimate options when receiving a request:\n  - Accept and promise.\n  - Decline.\n  - Counteroffer (scope/date/quality/resources).\n  - Commit to commit by a specific time (promise to respond once you check capacity).\n  - Request clarification.\n\n3) Conditions of Satisfaction (CoS) template\nInclude these fields in every CFR:\n- What: clear deliverable (noun) and action (verb).\n- Why: business purpose or outcome.\n- Done-by: due date/time with timezone.\n- Quality/standards: definition of “done” and acceptance criteria.\n- Scope and boundaries: what is in/out.\n- Constraints/assumptions: known limits, dependencies.\n- Owner: single accountable performer.\n- Resources/support: people, budget, access, tools.\n- Reporting cadence: when/how status will be provided.\n- Priority and trade-offs: relative to other work.\n- Acceptance process: who will review, how, by when.\n- Consequences of change: what happens if date/scope shifts.\nCopy/paste request template (use for email/chat/tickets):\n- Request: [what you need]\n- Purpose: [why it matters]\n- Due: [date/time TZ]\n- Quality/acceptance: [criteria, format, examples]\n- Scope: [in/out]\n- Constraints/dependencies: [list]\n- Owner: [name]\n- Resources/support: [list]\n- Status cadence: [e.g., Tue/Thu Slack update]\n- Priority: [e.g., P1; supersedes A/B]\n- Acceptance: [who/how]\n- If risks arise: [renegotiation protocol/contact]\n\n4) Protocols and scripts\n- Making a request (customer)\n  1. Decide CFP or CFR. If CFR, fill CoS.\n  2. Ask: “Can you handle a CFR now?” If no, schedule.\n  3. Deliver request with CoS. Ask for a commitment.\n  4. Invite negotiation: “What do you need to commit?” “What risks do you see?”\n  5. Capture the promise publicly (ticket, shared doc).\n  6. Set first status checkpoint.\n- Responding to a request (performer)\n  - Accept: “I commit to deliver [deliverable] by [date time TZ], meeting [quality]. I’ll report [cadence].”\n  - Counteroffer: “I cannot meet [date/scope]. I can deliver [X] by [Y]. To meet original, I’d need [resources]. Which do you prefer?”\n  - Decline: “I’m declining because [reason]. Alternative options: [person/time].”\n  - Commit to commit: “I will confirm by [date time] after checking [dependencies].”\n  - Clarify: “To commit confidently, I need [missing info].”\n- Renegotiation early and explicitly\n  - “I’m at risk of missing [commitment]. Here’s current status, root cause, options:\n    1) Slip to [new date]; impact [x].\n    2) Reduce scope to [y] by [date].\n    3) Add [resource] to hit original.\n    Please choose by [time] so I can proceed.”\n- Completion and acceptance\n  - Performer: “Delivered [artifact] against [CoS]. Please assess by [date].”\n  - Customer: “Accepted” or “Not accepted because [gap versus CoS]. New agreement: [next steps/date].”\n\n5) Meeting and workflow cadences\n- Daily or biweekly CFR Standup (15 minutes)\n  - Top 3 P1 requests/promises due in next 7 days.\n  - New requests needing commitments.\n  - Renegotiations needed.\n  - Remove blockers.\n- Weekly Promise Review (30–45 minutes)\n  - Review promise log: due, at risk, overdue.\n  - Close out accepted items; log learnings and update templates.\n- 1:1s\n  - Begin with each person’s top promises, statuses, and upcoming requests. Use the promise log.\n- Project kickoffs\n  - Start with a CFP to explore, then convert to CFR: enumerate workstreams as explicit requests with CoS and owners.\n\n6)",
+      "reasoningTokens": 768,
+      "tokens": {
+        "input_tokens": 918,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1970,
+        "output_tokens_details": {
+          "reasoning_tokens": 768
+        },
+        "total_tokens": 2888
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below are transformational insights and leverage points that turn “Conversations for Results” (CFR) from a communication idea into an execution system.\n\nParadigm shifts that unlock performance\n- From talk to commitments: Treat requests, offers, and promises as the atomic units of work. A business is a network of commitments, not a collection of tasks or meetings.\n- From activity to outcomes: “Busy” is irrelevant. Only accepted promises fulfilled to explicit Conditions of Satisfaction (CoS) count as results.\n- From implicit to declared conversations: Open meetings by declaring the type (CFP vs CFR vs comfort/persuasion). This prevents idea-storms (CFP) from being misremembered as commitments (CFR).\n- From politeness to honesty: A clean decline or counter-offer is more valuable than a polite “yes” that fails. Reliability beats likeability.\n- From blame to repair loops: Broken promises are normal system signals. The skill is early detection, transparent renegotiation, and learning—before identity and trust suffer.\n- From “ASAP” to designed acceptances: Every CFR ends with who/what/when/how-good/how-verified. Acceptance is a distinct step, not implied.\n\nHidden patterns that quietly destroy execution\n- Ambiguity tax: Vague requests (no CoS, no by-when, no acceptance owner) generate rework and resentment. Teams normalize this as “moving fast,” but pay later in speed and trust.\n- Yes-culture brittleness: Fear of declining creates over-commitment, last-minute heroics, and misses. Predictable delivery requires normalized counter-offers and declines.\n- Mixed-mode meetings: Switching between CFP and CFR without labeling creates illusions of agreement. Memory fills gaps with optimism.\n- Silent promises: “Let me see,” “Should be fine,” or non-response interpreted as yes. In multi-channel work (email/Slack), silence too often equals commitment in someone’s head.\n- Invisible WIP: Too many open promises without check-in cadences.",
+      "reasoningTokens": 1536,
+      "tokens": {
+        "input_tokens": 922,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1951,
+        "output_tokens_details": {
+          "reasoning_tokens": 1536
+        },
+        "total_tokens": 2873
+      }
+    }
+  ],
+  "cost": 0.08323625000000001,
+  "reasoningTokens": 4736
+}

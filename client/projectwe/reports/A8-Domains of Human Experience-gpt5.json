@@ -1,0 +1,83 @@
+{
+  "document": "A8-Domains of Human Experience.pdf",
+  "processedAt": "2025-08-13T23:46:47.361Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a structured extraction of key facts, entities, and actionable takeaways from the document.\n\nSummary/Intent\n- Theme: A holistic approach to human development that integrates intellect, body, emotion, and spirit to achieve “center,” balance, health, and naturally high performance.\n- Goal: Train and expand awareness so people respond to life with power, authenticity, creativity, and compassion.\n\nCore Concepts and Definitions\n- Holistic model: Treats intellect, body, emotion, and spirit as an integrated system.\n- Domains of experience: \n  - Intellect (thoughts, cognition)\n  - Body (physical sensations, presence)\n  - Emotion (emotional life, regulation)\n  - Spirit (essential being, meaning/purpose)\n- Centering: A capability achieved by attending to all domains; associated with health, wholeness, balance, and effective action.\n- Alignment/Integration: Coordinating domains leads to authentic energy, aliveness, purpose, and positive social influence.\n\nKey Claims and Relationships\n- Overemphasis on intellect alone can cause anxiety, deplete inner resources, and invite stress-related problems.\n- Holistic attention to domains reveals interrelatedness of thoughts, emotions, and physical sensations.\n- Balance across domains enables emotional maturity, mental alertness, physical presence, spiritual connection, and effective action.\n- Alignment of domains releases authentic/creative energy and fosters purpose.\n- An integrated presence positively influences and centers others.\n- High performance emerges naturally from wholeness and health.\n- Learning approach: conceptual, situational, and experiential formats expand awareness and response capacity.\n\nStakeholders\n- Primary: Individuals/learners seeking health, wholeness, high performance.\n- Secondary: Facilitators/trainers/educators delivering conceptual, situational, experiential learning.\n- Affected communities: Organizations, families, communities influenced by individuals’ integrated presence.\n\nMethods/Interventions\n- Training formats: \n  - Conceptual (models, frameworks)\n  - Situational (context-based scenarios)\n  - Experiential (practices that build awareness and centering)\n- Practices (implied): Attention to thoughts, emotions, and physical sensations; centering techniques; balance across domains; reflective and embodied exercises.\n\nIntended Outcomes\n- Personal: Emotional maturity, mental alertness, physical presence, spiritual connection, sense of purpose, “aliveness.”\n- Behavioral: Effective action, authenticity, creativity, compassion.\n- Social: Positive influence on others; improved climate in organizations, families, communities.\n- Performance: High performance as a byproduct of wholeness and health.\n\nMetrics and Measurement\n- Explicit metrics: None provided in the text.\n- Implied/possible indicators (suggested):\n  - Intellect: Attention control, cognitive flexibility, decision quality.\n  - Body: Stress biomarkers (HRV), sleep quality, energy levels, somatic awareness.\n  - Emotion: Emotion regulation scales, mood variability, resilience measures.\n  - Spirit: Meaning/purpose scales, values alignment, connection/fulfillment indices.\n  - Centering/Integration: Self-reported centering frequency, state-trait mindfulness, coherence (HRV), presence ratings.\n  - Outcomes: Wellbeing indices, engagement, quality of relationships, performance evaluations.\n  - Program: Participation, practice adherence, pre/post changes on chosen scales.\n\nActionable Insights and Next Steps\n- Clarify domain model and codify a common language for “center” and “alignment.”\n- Design a blended learning program:\n  - Conceptual modules on the holistic model.\n  - Situational exercises (role-plays, case studies) linking domains to decisions.\n  - Experiential practices (breathwork, somatic scanning, emotion labeling, values reflection).\n- Implement regular centering routines and micro-practices during the day.\n- Track leading indicators per domain and overall integration (e.g., weekly check-ins).\n- Socialize practices in teams to amplify positive influence (peer-led centering moments).\n- Evaluate outcomes quarterly and iterate training based on data.\n\nConstraints, Risks, and Assumptions\n- Ambiguity: The text alternates between “three domains” and listing four (intellect, body, emotion, spirit).\n- Evidence basis: Conceptual claims; no empirical citations provided.\n- Cultural/individual differences may shape how “spirit”/“center” are defined and measured.\n- Reliance on self-report without mixed methods could bias results.\n\nAmbiguities and Gaps\n- “Figure 1: The three domains of human experience” is referenced but not included.\n- Inconsistency: “Three domains” vs earlier mention of four domains.\n- No operational definition of “center,” “wholeness,” or “high performance.”\n- No success metrics or baseline/target thresholds provided.\n\nClarifying Questions (to enable implementation)\n- Should the model formalize three domains or four? If three, which are they?\n- How is “center” operationally defined for assessment and practice?\n- What measurement framework and cadence should be used?\n- Are there context-specific outcomes (e.g., leadership effectiveness, team cohesion) to prioritize",
+      "reasoningTokens": 960,
+      "tokens": {
+        "input_tokens": 438,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1999,
+        "output_tokens_details": {
+          "reasoning_tokens": 960
+        },
+        "total_tokens": 2437
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are the strategic patterns and business implications distilled from the content, focused on strategic themes, competitive advantages, market opportunities, and business model insights.\n\nStrategic themes\n- Whole-person performance as a system: Integrating intellect, body, emotion, and spirit reframes “wellness” from a perk into a performance system that drives resilience, decision quality, and culture.\n- Centering as a keystone habit: A simple, repeatable practice that links the domains provides a unifying behavior to anchor programs, measurement, and habit formation.\n- Experiential learning advantage: Emphasis on conceptual, situational, and experiential formats signals a shift from knowledge transfer to embodied capability building.\n- Ripple-effect leadership: Individual integration improves team dynamics and organizational climate, creating network effects that raise the value of adoption at scale.\n- Longitudinal transformation: The “lifelong pursuit” framing implies subscription-based, cohort-based journeys over one-off workshops; continuous practice > episodic events.\n- From stress mitigation to strategic enablement: Position the offering as unlocking creativity, authenticity, and effective action, not just reducing burnout.\n\nCompetitive advantages\n- Differentiation vs. single-domain programs: Most corporate offerings focus on cognitive skills, mental health, or fitness separately. A multi-domain system with a simple practical anchor (centering) stands apart.\n- Translate inner work to business outcomes: If tied to clear KPIs (reduced turnover, fewer stress claims, higher manager effectiveness), it outperforms “soft” wellness offerings.\n- Proprietary assessments and indices: A Centering Index or Whole-Person Performance Score across domains can be a defensible IP and data moat.\n- Blended delivery expertise: Combining experiential facilitation with digital practice and nudges is harder to copy than content alone.\n- Cultural contagion: Training that measurably improves presence and reduces reactivity in managers can produce visible culture change, becoming a proof engine in sales.\n\nMarket opportunities\n- Enterprise segments: High-stress, knowledge-intensive sectors (tech, consulting, finance, healthcare, legal), frontline leadership in logistics/retail, and professional services where burnout and attrition are costly.\n- Leadership development and manager enablement: Tie centering and holistic capability to decision quality, feedback, and conflict navigation.\n- Corporate wellness and benefits: Partner with CHROs and benefits leaders seeking “human sustainability” outcomes beyond mindfulness apps.\n- Healthcare and education: Clinicians and educators need embodied resilience and emotional regulation; hospital systems and school districts have budget lines for this.\n- Public sector and defense: High-reliability teams (emergency services, military) require somatic regulation and emotional composure.\n- Partnerships and channels: EAPs, benefits brokers, wellness platforms (e.g., Virgin Pulse, Limeade), HRIS/LMS ecosystems, wearables (Oura, Whoop), and coaching marketplaces.\n\nBusiness model insights\n- Product ladder\n  - Entry: Free assessments, short challenges, webinars; manager toolkits.\n  - Core: Cohort-based programs (8–12 weeks), enterprise subscriptions for ongoing practice, manager certifications.\n  -",
+      "reasoningTokens": 1344,
+      "tokens": {
+        "input_tokens": 437,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1973,
+        "output_tokens_details": {
+          "reasoning_tokens": 1344
+        },
+        "total_tokens": 2410
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is an implementation playbook that turns the holistic model (body, emotion, intellect, spirit; with centering as the core capability) into concrete steps, processes, tools, and routines you can execute immediately and scale over time.\n\nQuick start (begin today)\n1) Do a 60-second Center:\n- Posture: feet grounded, lengthen spine, soften jaw/shoulders.\n- Breath: 6 slow breaths (in 4 sec, out 6 sec).\n- Attention: name your dominant emotion (“I notice anxiety is here”), feel where it sits in the body, then set a 1-sentence intention aligned to your values (e.g., “Be clear and kind.”).\n\n2) Run a BEIS micro-check 3×/day (2 minutes):\n- Body: any tension/hunger/fatigue? One action (water, stretch, 10 squats).\n- Emotion: label it precisely (use an emotion wheel). One action (share, breathe, write 1 line).\n- Intellect: what’s the single next action? Write it and do it or schedule it.\n- Spirit: does this align with my values/purpose? If not, adjust one thing.\n\n3) Protect two anchors on your calendar:\n- 25-minute focus sprint (single task; phone on airplane mode).\n- 10-minute movement walk between meetings.\n\n4) End-of-day integrity check (5 minutes):\n- What energized/drained me? Where did I act from center? One improvement tomorrow.\n\n5) Before any high-stakes interaction:\n- 3-minute Center (protocol below), clarify desired outcome, choose one virtue to embody (e.g., courage, compassion), and define your first sentence.\n\nCore concepts to operationalize\n- Domains: Body (physiology), Emotion (affect), Intellect (cognition), Spirit (meaning/values). Spirit integrates and orients the other three.\n- Centering: A rapid practice that aligns body-emotion-intellect to act from values under pressure.\n- Learning modes to embed: conceptual (models),",
+      "reasoningTokens": 1536,
+      "tokens": {
+        "input_tokens": 433,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1960,
+        "output_tokens_details": {
+          "reasoning_tokens": 1536
+        },
+        "total_tokens": 2393
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a synthesis aimed at transformational insight, with long-term implications, hidden patterns, paradigm shifts, and high-leverage moves you can act on.\n\nCore synthesis\n- Three domains act as an integrated system: body/soma (physiology), emotion/affect (felt meaning), and intellect/cognition (sense-making). “Spirit” functions as the integrative axis of purpose and coherence.\n- “Center” is not a mood; it’s an emergent state of coherence across domains. In complexity terms, it’s an attractor state that stabilizes attention, widens perception, and unlocks creative energy.\n- Sustained high performance is a byproduct of coherence, not of effort alone. Optimizing one domain at the expense of others creates hidden costs that later appear as burnout, conflict, or poor judgment.\n\nHidden patterns worth surfacing\n- Narrow-cognition bias: Many systems reward analysis while penalizing feeling and embodiment. This creates brittle intelligence—smart but unwise.\n- Contagion of dysregulation: Uncentered states spread through teams and families (emotion is social). One regulated person can shift a room; one dysregulated leader can tank a culture.\n- Fragmentation tax: When domains disagree (e.g., body is exhausted, emotions are anxious, intellect demands output), the system spends energy managing internal conflict instead of solving problems.\n- Goodhart’s trap: Over-optimizing for short-term metrics (hours, outputs) erodes long-term capacity (health, trust, creativity). The more you fixate on a proxy, the more you distort the system.\n- Bypass risks: “Spiritual” or “intellectual” bypass uses ideas or ideals to avoid emotion and somatic truth. Looks like clarity, behaves like fragility.\n\nParadigm shifts to adopt\n- From time management to state management: Your state drives your throughput, quality, and relationships.\n- From individual heroics to collective nervous system: Teams regulate or dysregulate together; design for co-regulation.\n- From motivation hacks to energy stewardship: Guard inputs (sleep, light, movement), reduce drains (context switching), build recovery.\n- From “burnout is weakness” to “burnout is a system signal”: Treat it as data about misalignment, not a personal defect.\n- From content learning to practice learning: Lasting change comes from embodied micro-practices repeated at transitions, not from sporadic insight.\n\nStrategic leverage points (small interventions, outsized effects)\n- Transitions hygiene: Insert 60–120-second centering rituals at every context switch (before meetings, after deep work, pre-sleep). Use breath cadence (e.g., 4-6 breaths/min), three-point somatic scan (feet, hips, jaw), and a one-line intention.\n- Emotional granularity: Twice daily, label your affect with specificity (not “stressed” but “overwhelmed + uncertain”). This recruits the prefrontal cortex and lowers amygdala reactivity.\n- Somatic “green lights”: Design environmental cues for safety and presence (natural light, plants, noise floors under 50 dB, standing options, walking meetings). Physiology is the fastest lever.\n- Meeting OS upgrade: 90-minute cap, 5-minute open-center, explicit decision type (inform, consult, decide), end with commitments. Net effect: fewer meetings, better decisions.\n- Recovery architecture: Protect",
+      "reasoningTokens": 1280,
+      "tokens": {
+        "input_tokens": 437,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1976,
+        "output_tokens_details": {
+          "reasoning_tokens": 1280
+        },
+        "total_tokens": 2413
+      }
+    }
+  ],
+  "cost": 0.08126125,
+  "reasoningTokens": 5120
+}

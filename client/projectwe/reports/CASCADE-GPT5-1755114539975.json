@@ -1,0 +1,34 @@
+{
+  "document": "A8 Customer Quotes.pdf",
+  "processedAt": "2025-08-13T19:48:59.975Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses",
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5-nano",
+      "success": false
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5-mini",
+      "success": true,
+      "content": "Here are strategic insights and recommended actions based on the customer quotes you shared.\n\nKey themes (what customers value)\n- Transformational impact: Multiple participants call the experience “li...",
+      "reasoningTokens": 320,
+      "time": 16293
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are the deepest, evidence-backed insights these quotes reveal, plus what they imply for positioning, program design, and measurable outcomes.\n\nWhat’s uniquely valuable about Activ8\n- Identity-lev...",
+      "reasoningTokens": 1024,
+      "time": 27491
+    }
+  ],
+  "totalCost": 0.023033750000000002,
+  "summary": {
+    "successful": 2,
+    "totalReasoningTokens": 1344
+  }
+}

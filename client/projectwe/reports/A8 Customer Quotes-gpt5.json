@@ -1,0 +1,83 @@
+{
+  "document": "A8 Customer Quotes.pdf",
+  "processedAt": "2025-08-13T21:44:26.790Z",
+  "tenant": "WE_PROJECTS",
+  "processor": "gpt5-cascade-v1-responses-fixed",
+  "layersCompleted": 4,
+  "results": [
+    {
+      "layer": "FOUNDATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are the key facts, metrics, entities, and insights extracted and organized from the provided Activ8 customer quotes.\n\nOverview\n- Document type: Customer testimonials for Activ8 (leadership and personal development programs)\n- Primary facilitator mentioned: Erik (leadership speaker/coach)\n- Additional team members: Implied “the 3 of you” and a leader named David who advocated for attendance\n- Delivery format inferred: 2-day intensive sessions plus ongoing coaching/engagement\n\nStakeholders and Entities\n- Organization: Activ8\n- Facilitators/Influencers:\n  - Erik (leadership speaker/coach)\n  - David (internal leader who pushed team to attend)\n  - Activ8 team (three facilitators referenced)\n- Clients and Roles:\n  - Senior Executive, Global Med Tech Company\n  - Dane DeSantis\n  - Jon Radabaugh – 2nd generation business owner\n  - John Harrison\n  - Kris Wyrobek – President, 2nd generation business owner\n  - CFO – Public Company ($5M–$1B; context unspecified)\n  - Todd (client; no last name provided)\n- Industries/Segments:\n  - Global medical technology\n  - Public companies (revenue/cap/size range mentioned: $5M–$1B; ambiguous)\n  - Family/privately held businesses (2nd-generation owners)\n\nQuantitative Metrics and Timeframes\n- “Best leadership speaker… in 24 years” (experience-based benchmark)\n- Decision made within 1 day after 2 years of delay\n- “2 days was life changing” (program duration and impact)\n- “Focus/awareness at home is 100% better” (self-reported improvement)\n-",
+      "reasoningTokens": 1600,
+      "tokens": {
+        "input_tokens": 701,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1958,
+        "output_tokens_details": {
+          "reasoning_tokens": 1600
+        },
+        "total_tokens": 2659
+      }
+    },
+    {
+      "layer": "STRATEGIC",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here are the strategic patterns and business implications evident in the quotes, organized by the areas you requested.\n\nStrategic themes\n- Whole-person transformation as a business lever: Participants tie outcomes to both work and home, creating durable behavior change that improves leadership, relationships, and focus.\n- Decision velocity and clarity: Multiple references to making major decisions quickly and distinguishing fear from data. This is a high-ROI, executive-relevant outcome.\n- Elevation from tactical to strategic: Explicit shift in identity and behavior (e.g., “tactical CFO” to “strategic CFO”), signaling capability building at the senior-leader level.\n- Experiential intensity drives stickiness: Immersive, fear-facing elements (e.g., heights) catalyze breakthroughs that “land” common-sense ideas in a memorable way.\n- Sponsor-led adoption and land-and-expand: Internal champions push teams to attend; participants want to bring it to others, indicating a referral and expansion flywheel.\n- Speed to impact: “Two days was life changing,” and “decision within a day” set expectations for fast, tangible outcomes vs. slow, incremental training.\n\nCompetitive advantages\n- Delivery that makes “common sense” actionable: Differentiation is not the content itself, but packaging, facilitation, and experiential design that changes behavior.\n- Credibility with senior leaders: Testimonials span presidents,",
+      "reasoningTokens": 1664,
+      "tokens": {
+        "input_tokens": 700,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1943,
+        "output_tokens_details": {
+          "reasoning_tokens": 1664
+        },
+        "total_tokens": 2643
+      }
+    },
+    {
+      "layer": "IMPLEMENTATION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Below is an Activ8-inspired, field-ready playbook you can deploy to achieve the outcomes reflected in the quotes: faster, clearer decisions; fear-awareness; shift from tactical to strategic leadership; improved relationships at work and home; and durable behavior change.\n\nProgram outcomes you’re targeting\n- Clarity: “what’s true for me” and values-based priorities.\n- Decision velocity: same-day decisions that used to take months/years.\n- Fear awareness: separating fear from facts to act decisively.\n- Strategic shift: move leaders (e.g., CFOs) from tactical to strategic impact.\n- Relationships and presence: better conversations at home and work.\n- Sustained practice: tools and cadences that stick.\n\n90-day implementation roadmap\nWeek 0–2: Baseline and setup\n- Select a cohort (10–25 leaders), name an executive sponsor, and appoint 1–2 internal champions.\n- Run a baseline survey and time audit:\n  - Decision Lead-Time (avg days from decision defined to decision made)\n  - % Time spent Strategic vs Tactical (self-report + calendar analysis)\n  - Relationship Presence Index (self + partner/peer rating, simple 1–10)\n  - Fear vs Data Insight Score (self-report: confidence identifying fear vs facts)\n- Block calendars for a 2-day immersive session (or 4 x 1/2-days virtual).\n- Form accountability pairs (“buddies”).\n\nWeek 3–4: 2-day immersive (or distributed) experience\n- Day 1: Clarity + Fear-to-Data + Decision Acceleration + Experiential Challenge.\n- Day 2: Strategic Shift (role-based tracks), Courageous Conversations, 40-day Relationship Sprint, Measurement plan.\n\nWeek 5–12: Integration sprints\n- Weekly 60-minute cohort call, plus buddy check-ins.\n- 15-minute daily practice (Awareness–Action loop).\n- Execute 2–3 strategic experiments per leader.\n- Measure and report weekly on the scorecard.\n\nGovernance/rituals\n- Executive sponsor joins kickoff and 30/60/90 reviews.\n- Confidentiality norms: what’s shared in cohort stays in cohort.\n- Publish a biweekly progress note (wins, blockers, next sprint).\n\nCore processes and step-by-step guides\n\n1) Clarity process: “What’s true for me?”\n- Step 1: Values elicitation (card sort or list of 40 values; select top 5; define behaviors that prove each value weekly).\n- Step 2: Roles and priorities (list key roles: self, partner, parent, leader; define 1 outcome per role for next 90 days).\n- Step 3: Stop-Doing list (identify 3",
+      "reasoningTokens": 1408,
+      "tokens": {
+        "input_tokens": 696,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1969,
+        "output_tokens_details": {
+          "reasoning_tokens": 1408
+        },
+        "total_tokens": 2665
+      }
+    },
+    {
+      "layer": "EVOLUTION",
+      "model": "gpt-5",
+      "success": true,
+      "content": "Here’s a synthesis of transformational insights from the Activ8 customer quotes, with long-term implications, hidden patterns, paradigm shifts, and strategic leverage points you can act on.\n\nWhat the quotes reveal about Activ8’s unique value\n- Identity-level change, not just skill gains: Participants report becoming better spouses, parents, and leaders. This is whole-person transformation that transfers across life domains.\n- Time compression: Major decisions made in a day after two years of hesitation; life changes catalyzed in a two-day window.\n- Fear-to-Data transmutation: You surface the fear that blocks action, separate it from facts, and enable clear, decisive choices.\n- Strategic elevation: You move clients from tactical operators to strategic leaders (explicitly cited by a public-company CFO).\n- Experiential intensity with meaning: Conquering fear (e.g., heights) is a vehicle for finding center, truth, and action—not a stunt.\n- Portable coaching: Clients immediately use your tools to coach others (e.g., a parent coaching a child’s school conversation). Skills cascade.\n- “Common sense, packaged right”: Your differentiation is in pedagogy, sequencing, and delivery that finally makes practical truths usable.\n\nHidden patterns and signals\n- Strong presence in family enterprises: “2nd generation business owner” appears multiple times. These leaders face identity, legacy, and role-transition issues your method addresses.\n- Decision latency is the real cost: Multiple quotes highlight long delays resolved quickly. Your product shrinks “time to clarity” and “time to action.”\n- Two-day intensives + 30–40 day horizon: The 2-day spike is consistently transformative, then a 30–40 day change window is referenced. This is a natural program cadence to formalize.\n- Whole-life ROI is noticed at home first: Spouses observe rapid, visible change. Home alignment is a leading indicator of sustained workplace gains.\n- Language of “truth,” “center,” “awareness”: Clients resonate with inner alignment, not just performance metrics. This gives you permission to work beyond corporate skill training.\n- Erik’s personal brand matters: “Best leadership speaker in 24 years” suggests a concentration risk but also a lighthouse asset.\n\nParadigm shifts implied\n- From leadership training to life systems engineering: The work integrates identity, emotion, and decision mechanics—beyond competency checklists.\n- From knowledge to agency: You convert “I already knew this” into",
+      "reasoningTokens": 1472,
+      "tokens": {
+        "input_tokens": 700,
+        "input_tokens_details": {
+          "cached_tokens": 0
+        },
+        "output_tokens": 1967,
+        "output_tokens_details": {
+          "reasoning_tokens": 1472
+        },
+        "total_tokens": 2667
+      }
+    }
+  ],
+  "cost": 0.08186625,
+  "reasoningTokens": 6144
+}
