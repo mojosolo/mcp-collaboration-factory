@@ -1,0 +1,213 @@
+# MCP Collaboration Configuration
+# This file documents the configuration options for setting up MCP collaboration
+# between Claude Code (Opus) and OpenAI Codex (GPT-5)
+
+# MCP Server Configuration Options
+mcp_servers:
+  # Option 1: Direct Codex MCP Mode (Recommended)
+  codex_direct:
+    name: "codex"
+    description: "Direct Codex CLI MCP server"
+    command: "codex"
+    args: ["-m", "gpt-5", "--model_reasoning_effort=high", "mcp"]
+    env_vars: {}
+    working_dir: "."
+    
+  # Option 2: Using codex-mcp Package
+  codex_mcp_package:
+    name: "codex-data"
+    description: "Codex MCP server using official package"
+    command: "npx"
+    args: ["@codex-data/codex-mcp", "claude"]
+    env_vars:
+      CODEX_API_KEY: "${CODEX_API_KEY}"
+    working_dir: "."
+    
+  # Option 3: Using codex-as-mcp
+  codex_as_mcp:
+    name: "codex-as-mcp"
+    description: "Codex MCP server using codex-as-mcp package"
+    command: "uvx"
+    args: ["codex-as-mcp@latest"]
+    env_vars: {}
+    working_dir: "."
+
+# Claude CLI Configuration
+claude_config:
+  mcp_tools:
+    - name: "codex"
+      server: "codex_direct"
+      scope: "user"
+      description: "OpenAI Codex GPT-5 for code review and execution"
+  
+  # Alternative configurations
+  alternatives:
+    - name: "codex-data"
+      server: "codex_mcp_package"
+      scope: "user"
+      description: "Codex MCP server using official package"
+    
+    - name: "codex-as-mcp"
+      server: "codex_as_mcp"
+      scope: "user"
+      description: "Codex MCP server using codex-as-mcp package"
+
+# Codex CLI Configuration
+codex_config:
+  models:
+    - name: "gpt-5"
+      description: "GPT-5 with high reasoning effort"
+      reasoning_effort: "high"
+      
+    - name: "gpt-4o3"
+      description: "GPT-4 Omni 3 for general tasks"
+      reasoning_effort: "medium"
+      
+    - name: "o3"
+      description: "Claude 3.5 Sonnet for Claude models"
+      reasoning_effort: "high"
+  
+  # Default settings
+  default_model: "gpt-5"
+  default_reasoning_effort: "high"
+  mcp_mode: true
+
+# Collaboration Workflow Templates
+workflows:
+  # Basic collaboration cycle
+  basic_cycle:
+    steps:
+      - name: "Claude Draft"
+        description: "Claude generates initial solution"
+        agent: "claude"
+        role: "creator"
+        
+      - name: "Codex Review"
+        description: "Codex reviews and suggests improvements"
+        agent: "codex"
+        role: "reviewer"
+        mcp_tool: "codex_review"
+        
+      - name: "Claude Integrate"
+        description: "Claude integrates feedback and refines"
+        agent: "claude"
+        role: "integrator"
+        
+      - name: "Codex Validate"
+        description: "Codex validates final result"
+        agent: "codex"
+        role: "validator"
+        mcp_tool: "codex_execute"
+  
+  # Advanced collaboration patterns
+  advanced_patterns:
+    architecture_review:
+      - "Claude: Design system architecture"
+      - "Codex: Review for scalability and best practices"
+      - "Claude: Refine based on feedback"
+      - "Codex: Validate against industry standards"
+      - "Claude: Finalize with documentation"
+    
+    security_first:
+      - "Claude: Implement core functionality"
+      - "Codex: Security audit and vulnerability assessment"
+      - "Claude: Implement security fixes"
+      - "Codex: Penetration testing simulation"
+      - "Claude: Final security review and hardening"
+    
+    performance_optimization:
+      - "Claude: Baseline implementation"
+      - "Codex: Performance profiling and bottleneck identification"
+      - "Claude: Implement optimizations"
+      - "Codex: Performance testing and validation"
+      - "Claude: Documentation of optimization strategies"
+
+# MCP Tool Functions
+mcp_tools:
+  codex_review:
+    description: "Review code for quality, security, and best practices"
+    parameters:
+      prompt: "string - Review prompt for Codex"
+      work_dir: "string - Working directory for context"
+    returns: "string - Review results and suggestions"
+    
+  codex_execute:
+    description: "Execute code or commands using Codex"
+    parameters:
+      prompt: "string - Execution prompt for Codex"
+      work_dir: "string - Working directory for execution"
+    returns: "string - Execution results and output"
+
+# Environment Variables
+environment:
+  required:
+    - name: "CODEX_API_KEY"
+      description: "OpenAI API key for Codex authentication"
+      source: "https://platform.openai.com/api-keys"
+      
+  optional:
+    - name: "CLAUDE_API_KEY"
+      description: "Anthropic API key for Claude CLI"
+      source: "https://console.anthropic.com/"
+      
+    - name: "NODE_ENV"
+      description: "Node.js environment for MCP packages"
+      default: "development"
+
+# Troubleshooting
+troubleshooting:
+  common_issues:
+    - issue: "MCP connection failed"
+      solution: "Check API keys and CLI authentication"
+      commands:
+        - "claude mcp list"
+        - "codex auth --check"
+        - "claude mcp test codex"
+        
+    - issue: "Tool not found"
+      solution: "Verify MCP server is running and properly registered"
+      commands:
+        - "claude mcp list"
+        - "claude mcp restart codex"
+        
+    - issue: "Permission errors"
+      solution: "Ensure proper MCP tool permissions"
+      commands:
+        - "claude mcp list"
+        - "claude mcp logs"
+  
+  debug_commands:
+    - "claude mcp list - List all MCP tools"
+    - "claude mcp test <tool> - Test specific MCP tool"
+    - "claude mcp logs - View MCP logs"
+    - "claude mcp restart <tool> - Restart specific MCP tool"
+    - "codex auth --check - Check Codex authentication"
+    - "codex config get api_key - Get Codex API key"
+
+# Success Metrics
+success_metrics:
+  code_quality:
+    - "Reduced technical debt"
+    - "Improved maintainability scores"
+    - "Fewer security vulnerabilities"
+    - "Better performance characteristics"
+    
+  development_efficiency:
+    - "Faster iteration cycles"
+    - "Reduced debugging time"
+    - "Better documentation quality"
+    - "Improved team knowledge sharing"
+    
+  collaboration_effectiveness:
+    - "Clearer decision-making processes"
+    - "Better knowledge capture"
+    - "Reduced rework"
+    - "Improved learning outcomes"
+
+# Notes
+notes:
+  - "This configuration follows ONE® system principles for human-centered AI collaboration"
+  - "Multiple MCP server options are provided for flexibility and fallback"
+  - "Workflow templates can be customized based on specific project needs"
+  - "Success metrics help measure the effectiveness of the collaboration setup"
+  - "Troubleshooting section provides quick solutions to common issues"
