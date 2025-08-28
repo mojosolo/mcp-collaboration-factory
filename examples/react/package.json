@@ -1,0 +1,58 @@
+{
+  "name": "mcp-datatable-demo",
+  "version": "1.0.0",
+  "description": "MCP Collaboration Demo - DataTable Component with Accessibility & Testing",
+  "main": "App.tsx",
+  "scripts": {
+    "test": "vitest --environment jsdom",
+    "test:watch": "vitest --environment jsdom --watch",
+    "test:coverage": "vitest --environment jsdom --coverage",
+    "test:jest": "jest examples/react/DataTable.test.tsx"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "accessibility",
+    "datatable",
+    "mcp",
+    "claude",
+    "codex",
+    "testing",
+    "rtl"
+  ],
+  "author": "Claude + Codex Collaboration",
+  "license": "MIT",
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.1.4",
+    "@testing-library/react": "^14.1.2",
+    "@testing-library/user-event": "^14.5.1",
+    "@types/jest": "^29.5.8",
+    "@types/react": "^18.2.38",
+    "@types/react-dom": "^18.2.17",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jsdom": "^23.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.2.2",
+    "vitest": "^0.34.6"
+  },
+  "jest": {
+    "preset": "ts-jest",
+    "testEnvironment": "jsdom",
+    "setupFilesAfterEnv": ["<rootDir>/jest.setup.js"],
+    "moduleNameMapping": {
+      "\\.(css|less|scss|sass)$": "identity-obj-proxy"
+    }
+  },
+  "vitest": {
+    "environment": "jsdom",
+    "setupFiles": ["./vitest.setup.ts"],
+    "css": {
+      "modules": {
+        "classNameStrategy": "non-scoped"
+      }
+    }
+  }
+}
