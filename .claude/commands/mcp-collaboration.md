@@ -78,3 +78,13 @@ claude mcp test codex
 # View logs
 claude mcp logs
 ```
+
+## React Review Prompts
+
+- Draft: "Create an accessible, paginated DataTable in React + TypeScript with sorting, filtering, keyboard navigation (Enter/Space/Arrows/Home/End), and ARIA. Include a minimal `DataTable.css`."
+- Review (a11y): "Use the codex tool to review `examples/react/DataTable.tsx` for WCAG 2.1 and ARIA: header semantics, `aria-sort` (ascending/descending/none), `aria-rowcount`/`aria-rowindex`, focus order, Enter/Space activation for rows, and appropriate `aria-live` regions for dynamic updates. Suggest a concise patch."
+- Review (perf/TS): "Use the codex tool to assess memoization, stable handler dependencies, refs vs state for DOM access, `useMemo` keys, key props, and tighten `DataRow`/`Column` types. Recommend improvements and potential virtualization approach for large datasets."
+- Improve: "Based on Codex’s review, refactor `DataTable.tsx` to fix a11y/perf issues, add `React.memo` where helpful, and improve types. Return a unified diff only."
+- Validate: "Generate React Testing Library tests to cover: `aria-sort` changes, live region announcements for sort, keyboard navigation across headers/rows, pagination enable/disable states, and filter resets page to 1."
+
+Quick start files are in `examples/react/`: `DataTable.tsx`, `DataTable.css`, `App.tsx`, and `DataTable.test.tsx`.

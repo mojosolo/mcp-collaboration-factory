@@ -1,5 +1,8 @@
 # Multi-Agent MCP Collaboration Demo
 
+[![CI](https://github.com/mojosolo/mcp-collaboration-factory/actions/workflows/ci.yml/badge.svg)](https://github.com/mojosolo/mcp-collaboration-factory/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/mojosolo/mcp-collaboration-factory/branch/main/graph/badge.svg)](https://app.codecov.io/gh/mojosolo/mcp-collaboration-factory)
+
 > **ONE® System Implementation**: Human-centered AI collaboration through Model Context Protocol
 
 ## Overview

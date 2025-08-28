@@ -1,0 +1,51 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: |
+          npm ci || npm install
+
+      - name: Run tests with coverage (try common runners)
+        run: |
+          set -e
+          # Prefer package script with coverage if present
+          if npm run -s test:coverage; then
+            echo "Ran npm run test:coverage"
+          # Fallback to npm test with coverage arg (Jest)
+          elif npm test --silent -- --coverage; then
+            echo "Ran npm test -- --coverage"
+          # Try Vitest directly
+          elif npx -y vitest run --coverage; then
+            echo "Ran vitest with coverage"
+          # Try Jest directly
+          else
+            npx -y jest --coverage
+            echo "Ran jest with coverage"
+          fi
+
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v4
+        with:
+          files: |
+            coverage/lcov.info
+            coverage/**/lcov.info
+          flags: unit
+          fail_ci_if_error: false
+        env:
+          CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
