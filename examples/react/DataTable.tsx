@@ -14,7 +14,7 @@
  * - Error boundaries and loading states
  */
 
-import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import './DataTable.css';
 
 // TypeScript interfaces for type safety
@@ -68,6 +68,11 @@ export const DataTable: React.FC<DataTableProps> = ({
   const [filterText, setFilterText] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
   const [itemsPerPage] = useState(10);
+  const [sortAnnouncement, setSortAnnouncement] = useState('');
+  
+  // Refs for accessibility
+  const tableRef = useRef<HTMLTableElement>(null);
+  const sortAnnouncementRef = useRef<HTMLDivElement>(null);
 
   // Memoized filtered and sorted data
   const processedData = useMemo(() => {
@@ -98,14 +103,18 @@ export const DataTable: React.FC<DataTableProps> = ({
     return processedData.slice(startIndex, startIndex + itemsPerPage);
   }, [processedData, currentPage, itemsPerPage]);
 
-  // Event handlers
+  // Memoized event handlers for performance
   const handleSort = useCallback((key: string) => {
     const newDirection = sortState?.key === key && sortState.direction === 'asc' ? 'desc' : 'asc';
     const newSortState = { key, direction: newDirection };
     
     setSortState(newSortState);
     onSort?.(key, newDirection);
-  }, [sortState, onSort]);
+    
+    // Announce sort change for screen readers
+    const column = columns.find(col => col.key === key);
+    setSortAnnouncement(`Table sorted by ${column?.label} ${newDirection}ending`);
+  }, [sortState, onSort, columns]);
 
   const handleRowClick = useCallback((row: DataRow) => {
     onRowClick?.(row);
@@ -118,6 +127,40 @@ export const DataTable: React.FC<DataTableProps> = ({
 
   const handlePageChange = useCallback((page: number) => {
     setCurrentPage(page);
+  }, []);
+  
+  // Keyboard navigation handler
+  const handleKeyDown = useCallback((e: React.KeyboardEvent) => {
+    if (!tableRef.current) return;
+    
+    const focusableElements = tableRef.current.querySelectorAll(
+      'button, [tabindex="0"]'
+    ) as NodeListOf<HTMLElement>;
+    
+    const currentIndex = Array.from(focusableElements).indexOf(e.target as HTMLElement);
+    
+    switch (e.key) {
+      case 'ArrowDown':
+        e.preventDefault();
+        if (currentIndex < focusableElements.length - 1) {
+          focusableElements[currentIndex + 1].focus();
+        }
+        break;
+      case 'ArrowUp':
+        e.preventDefault();
+        if (currentIndex > 0) {
+          focusableElements[currentIndex - 1].focus();
+        }
+        break;
+      case 'Home':
+        e.preventDefault();
+        focusableElements[0]?.focus();
+        break;
+      case 'End':
+        e.preventDefault();
+        focusableElements[focusableElements.length - 1]?.focus();
+        break;
+    }
   }, []);
 
   // Accessibility: Generate unique IDs for table elements
@@ -158,7 +201,17 @@ export const DataTable: React.FC<DataTableProps> = ({
   }
 
   return (
-    <div className={`data-table-container ${className}`}>
+    <div className={`data-table-container ${className}`} onKeyDown={handleKeyDown}>
+      {/* Live region for sort announcements */}
+      <div
+        ref={sortAnnouncementRef}
+        aria-live="polite"
+        aria-atomic="true"
+        className="sr-only"
+      >
+        {sortAnnouncement}
+      </div>
+      
       {/* Table Header with Title and Controls */}
       <div className="data-table-header">
         {title && (
@@ -187,10 +240,13 @@ export const DataTable: React.FC<DataTableProps> = ({
       {/* Data Table */}
       <div className="data-table-wrapper">
         <table 
+          ref={tableRef}
           className="data-table"
           aria-labelledby={title ? `${tableId}-title` : undefined}
           aria-label={ariaLabel}
           role="table"
+          aria-rowcount={processedData.length + 1}
+          aria-describedby={`${tableId}-summary`}
         >
           <thead>
             <tr>
@@ -203,7 +259,7 @@ export const DataTable: React.FC<DataTableProps> = ({
                   aria-sort={
                     sortState?.key === column.key
                       ? sortState.direction === 'asc' ? 'ascending' : 'descending'
-                      : undefined
+                      : column.sortable ? 'none' : undefined
                   }
                 >
                   <button
@@ -261,6 +317,7 @@ export const DataTable: React.FC<DataTableProps> = ({
                   }}
                   role={onRowClick ? 'button' : undefined}
                   aria-label={onRowClick ? `Click to view details for row ${index + 1}` : undefined}
+                  aria-rowindex={index + 2}
                 >
                   {columns.map((column) => (
                     <td key={column.key} className="table-cell">
@@ -304,7 +361,12 @@ export const DataTable: React.FC<DataTableProps> = ({
       )}
 
       {/* Results Summary */}
-      <div className="data-table-summary" role="status" aria-live="polite">
+      <div 
+        id={`${tableId}-summary`}
+        className="data-table-summary" 
+        role="status" 
+        aria-live="polite"
+      >
         Showing {paginatedData.length} of {processedData.length} results
         {filterText && ` filtered by "${filterText}"`}
       </div>
